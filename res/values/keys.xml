@@ -3,4 +3,5 @@
     <string name="twitter_consumer_key">INSERT_TWITTER_CONSUMER_KEY_HERE</string>
     <string name="twitter_consumer_secret">INSERT_TWITTER_CONSUMER_SECRET_HERE</string>
     <string name="youtube_api_key">INSERT_YOUTUBE_API_KEY_HERE</string>
+    <string name="ca_translink_api_key">INSERT_TRANSLINK_API_KEY_HERE</string>
 </resources>
