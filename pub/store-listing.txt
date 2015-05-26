@@ -1,11 +1,12 @@
 Title: Vancouver TransLink Bus - Mon…
 ----------
 Short description:
-Vancouver TransLink buses for MonTransit BETA.
-Schedule. Alerts. News.
+Vancouver TransLink buses for MonTransit BETA
+Schedule. Real-Time. Alerts. News
 ----------
 What's new in this version?:
 Schedule from April 13, 2015 to June 21, 2015.
+Real-Time from api.translink.ca.
 News from www.translink.ca.
 Tweets from @TransLink and @TransLinkMedia.
 
@@ -14,7 +15,7 @@ BETA: Thanks for your patience while the last features are being added and the l
 Full description:
 This app adds Vancouver TransLink buses information to MonTransit BETA.
 
-This app provides the buses schedule and news from www.translink.ca, YouTube and @TransLink and @TransLinkMedia on Twitter.
+This app provides the buses schedule (offline and real-time) and news from www.translink.ca, YouTube and @TransLink and @TransLinkMedia on Twitter.
 
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 
@@ -32,10 +33,10 @@ http://www.translink.ca/en/Schedules-and-Maps/Developer-Resources.aspx
 This application is free and open-source:
 https://github.com/mtransitapps/ca-vancouver-translink-bus-android
 
-This app is not related with TransLink (South Coast British Columbia Transportation Authority) 
+This app is not related with TransLink (South Coast British Columbia Transportation Authority) and CMBC (Coast Mountain Bus Company).
 
 Permissions:
-- Other: required to read news from www.translink.ca, YouTube and Twitter
+- Other: required to read real-time stop estimates from Translink Real-Time Transit Information Open API (api.translink.ca) and to read news from www.translink.ca, YouTube and Twitter
 ----------
 Application type: Applications
 ----------
