@@ -33,8 +33,6 @@ This application is free and open-source:
 https://github.com/mtransitapps/ca-vancouver-translink-bus-android
 
 This app is not related with TransLink (South Coast British Columbia Transportation Authority) 
-and BCRTC (British Columbia Rapid Transit Company).
- Coast Mountain Bus Company,
 
 Permissions:
 - Other: required to read news from www.translink.ca, YouTube and Twitter
