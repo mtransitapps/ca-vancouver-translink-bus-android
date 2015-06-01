@@ -1,9 +1,8 @@
 Title: Vancouver TransLink Bus - Mon…
-// Title: TransLink Bus - MonTransit
 ----------
 Short description:
 Vancouver TransLink buses for MonTransit.
-Schedule. Real-Time. Alerts. News
+Schedule. Real-Time. Alerts. News.
 ----------
 What's new in this version?:
 Schedule from April 13, 2015 to June 21, 2015.
