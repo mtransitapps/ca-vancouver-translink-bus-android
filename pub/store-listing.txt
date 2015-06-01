@@ -32,7 +32,7 @@ https://github.com/mtransitapps/ca-vancouver-translink-bus-android
 This app is not related with TransLink (South Coast British Columbia Transportation Authority) and CMBC (Coast Mountain Bus Company).
 
 Permissions:
-- Other: required to read real-time stop estimates from Translink Real-Time Transit Information Open API (api.translink.ca) and to read news from www.translink.ca, YouTube and Twitter
+- Other: required to read real-time stop estimates from api.translink.ca and to read news from www.translink.ca, YouTube and Twitter
 ----------
 Application type: Applications
 ----------
