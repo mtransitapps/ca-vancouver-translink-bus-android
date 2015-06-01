@@ -1,7 +1,8 @@
 Title: Vancouver TransLink Bus - Mon…
+// Title: TransLink Bus - MonTransit
 ----------
 Short description:
-Vancouver TransLink buses for MonTransit BETA
+Vancouver TransLink buses for MonTransit.
 Schedule. Real-Time. Alerts. News
 ----------
 What's new in this version?:
@@ -9,21 +10,17 @@ Schedule from April 13, 2015 to June 21, 2015.
 Real-Time from api.translink.ca.
 News from www.translink.ca.
 Tweets from @TransLink and @TransLinkMedia.
-
-BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 ----------
 Full description:
-This app adds Vancouver TransLink buses information to MonTransit BETA.
+This app adds Vancouver TransLink buses information to MonTransit.
 
 This app provides the buses schedule (offline and real-time) and news from www.translink.ca, YouTube and @TransLink and @TransLinkMedia on Twitter.
 
-BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
-
 TransLink buses serves Vancouver in British Columbia, Canada.
 
-Once this application is installed, the MonTransit BETA app will display buses information (schedule...).
+Once this application is installed, the MonTransit app will display buses information (schedule...).
 
-This application only has a temporary icon and no screen: download the MonTransit BETA app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+This application only has a temporary icon and no screen: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
 
 You can install this application on the SD card but it is not recommended.
 
