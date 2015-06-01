@@ -6,7 +6,6 @@ Schedule. Real-Time. Alerts. News.
 ----------
 What's new in this version?:
 Schedule from April 13, 2015 to June 21, 2015.
-Real-Time from api.translink.ca.
 News from www.translink.ca.
 Tweets from @TransLink and @TransLinkMedia.
 ----------
