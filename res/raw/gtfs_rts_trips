@@ -58,8 +58,8 @@
 8400,0,'Vcc-Clark Stn',84
 9600,0,'Guildford Exch',96
 9601,0,'Newton Exch',96
-9700,0,'Coq Stn - B-Line',97
-9701,0,'Lougheed Stn - B-Line',97
+9700,0,'Coq Stn',97
+9701,0,'Lougheed Stn',97
 9901,0,'Alma B-Line / Ubc B-Line',99
 9900,0,'Boundary B-Line / Comm''l-Bdway Stn',99
 10000,0,'22nd St Stn',100
@@ -160,11 +160,11 @@
 24601,0,'Highland / Vancouver / Marine & Capilano / Marine & Garden',246
 24700,0,'Grouse Mtn / Upper Capilano',247
 24701,0,'Vancouver',247
-25001,0,'Dundarave 25th & Marine / Park Royal - Only / School Special / Horseshoe Bay / West Bay',250
+25001,0,'Dundarave 25th & Marine / Horseshoe Bay / West Bay / School Special / Park Royal - Only',250
 25000,0,'Park Royal / Vancouver / Special',250
 25100,0,'Park Royal',251
 25101,0,'Queens',251
-25201,0,'Inglewood / Van Secondary',252
+25201,0,'Inglewood',252
 25200,0,'Park Royal',252
 25301,0,'Caulfeild',253
 25300,0,'Park Royal - Only / Vancouver',253
@@ -174,10 +174,8 @@
 25501,0,'Dundarave - 25th & Marine / Special',255
 25600,0,'21st Whitby Estates',256
 25601,0,'Park Royal / Spuraway-',256
-25701,0,'Express - Horseshoe Bay / Express Horshoe Bay & Lions Bay / Park Royal - Express',257
+25701,0,'Express - Horseshoe Bay / Park Royal - Express / Express Horshoe Bay & Lions Bay',257
 25700,0,'Express - Vancouver / Park Royal - Express / Special',257
-25801,0,'Ubc - Express / Ubc Express',258
-25800,0,'West Vancouver - Express',258
 25900,0,'Horseshoe Bay / Park Royal',259
 25901,0,'Lions Bay',259
 30101,0,'Brighouse Stn',301
