@@ -169,7 +169,6 @@
 50220,'50220','Granville St / Davie St',49.277584,-123.125372
 50222,'50222','Granville St / Nelson St',49.279628,-123.122294
 50227,'50227','E Cordova St / Carrall St',49.282323,-123.103816
-50228,'50228','E Cordova St / Main St',49.282229,-123.099988
 50229,'50229','Main St / E Hastings St',49.28081,-123.099812
 50232,'50232','Main St / National Ave',49.274506,-123.100141
 50233,'50233','Main St / Terminal Ave',49.273072,-123.100189
@@ -727,7 +726,6 @@
 50875,'50875','W Broadway / Cambie St',49.263107,-123.114283
 50878,'50878','E Broadway / Ontario St',49.262911,-123.104471
 50879,'50879','E Broadway / Main St',49.262831,-123.101345
-50880,'50880','E Broadway / Kingsway',49.262778,-123.099816
 50881,'50881','E Broadway / Main St',49.26302,-123.101629
 50883,'50883','E Broadway / Saint Catherines St',49.262351,-123.084744
 50884,'50884','E Broadway / Gln Dr',49.262322,-123.080869
@@ -2655,7 +2653,7 @@
 53164,'53164','Guildford Way / Johnson St',49.285093,-122.80093
 53165,'53165','Guildford Way / Pacific St',49.285106,-122.797418
 53168,'53168','Pinetree Way / Gln Dr',49.28224,-122.793393
-53169,'53169','Pinetree Way / Anson Ave',49.277993,-122.795914
+53169,'53169','Pinetree Way / Lincoln Ave',49.27883,-122.795121
 53170,'53170','Coquitlam Central Stn Bay 7',49.274922,-122.799038
 53171,'53171','Barnet Hwy / Lansdowne Dr',49.277978,-122.80971
 53172,'53172','Barnet Hwy / Falcon Dr',49.278021,-122.819531
@@ -5535,7 +5533,7 @@
 56564,'56564','No. 3 Rd / Cambie Rd',49.184358,-123.136738
 56566,'56566','No. 3 Rd / Leslie Rd',49.179912,-123.136814
 56567,'56567','No. 3 Rd / Alderbridge Way',49.177078,-123.136801
-56570,'56570','No. 3 Rd / Granville Ave',49.162948,-123.136758
+56570,'56570','No. 3 Rd / Granville Ave',49.163202,-123.136717
 56573,'56573','Blundell Rd / No. 3 Rd',49.155668,-123.137059
 56574,'56574','Blundell Rd / Minoru Blvd',49.155693,-123.140753
 56575,'56575','Blundell Rd / Moffatt Rd',49.155691,-123.144149
@@ -5723,13 +5721,13 @@
 56768,'56768','Granville Ave / Lynas Ln',49.162616,-123.164344
 56769,'56769','Granville Ave / Ledway Rd',49.162604,-123.161532
 56770,'56770','Granville Ave / No. 2 Rd',49.162605,-123.15846
-56771,'56771','Granville Ave / Azure Gt',49.162604,-123.153088
+56771,'56771','Granville Ave / Azure Gt',49.16262,-123.152741
 56772,'56772','Granville Ave / Livingstone Gt',49.162604,-123.150328
 56773,'56773','Granville Ave / Gilbert Rd',49.162596,-123.147364
 56774,'56774','Granville Ave / Moffatt Rd',49.162591,-123.143224
 56775,'56775','Granville Ave / Minoru Blvd',49.162593,-123.139827
 56776,'56776','Granville Ave / Minoru Blvd',49.162881,-123.140641
-56777,'56777','Granville Ave / Moffatt Rd',49.162892,-123.143063
+56777,'56777','Granville Ave / Moffatt Rd',49.162854,-123.143508
 56778,'56778','Granville Ave / Gilbert Rd',49.162876,-123.148178
 56779,'56779','Granville Ave / Azure Gt',49.162867,-123.15355
 56780,'56780','Granville Ave / No. 2 Rd',49.162885,-123.159288
@@ -7823,7 +7821,7 @@
 59914,'59914','Pacific Blvd / Cambie St',49.274606,-123.119683
 59916,'59916','Pacific Blvd / Boathouse Mews',49.27421,-123.117633
 59918,'59918','Pacific Blvd / Marinaside Cres',49.274212,-123.114446
-59919,'59919','Abbott St / Pacific Blvd',49.277432,-123.107546
+59919,'59919','Pat Quinn Way / Pacific Blvd',49.277432,-123.107546
 59923,'59923','Keefer Pl / Taylor St',49.279581,-123.106439
 59924,'59924','Quebec St / Keefer St',49.279008,-123.102218
 59925,'59925','Quebec St / Terminal Ave',49.273359,-123.101521
@@ -7857,7 +7855,7 @@
 59988,'59988','24 Ave / 196 St',49.045604,-122.679871
 59990,'59990','Capilano Rd / Fullerton Ave',49.326786,-123.119437
 59991,'59991','Expo Blvd / Abbott St',49.278791,-123.108015
-59992,'59992','Abbott St / Expo Blvd',49.278392,-123.107518
+59992,'59992','Pat Quinn Way / Expo Blvd',49.278392,-123.107518
 59993,'59993','100 Ave / 151 St',49.18428,-122.804248
 59994,'59994','100 Ave / 152 St',49.184285,-122.801518
 59995,'59995','Walker Ave / Imperial St',49.224605,-122.957702
