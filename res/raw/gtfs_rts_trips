@@ -133,7 +133,7 @@
 21400,0,'Blueridge',214
 21401,0,'Phibbs Exch / Vancouver',214
 22700,0,'Lynn Vly Ctr',227
-22701,0,'Lynn Vly Ctr / PhibbsExch',227
+22701,0,'Lynn Vly Ctr / Phibbs Exch',227
 22801,0,'3rd & Moody / Lonsdale Quay',228
 22800,0,'Lynn Vly',228
 22901,0,'Lonsdale Quay',229
@@ -202,7 +202,7 @@
 32601,0,'Surrey Ctrl Stn',326
 32900,0,'Scott & 96 Ave / Surrey Ctrl Stn / Surrey Strl Stn',329
 32901,0,'Scottsdale',329
-33500,0,'GuildfordExch / NewtonExch',335
+33500,0,'Guildford Exch / Newton Exch',335
 33501,0,'Surrey Ctrl Stn',335
 33700,0,'Fraser Hts',337
 33701,0,'Guildford / Surrey Ctrl Stn',337
@@ -250,7 +250,7 @@
 43000,0,'Metrotown Stn',430
 48000,0,'Bridgeport Stn',480
 48001,0,'Ubc',480
-50101,0,'CarvolthExch / Langley Ctr',501
+50101,0,'Carvolth Exch / Langley Ctr',501
 50100,0,'Surrey Ctrl Stn',501
 50200,0,'Brookswood / Langley Ctr',502
 50201,0,'Surrey Ctrl Stn',502
@@ -278,7 +278,7 @@
 60602,1,'W',606
 60801,1,'E',608
 60802,1,'W',608
-60900,0,'South DeltaExch',609
+60900,0,'South Delta Exch',609
 60901,0,'Tsawwassen 1st Nation',609
 62000,0,'Bridgeport Stn',620
 62001,0,'Tsaww. Ferry',620
@@ -337,7 +337,7 @@
 3002800,0,'Coq Stn',30028
 3002801,0,'Pt Moody Stn / Special',30028
 3002901,0,'Coq Stn',30029
-3002900,0,'Parkway Blvd',30029
+3002900,0,'Pkwy Blvd',30029
 3003001,0,'Coq Stn',30030
 3003000,0,'Lafarge Pk',30030
 3003601,0,'Poco South / Poco Stn',30036
