@@ -1175,7 +1175,7 @@
 51395,'51395','Canada Way / Hardwick St',49.252216,-122.989141
 51396,'51396','Canada Way / 4800 Block',49.249929,-122.985898
 51397,'51397','Canada Way / Kincaid St',49.247739,-122.978665
-51398,'51398','Canada Way / Deer Lk Pky',49.245155,-122.974251
+51398,'51398','Canada Way / Deer Lk Pkwy',49.245155,-122.974251
 51399,'51399','Canada Way / Ledger Ave',49.243978,-122.9723
 51400,'51400','Canada Way / Century Pk Way',49.24267,-122.970154
 51401,'51401','Canada Way / Sperling Ave',49.239512,-122.963822
@@ -1509,7 +1509,7 @@
 51752,'51752','Lillooet Rd / 1000 Block',49.315778,-123.023902
 51753,'51753','Purcell Way / Lillooet Rd',49.317471,-123.023477
 51755,'51755','Lillooet Rd / Purcell Way',49.317204,-123.024083
-51756,'51756','Lillooet Rd / Mt Seymour Pky',49.312986,-123.025195
+51756,'51756','Lillooet Rd / Mt Seymour Pkwy',49.312986,-123.025195
 51757,'51757','Mtn Hwy / Fern St',49.311044,-123.032716
 51758,'51758','Mtn Hwy / Charlotte Rd',49.309441,-123.032288
 51759,'51759','Mtn Hwy / Rupert St',49.307703,-123.032055
@@ -1589,15 +1589,15 @@
 51851,'51851','Hastings St / Kensington Ave',49.280234,-122.969232
 51852,'51852','Hastings St / Sperling Ave',49.280264,-122.963874
 51856,'51856','Hastings St / Duthie Ave',49.280277,-122.952555
-51857,'51857','Burnaby Mtn Pky / Burnwood Ave',49.277354,-122.946041
-51858,'51858','Burnaby Mtn Pky / Curtis St',49.275139,-122.941231
+51857,'51857','Burnaby Mtn Pkwy / Burnwood Ave',49.277354,-122.946041
+51858,'51858','Burnaby Mtn Pkwy / Curtis St',49.275139,-122.941231
 51860,'51860','Sfu Transportation Ctr Bay 3',49.28005,-122.918649
 51861,'51861','Sfu Transit Exch Bay 1',49.278518,-122.91294
 51862,'51862','S Campus Rd / Science Rd',49.276557,-122.916031
 51863,'51863','Sfu Transportation Ctr Bay 1',49.279957,-122.920119
 51864,'51864','University Dr W / W Campus Rd',49.281238,-122.928277
-51865,'51865','Burnaby Mtn Pky / Curtis St',49.275447,-122.941479
-51866,'51866','Burnaby Mtn Pky / Burnwood Ave',49.278164,-122.946822
+51865,'51865','Burnaby Mtn Pkwy / Curtis St',49.275447,-122.941479
+51866,'51866','Burnaby Mtn Pkwy / Burnwood Ave',49.278164,-122.946822
 51869,'51869','Hastings / Clf Ave',49.280433,-122.95953
 51871,'51871','Hastings St / Sperling Ave',49.280453,-122.965437
 51872,'51872','Hastings St / Kensington Ave',49.280464,-122.970601
@@ -1632,7 +1632,7 @@
 51919,'51919','Nw Marine Dr / Cecil Grn Pk Rd',49.270517,-123.255442
 51924,'51924','Nw Marine Dr / University Blvd',49.262988,-123.258481
 51925,'51925','Nw Marine Dr / West Mall',49.268769,-123.258526
-51928,'51928','Chancellor Blvd / Western Pky',49.273301,-123.246837
+51928,'51928','Chancellor Blvd / Western Pkwy',49.273301,-123.246837
 51930,'51930','Chancellor Blvd / Hamber Rd',49.272894,-123.237649
 51934,'51934','Nw Marine Dr / Discovery St',49.271904,-123.203022
 51935,'51935','Nw Marine Dr / Belmont Ave',49.274065,-123.205593
@@ -1909,6 +1909,7 @@
 52277,'52277','Government St / Horne St',49.249347,-122.907929
 52278,'52278','Government St / 8700 Block',49.250249,-122.910259
 52280,'52280','Cariboo Rd / Cariboo Pl',49.249632,-122.91436
+52281,'52281','Cariboo Rd / Stormont Ave',49.24547,-122.911484
 52283,'52283','Cariboo Rd / 7100 Block',49.243631,-122.909829
 52284,'52284','Cariboo Rd / 16 Ave',49.238494,-122.907245
 52285,'52285','Cariboo Rd / 7600 Block',49.236699,-122.905974
@@ -2104,7 +2105,7 @@
 52521,'52521','Patterson Ave / Hazelwood Cres',49.239063,-123.013425
 52522,'52522','Patterson Ave / Castlewood Cres',49.240744,-123.013407
 52523,'52523','Patterson Ave / Moscrop St',49.242679,-123.013419
-52524,'52524','Deer Lk Pky / Wayburne Dr',49.241547,-122.997352
+52524,'52524','Deer Lk Pkwy / Wayburne Dr',49.241547,-122.997352
 52525,'52525','Gilpin St / Royal Oak Ave',49.241814,-122.988388
 52526,'52526','Gilpin St / Chapple Cres',49.241778,-122.982309
 52528,'52528','Norland Ave / Canada Way',49.245816,-122.974513
@@ -2145,8 +2146,8 @@
 52572,'52572','Norland Ave / Kincaid St',49.247243,-122.974808
 52575,'52575','Gilpin St / Mahon Ave',49.241891,-122.982126
 52576,'52576','Gilpin St / Gatenby Ave',49.241915,-122.987939
-52577,'52577','Deer Lk Pky / Gdn Grv Dr',49.241534,-122.995717
-52578,'52578','Deer Lk Pky / Wayburne Dr',49.241748,-122.998658
+52577,'52577','Deer Lk Pkwy / Gdn Grv Dr',49.241534,-122.995717
+52578,'52578','Deer Lk Pkwy / Wayburne Dr',49.241748,-122.998658
 52579,'52579','Patterson Ave / Moscrop St',49.242609,-123.013598
 52580,'52580','Patterson Ave / Castlewood Cres',49.240456,-123.013563
 52581,'52581','Patterson Ave / Brandon St',49.238078,-123.013572
@@ -2288,7 +2289,7 @@
 52736,'52736','Metrotown Stn Bay 4',49.225793,-123.002517
 52737,'52737','Willingdon Ave / Kemp St',49.229368,-123.005505
 52738,'52738','Willingdon Ave / Grafton St',49.232392,-123.003237
-52739,'52739','Willingdon Ave / Deer Lk Pky',49.243311,-123.003169
+52739,'52739','Willingdon Ave / Deer Lk Pkwy',49.243311,-123.003169
 52740,'52740','Willingdon Ave / Sanderson Way',49.24763,-123.003889
 52741,'52741','Willingdon Ave / Sardis St',49.233488,-123.003442
 52742,'52742','Gilmore Ave / Hastings St',49.280693,-123.014292
@@ -2325,7 +2326,7 @@
 52779,'52779','Burris St / Leibly Ave',49.230747,-122.962885
 52780,'52780','Burris St / Braemar Ave',49.232779,-122.959214
 52781,'52781','Burris St / Buckingham Ave',49.234122,-122.956741
-52782,'52782','Deer Lk Pky / Canada Way',49.244974,-122.974659
+52782,'52782','Deer Lk Pkwy / Canada Way',49.244974,-122.974659
 52783,'52783','Douglas Rd / Sprott St',49.249667,-122.980822
 52784,'52784','Douglas Rd / Hardwick St',49.251963,-122.98165
 52785,'52785','Douglas Rd / Laurel St',49.253402,-122.981865
@@ -3334,25 +3335,25 @@
 54025,'54025','Queensbury Ave / E 5 St',49.310294,-123.057296
 54026,'54026','Phibbs Exch Bay 4',49.30564,-123.029001
 54028,'54028','Riverside Dr / Old Dollarton Rd',49.308308,-123.014646
-54029,'54029','Mt Seymour Pky / Seymour Blvd',49.31114,-123.020453
-54030,'54030','Mt Seymour Pky / Riverside Dr',49.310835,-123.015427
-54031,'54031','Mt Seymour Pky / Browning Pl',49.312136,-123.00691
-54032,'54032','Mt Seymour Pky / Berkley Rd',49.314141,-123.003532
-54033,'54033','Mt Seymour Pky / Lytton St',49.315396,-123.000619
-54035,'54035','Mt Seymour Pky / Tollcross Rd',49.315644,-122.992728
-54036,'54036','Mt Seymour Pky / Strathaven Dr',49.315556,-122.986432
-54037,'54037','Mt Seymour Pky / Apex Ave',49.315498,-122.979439
-54038,'54038','Mt Seymour Pky / Parkgate Ave',49.315674,-122.973633
-54039,'54039','Mt Seymour Pky / Roche Pt Dr',49.315819,-122.968189
-54040,'54040','Mt Seymour Pky / 3800 Block',49.315874,-122.964418
-54041,'54041','Mt Seymour Pky / 4000 Block',49.315838,-122.960924
-54042,'54042','Fairway Dr / Mt Seymour Pky',49.315265,-122.957412
+54029,'54029','Mt Seymour Pkwy / Seymour Blvd',49.31114,-123.020453
+54030,'54030','Mt Seymour Pkwy / Riverside Dr',49.310835,-123.015427
+54031,'54031','Mt Seymour Pkwy / Browning Pl',49.312136,-123.00691
+54032,'54032','Mt Seymour Pkwy / Berkley Rd',49.314141,-123.003532
+54033,'54033','Mt Seymour Pkwy / Lytton St',49.315396,-123.000619
+54035,'54035','Mt Seymour Pkwy / Tollcross Rd',49.315644,-122.992728
+54036,'54036','Mt Seymour Pkwy / Strathaven Dr',49.315556,-122.986432
+54037,'54037','Mt Seymour Pkwy / Apex Ave',49.315498,-122.979439
+54038,'54038','Mt Seymour Pkwy / Parkgate Ave',49.315674,-122.973633
+54039,'54039','Mt Seymour Pkwy / Roche Pt Dr',49.315819,-122.968189
+54040,'54040','Mt Seymour Pkwy / 3800 Block',49.315874,-122.964418
+54041,'54041','Mt Seymour Pkwy / 4000 Block',49.315838,-122.960924
+54042,'54042','Fairway Dr / Mt Seymour Pkwy',49.315265,-122.957412
 54043,'54043','Fairway Dr / Huntingdon Cres',49.31342,-122.957366
 54044,'54044','Fairway Dr / Caddy Rd',49.31102,-122.957288
 54045,'54045','Dollar Rd / Fairway Dr',49.308578,-122.956755
 54046,'54046','Dollar Rd / N Dollarton Hwy',49.307964,-122.953597
 54047,'54047','N Dollarton Hwy / Caddy Rd',49.311832,-122.952961
-54048,'54048','N Dollarton Hwy / Mt Seymour Pky',49.315408,-122.953404
+54048,'54048','N Dollarton Hwy / Mt Seymour Pkwy',49.315408,-122.953404
 54049,'54049','Deep Cv Rd / Strathcona Rd',49.317998,-122.953486
 54050,'54050','Deep Cv Rd / 1600 Block',49.320986,-122.953466
 54051,'54051','Deep Cv Rd / Cliffmont Rd',49.323288,-122.953442
@@ -3360,25 +3361,25 @@
 54053,'54053','Panorama Dr / Naughton Ave',49.326063,-122.950815
 54055,'54055','Deep Cv Rd / Badger Rd',49.324837,-122.953562
 54056,'54056','Deep Cv Rd / Strathcona Rd',49.318363,-122.953684
-54057,'54057','N Dollarton Hwy / Mt Seymour Pky',49.315411,-122.953657
+54057,'54057','N Dollarton Hwy / Mt Seymour Pkwy',49.315411,-122.953657
 54058,'54058','N Dollarton Hwy / Caddy Rd',49.311779,-122.953159
 54059,'54059','Dollar Rd / N Dollarton Hwy',49.30808,-122.953646
 54060,'54060','Fairway Dr / Dollar Rd',49.309134,-122.957115
 54061,'54061','Fairway Dr / Caddy Rd',49.311628,-122.957174
 54062,'54062','Fairway Dr / Huntingdon Cres',49.313962,-122.957263
-54063,'54063','Mt Seymour Pky / Beaufort Rd',49.315945,-122.958793
-54064,'54064','Mt Seymour Pky / 3900 Block',49.315965,-122.961557
-54065,'54065','Mt Seymour Pky / 3800 Block',49.315988,-122.964656
-54066,'54066','Mt Seymour Pky / Mt Seymour Rd',49.316049,-122.969788
-54067,'54067','Mt Seymour Pky / Parkgate Av E',49.315859,-122.97504
-54068,'54068','Mt Seymour Pky / Apex Ave',49.315715,-122.980947
-54069,'54069','Mt Seymour Pky / Strathaven Dr',49.315764,-122.984288
-54070,'54070','Mt Seymour Pky / Northlands Dr',49.315854,-122.989474
-54071,'54071','Mt Seymour Pky / Broadview Dr',49.315928,-122.997058
-54072,'54072','Mt Seymour Pky / Berkley Rd',49.314106,-123.004292
-54073,'54073','Mt Seymour Pky / Browning Pl',49.311724,-123.008112
-54074,'54074','Mt Seymour Pky / Riverside Dr',49.311174,-123.013876
-54076,'54076','Mt Seymour Pky / Seymour Blvd',49.312087,-123.021752
+54063,'54063','Mt Seymour Pkwy / Beaufort Rd',49.315945,-122.958793
+54064,'54064','Mt Seymour Pkwy / 3900 Block',49.315965,-122.961557
+54065,'54065','Mt Seymour Pkwy / 3800 Block',49.315988,-122.964656
+54066,'54066','Mt Seymour Pkwy / Mt Seymour Rd',49.316049,-122.969788
+54067,'54067','Mt Seymour Pkwy / Parkgate Ave',49.315859,-122.97504
+54068,'54068','Mt Seymour Pkwy / Apex Ave',49.315715,-122.980947
+54069,'54069','Mt Seymour Pkwy / Strathaven Dr',49.315764,-122.984288
+54070,'54070','Mt Seymour Pkwy / Northlands Dr',49.315854,-122.989474
+54071,'54071','Mt Seymour Pkwy / Broadview Dr',49.315928,-122.997058
+54072,'54072','Mt Seymour Pkwy / Berkley Rd',49.314106,-123.004292
+54073,'54073','Mt Seymour Pkwy / Browning Pl',49.311724,-123.008112
+54074,'54074','Mt Seymour Pkwy / Riverside Dr',49.311174,-123.013876
+54076,'54076','Mt Seymour Pkwy / Seymour Blvd',49.312087,-123.021752
 54077,'54077','Phibbs Exch Bay 7',49.305786,-123.028859
 54080,'54080','Dollarton Hwy / 2400 Block',49.307612,-123.006104
 54081,'54081','Dollarton Hwy / Ellis St',49.308726,-122.993487
@@ -3400,7 +3401,7 @@
 54098,'54098','Old Dollarton Rd / Riverside Dr',49.307552,-123.015949
 54099,'54099','Old Dollarton Rd / Front St',49.306082,-123.018714
 54100,'54100','Phibbs Exch Bay 2',49.305323,-123.028735
-54101,'54101','Emerson Way / Mt Seymour Pky',49.316329,-122.998028
+54101,'54101','Emerson Way / Mt Seymour Pkwy',49.316329,-122.998028
 54102,'54102','Carnation St / Emerson Way',49.318119,-122.998605
 54103,'54103','Berkley Rd / Carnation St',49.318413,-123.004867
 54104,'54104','Berkley Rd / Shelley Rd',49.321181,-123.004853
@@ -3417,13 +3418,13 @@
 54115,'54115','Berkley Rd / Shelley Rd',49.320973,-123.00503
 54116,'54116','Carnation St / Berkley Rd',49.318082,-123.004436
 54117,'54117','Emerson Way / Carnation St',49.317586,-122.998202
-54118,'54118','Emerson Way / Mt Seymour Pky',49.316192,-122.99819
+54118,'54118','Emerson Way / Mt Seymour Pkwy',49.316192,-122.99819
 54119,'54119','Phibbs Exch Bay 9',49.305475,-123.028588
 54120,'54120','Ellis St / Dollarton Hwy',49.309262,-122.994019
 54121,'54121','Plymouth Dr / Ellis St',49.310739,-122.99496
 54122,'54122','Plymouth Dr / Eddystone Cres',49.311288,-122.993698
 54123,'54123','Plymouth Dr / Fairfield Rd',49.313461,-122.992357
-54124,'54124','Mt Seymour Rd / Mt Seymour Pky',49.316552,-122.968826
+54124,'54124','Mt Seymour Rd / Mt Seymour Pkwy',49.316552,-122.968826
 54125,'54125','Mt Seymour Rd / Hamber Pl',49.319201,-122.96881
 54126,'54126','Indian River Dr / Lighthall Court',49.321276,-122.964881
 54127,'54127','Inlet Cres / Indian River Dr',49.32154,-122.962341
@@ -3683,7 +3684,7 @@
 54419,'54419','Chesterfield Ave / W 3 St',49.314493,-123.080587
 54420,'54420','Chesterfield Ave / W 1 St',49.31297,-123.082165
 54421,'54421','Lonsdale Quay Bay 4',49.310596,-123.082918
-54422,'54422','Lillooet Rd / Mt Seymour Pky',49.313086,-123.024687
+54422,'54422','Lillooet Rd / Mt Seymour Pkwy',49.313086,-123.024687
 54423,'54423','Capilano University Bay 5',49.317677,-123.020748
 54424,'54424','Phibbs Exch Bay 10',49.305313,-123.028459
 54425,'54425','Lonsdale Quay Bay 5',49.310412,-123.083111
@@ -4022,7 +4023,7 @@
 54785,'54785','Hwy 99 / Lawrence Way',49.403085,-123.242762
 54786,'54786','Hwy 99 Offramp / Ansell Pl',49.398576,-123.248197
 54787,'54787','Hwy 99 / Pasco Rd',49.38599,-123.25885
-54792,'54792','Mt Seymour Pky / Lytton St',49.315032,-123.00217
+54792,'54792','Mt Seymour Pkwy / Lytton St',49.315032,-123.00217
 54793,'54793','Scottsdale Exch Bay 6',49.137661,-122.887792
 54794,'54794','Scott Rd / 74 Ave',49.136817,-122.890549
 54795,'54795','72 Ave / Scott Rd',49.134156,-122.890824
@@ -4253,6 +4254,7 @@
 55065,'55065','100 Ave / 128 St',49.184382,-122.867079
 55066,'55066','100 Ave / 130 St',49.184366,-122.861709
 55067,'55067','132 St / 100 Ave',49.184856,-122.856416
+55068,'55068','Old Yale Rd / 132 St',49.187429,-122.855772
 55069,'55069','University Dr / Old Yale Rd',49.186513,-122.851544
 55070,'55070','Surrey Central Stn Bay 9',49.188967,-122.848465
 55071,'55071','Old Yale Rd / University Dr',49.186348,-122.85232
@@ -5004,9 +5006,9 @@
 55933,'55933','22nd St Stn Bay 6',49.199726,-122.949614
 55934,'55934','Hwy 91a Onramp / Howes St',49.188232,-122.949452
 55935,'55935','Hwy 91 Offramp / Cliveden Ave',49.170022,-122.953446
-55936,'55936','Kittson Pky / 109a St',49.119146,-122.91954
-55937,'55937','Kittson Pky / Mckenzie Dr',49.118779,-122.909951
-55938,'55938','Kittson Pky / Summit Cres',49.119001,-122.90146
+55936,'55936','Kittson Pkwy / 109a St',49.119146,-122.91954
+55937,'55937','Kittson Pkwy / Mckenzie Dr',49.118779,-122.909951
+55938,'55938','Kittson Pkwy / Summit Cres',49.119001,-122.90146
 55939,'55939','64 Ave / Wade Rd',49.119336,-122.896228
 55940,'55940','64 Ave / Sunwood Dr',49.119296,-122.892766
 55941,'55941','Scottsdale Exch Bay 4',49.137718,-122.887834
@@ -5087,9 +5089,9 @@
 56022,'56022','Scottsdale Exch Bay 8',49.137443,-122.888253
 56023,'56023','64 Ave / Scott Rd',49.119435,-122.890914
 56024,'56024','64 Ave / Wade Rd',49.119491,-122.896418
-56025,'56025','Kittson Pky / Summit Cres',49.119155,-122.90192
-56026,'56026','Kittson Pky / Mckenzie Dr',49.118932,-122.910777
-56027,'56027','Kittson Pky / Lyon Rd',49.11929,-122.920352
+56025,'56025','Kittson Pkwy / Summit Cres',49.119155,-122.90192
+56026,'56026','Kittson Pkwy / Mckenzie Dr',49.118932,-122.910777
+56027,'56027','Kittson Pkwy / Lyon Rd',49.11929,-122.920352
 56028,'56028','Hwy 91 Offramp / Cliveden Ave',49.171779,-122.94942
 56029,'56029','Hwy 91a Onramp / Howes St',49.187932,-122.947271
 56030,'56030','White Rock Ctr Bay 2',49.031009,-122.801843
@@ -5825,7 +5827,7 @@
 56897,'56897','No. 6 Rd / Maycrest Way',49.179281,-123.069304
 56898,'56898','No. 6 Rd / Westminster Hwy',49.170797,-123.069082
 56899,'56899','No. 6 Rd / International Pl',49.174129,-123.06912
-56900,'56900','No. 6 Rd / Commerce Pky',49.176622,-123.069059
+56900,'56900','No. 6 Rd / Commerce Pkwy',49.176622,-123.069059
 56901,'56901','Graybar Rd / Westminster Hwy',49.168632,-122.989834
 56902,'56902','Gordon Way / 21300 Block',49.167349,-122.986866
 56903,'56903','Fraserwood Pl / Gordon Way',49.16802,-122.983586
@@ -6691,7 +6693,7 @@
 58105,'58105','Mariner Way / Mara Dr',49.259252,-122.816173
 58106,'58106','Mariner Way / Como Lk Ave',49.26142,-122.817531
 58108,'58108','Lougheed Hwy / Woolridge St',49.235583,-122.867597
-58109,'58109','Deer Lk Pky / Willingdon Ave',49.242827,-123.002605
+58109,'58109','Deer Lk Pkwy / Willingdon Ave',49.242827,-123.002605
 58110,'58110','Edgemont Blvd / Ridgewood Dr',49.339189,-123.104101
 58111,'58111','Edgemont Blvd / Ridgewood Dr',49.338965,-123.103786
 58112,'58112','Capstan Way / Sexsmith Rd',49.187866,-123.128565
@@ -6705,7 +6707,7 @@
 58128,'58128','North Rd / Lougheed Hwy',49.24647,-122.892571
 58129,'58129','Rupert St / Rupert Sta',49.260534,-123.0339
 58130,'58130','Rupert St / Rupert Sta',49.260804,-123.033608
-58131,'58131','No. 6 Rd / Commerce Pky',49.17591,-123.069338
+58131,'58131','No. 6 Rd / Commerce Pkwy',49.17591,-123.069338
 58133,'58133','Granville St / W 64 Ave',49.213461,-123.140233
 58135,'58135','Granville St / W Broadway',49.263073,-123.138707
 58136,'58136','Granville St / W King Edward Ave',49.248838,-123.139224
@@ -7486,7 +7488,7 @@
 59297,'59297','Panorama Dr / Forest Pk Way',49.303852,-122.830043
 59298,'59298','W 4 Ave / Dieppe Ln',49.268579,-123.193151
 59299,'59299','North Fraser Way / 5000 Block',49.200111,-123.00474
-59300,'59300','North Fraser Way / Glenlyon Pky West',49.200053,-123.009524
+59300,'59300','North Fraser Way / Glenlyon Pkwy West',49.200053,-123.009524
 59304,'59304','Dewdney Trunk Rd / Fraser St',49.220544,-122.599935
 59305,'59305','W 41 Ave / Ash St',49.233459,-123.11793
 59309,'59309','East Rd / Blackberry Dr',49.300061,-122.835526
@@ -7513,8 +7515,8 @@
 59334,'59334','Jack Bell Dr / Jacombs Rd',49.182445,-123.080732
 59335,'59335','Jacombs Rd / Vanier Pl',49.182947,-123.080179
 59336,'59336','Jacombs Rd / Cambie Rd',49.18366,-123.08039
-59337,'59337','Commerce Pky / N0. 6 Rd',49.176266,-123.069423
-59338,'59338','Commerce Pky / International Pl',49.174022,-123.071622
+59337,'59337','Commerce Pkwy / No. 6 Rd',49.176266,-123.069423
+59338,'59338','Commerce Pkwy / International Pl',49.174022,-123.071622
 59341,'59341','Cooney Rd / Ackroyd Rd',49.171694,-123.131675
 59344,'59344','Maple Mdws Way / Dunn Ave',49.218447,-122.668334
 59345,'59345','E Columbia St / 600 Block',49.237544,-122.892617
@@ -7688,7 +7690,7 @@
 59718,'59718','66 St / London Gt',49.08727,-123.040542
 59719,'59719','Holly Pk Dr / 64 St',49.087134,-123.046677
 59720,'59720','Holly Pk Dr / 62 St',49.087966,-123.050883
-59721,'59721','North Fraser Way / Glenlyon Pky West',49.200252,-123.010666
+59721,'59721','North Fraser Way / Glenlyon Pkwy West',49.200252,-123.010666
 59724,'59724','Holly Pk Dr / 6400 Block',49.086965,-123.043879
 59726,'59726','W Broadway / Manitoba St',49.262969,-123.107323
 59731,'59731','Pk Rd / Buswell St',49.164635,-123.135407
@@ -8277,7 +8279,6 @@
 61338,'61338','Marine Dr Stn Bay 2',49.209383,-123.116116
 61341,'61341','Elmbridge Way / Minoru Blvd',49.172105,-123.140636
 61342,'61342','Elmbridge Way / Alderbridge Way',49.172133,-123.144548
-61343,'61343','Hollbridge Way / Elmbridge Way',49.173202,-123.147571
 61344,'61344','River Rd / Hollybridge Way',49.174445,-123.150418
 61346,'61346','Lynas Ln / Dover Cres',49.170615,-123.164584
 61347,'61347','Minoru Blvd / Westminster Hwy',49.169891,-123.14037
@@ -8298,8 +8299,8 @@
 61419,'61419','Renaissance Sq / Quayside Dr',49.199987,-122.924573
 61420,'61420','North Fraser Way / 5100 Block',49.199375,-123.001229
 61421,'61421','North Fraser Way / 5100 Block',49.199096,-123.000876
-61422,'61422','North Fraser Way / Glenlyon Pky East',49.197454,-122.998035
-61423,'61423','North Fraser Way / Glenlyon Pky East',49.196331,-122.996932
+61422,'61422','North Fraser Way / Glenlyon Pkwy East',49.197454,-122.998035
+61423,'61423','North Fraser Way / Glenlyon Pkwy East',49.196331,-122.996932
 61424,'61424','West Mall / Nw Marine Dr',49.268113,-123.258499
 61427,'61427','Oxford St / Goggs Ave',49.028477,-122.812092
 61434,'61434','Ottawa St / Nicola Ave',49.257941,-122.746719
@@ -8497,7 +8498,6 @@
 61765,'61765','Nordel Way / Swenson Way',49.151122,-122.943536
 61766,'61766','Nordel Way / River Way',49.148663,-122.94348
 61767,'61767','Tsawwassen Ferry Terminal',49.006806,-123.129744
-61770,'61770','Old Yale Rd / 133 St',49.186865,-122.854057
 61772,'61772','Marine Dr / Pk Royal',49.327125,-123.138308
 61776,'61776','Marine Dr / South Mall Access',49.326681,-123.141218
 61777,'61777','128 St / 86 Ave',49.159231,-122.867853
@@ -8535,6 +8535,7 @@
 61826,'61826','Clarendon St / E 33 Ave',49.239443,-123.055538
 61827,'61827','117 St / Grace Rd',49.185607,-122.898715
 61832,'61832','East Mall / Eagles Dr',49.258079,-123.24443
+61833,'61833','East Mall / Eagles Dr',49.258365,-123.244222
 61837,'61837','Noons Crk Dr / David Ave',49.295933,-122.820031
 61838,'61838','Noons Crk Dr / David Ave',49.295935,-122.819708
 61844,'61844','Coast Meridian Rd / Apel Dr',49.281729,-122.755944
