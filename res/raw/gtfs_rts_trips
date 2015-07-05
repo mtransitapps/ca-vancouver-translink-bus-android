@@ -2,56 +2,56 @@
 201,0,'Macdonald - 16 Ave',2
 300,0,'Downtown',3
 301,0,'Main-Marine Dr Stn',3
-401,0,'Blanca / Ubc',4
-400,0,'Downtown / Powell',4
+400,0,'Powell',4
+401,0,'UBC',4
 500,0,'Downtown',5
 501,0,'Robson',5
 601,0,'Davie',6
-600,0,'Downtown / Granville',6
-701,0,'Downtown / Dunbar / Hastings',7
+600,0,'Downtown',6
+701,0,'Dunbar',7
 700,0,'Nanaimo Stn',7
-801,0,'Downtown / Fraser 41st',8
+801,0,'Downtown',8
 800,0,'Fraser',8
-901,0,'Alma / Oak / Granville',9
-900,0,'Boundary / Comm''l-Bdway Stn / Main',9
-1000,0,'Davie / Downtown / Granville 63rd / Robson',10
-1001,0,'Granville / Marpole',10
-1401,0,'Blanca / U B C',14
-1400,0,'Downtown / Hastings / Granville',14
+900,0,'Comm''''l-Bdway Stn / Boundary',9
+901,0,'Granville / Alma / UBC',9
+1000,0,'Downtown',10
+1001,0,'Granville',10
+1400,0,'Hastings / Downtown',14
+1401,0,'UBC',14
 1501,0,'Cambie',15
 1500,0,'Olympic Vlg Stn.',15
 1600,0,'29th Ave Stn',16
-1601,0,'Arbutus / Pne / Hastings',16
-1701,0,'Broadway / Downtown',17
+1601,0,'Arbutus',16
+1701,0,'Downtown',17
 1700,0,'Oak',17
-1901,0,'Downtown / Kingsway Joyce / Stanley Pk',19
-1900,0,'Downtown / Metrotown Stn / Granville',19
-2000,0,'Broadway / Downtown / Victoria 41st Ave',20
-2001,0,'Victoria 41st Ave / Victoria 54th Ave',20
-2200,0,'Downtown / Knight 63rd',22
-2201,0,'Downtown / Macdonald 41st',22
-2500,0,'Brentwood Stn / Nanaimo Stn',25
-2501,0,'Granville / Ubc',25
+1900,0,'Metrotown Stn',19
+1901,0,'Stanley Pk',19
+2000,0,'Downtown',20
+2001,0,'Victoria',20
+2200,0,'Knight',22
+2201,0,'Macdonald',22
+2500,0,'Brentwood Stn',25
+2501,0,'UBC',25
 2601,0,'29th Ave Stn',26
 2600,0,'Joyce Stn',26
 2701,0,'Joyce Stn',27
-2700,0,'Joyce Stn / Kootenay Loop',27
-2801,0,'Gilmore Stn / Joyce Stn / Kootenay Loop',28
-2800,0,'Kootenay Loop / Phibbs Exch',28
+2700,0,'Kootenay Loop',27
+2801,0,'Joyce Stn',28
+2800,0,'Phibbs Exch',28
 2900,0,'29th Ave Stn',29
 2901,0,'Elliott',29
 3200,0,'Downtown',32
 3201,0,'Dunbar',32
 3300,0,'29th Ave Stn',33
 3301,0,'U B C',33
-4100,0,'41st & Oak / Joyce Stn',41
-4101,0,'41st & Oak / Ubc / Crown / Dunbar',41
+4101,0,'Crown / UBC',41
+4100,0,'Joyce Stn',41
 4300,0,'Joyce Stn',43
 4301,0,'Ubc',43
 4400,0,'Downtown',44
 4401,0,'Ubc',44
-4901,0,'Dunbar Loop / Ubc / Granville',49
 4900,0,'Metrotown Stn',49
+4901,0,'UBC',49
 5001,0,'S. False Crk',50
 5000,0,'Waterfront Stn',50
 8401,0,'Ubc',84
@@ -60,19 +60,19 @@
 9601,0,'Newton Exch',96
 9700,0,'Coq Stn',97
 9701,0,'Lougheed Stn',97
-9901,0,'Alma B-Line / Ubc B-Line',99
-9900,0,'Boundary B-Line / Comm''l-Bdway Stn',99
+9900,0,'Comm''''l-Bdway Stn',99
+9901,0,'UBC',99
 10000,0,'22nd St Stn',100
 10001,0,'Marpole',100
 10101,0,'22nd St Stn',101
 10100,0,'Lougheed Stn',101
 10400,0,'22nd St Stn',104
-10401,0,'Annacis Isl. / Annacis Island',104
+10401,0,'Annacis Isl',104
 10601,0,'Metrotown Stn',106
 10600,0,'New West Stn',106
 11000,0,'Lougheed Stn',110
-11001,0,'Metrotown Stn / Sperling Stn',110
-11201,0,'Edmonds Stn / Metrotown Stn',112
+11001,0,'Metrotown Stn',110
+11201,0,'Edmonds Stn',112
 11200,0,'New West Stn',112
 11600,0,'Edmonds Stn',116
 11601,0,'Metrotown Stn',116
@@ -82,12 +82,12 @@
 12800,0,'Braid Stn',128
 12900,0,'Edmonds Stn',129
 12901,0,'Patterson Stn',129
-13000,0,'Hastings / Kootenay Loop / Phibbs Exch',130
-13001,0,'Metrotown Stn',130
+13003,1,'N',130
+13004,1,'S',130
 13401,0,'Brentwood Stn',134
 13400,0,'Lk City Stn',134
 13501,0,'Burrard Stn',135
-13500,0,'Duthie & Hastings / Sfu / Kootenay Loop',135
+13500,0,'SFU',135
 13601,0,'Brentwood Stn',136
 13600,0,'Lougheed Stn',136
 14300,0,'Coq Stn',143
@@ -112,8 +112,8 @@
 15701,0,'Lougheed Stn',157
 15901,0,'Braid Stn',159
 15900,0,'Poco Stn',159
-16000,0,'Coq Stn / Poco Stn',160
-16001,0,'Kootenay Loop / Vancouver',160
+16000,0,'Port Coquitlam Stn',160
+16001,0,'Vancouver',160
 16901,0,'Braid Stn',169
 16900,0,'Coq Stn',169
 17800,0,'Coquitlam Sta',178
@@ -122,10 +122,10 @@
 18800,0,'Port Coquitlam Sta',188
 19000,0,'Coq Stn',190
 19001,0,'Vancouver',190
-20901,0,'Phibbs Exch / Vancouver',209
 20900,0,'Upper Lynn Vly',209
-21001,0,'Phibbs Exch / Pne / Vancouver',210
-21000,0,'Phibbs Exch / Upper Lynn Vly',210
+20901,0,'Vancouver',209
+21000,0,'Upper Lynn Vly',210
+21001,0,'Vancouver',210
 21101,0,'Phibbs Exch / Vancouver',211
 21100,0,'Seymour',211
 21200,0,'Deep Cv',212
@@ -133,48 +133,48 @@
 21400,0,'Blueridge',214
 21401,0,'Phibbs Exch / Vancouver',214
 22700,0,'Lynn Vly Ctr',227
-22701,0,'Lynn Vly Ctr / Phibbs Exch',227
-22801,0,'3rd & Moody / Lonsdale Quay',228
+22701,0,'Phibbs Exch',227
+22801,0,'Lonsdale Quay',228
 22800,0,'Lynn Vly',228
 22901,0,'Lonsdale Quay',229
 22900,0,'Lynn Vly Ctr',229
-23000,0,'Lonsdale 23 St / Upper Lonsdale',230
 23001,0,'Lonsdale Quay',230
+23000,0,'Upper Lonsdale',230
 23101,0,'Harbourside',231
 23100,0,'Lonsdale Quay',231
-23201,0,'Edgemont Vlg / Grouse Mtn',232
+23201,0,'Grouse Mtn',232
 23200,0,'Phibbs Exch',232
-23600,0,'Grouse Mtn / Pemberton Hts',236
+23600,0,'Grouse Mtn',236
 23601,0,'Lonsdale Quay',236
-23901,0,'3rd & Moody / Pk Royal / Lonsdale Quay / Phibbs Exch',239
-23900,0,'3rd & St Patricks / Capilano U / Phibbs Exch',239
+23900,0,'Capilano U',239
+23901,0,'Pk Royal',239
 24000,0,'15th St',240
-24001,0,'15th St / Vancouver',240
+24001,0,'Vancouver',240
 24100,0,'Upper Lonsdale',241
 24101,0,'Vancouver',241
-24200,0,'Lonsdale Quay / Upper Lonsdale',242
+24200,0,'Upper Lonsdale',242
 24201,0,'Vancouver',242
-24600,0,'Highland / Lonsdale Quay',246
-24601,0,'Highland / Marine & Capilano / Vancouver / Marine & Gdn',246
-24700,0,'Grouse Mtn / Upper Capilano',247
+24600,0,'Lonsdale Quay',246
+24601,0,'Vancouver',246
+24700,0,'Upper Capilano',247
 24701,0,'Vancouver',247
-25001,0,'Dundarave 25th & Marine / Horseshoe Bay / West Bay / School Special / Pk Royal - Only',250
-25000,0,'Pk Royal / Vancouver / Pne - Special',250
+25001,0,'Horseshoe Bay',250
+25000,0,'Vancouver',250
 25100,0,'Pk Royal',251
 25101,0,'Queens',251
 25201,0,'Inglewood',252
 25200,0,'Pk Royal',252
 25301,0,'Caulfeild',253
-25300,0,'Pk Royal - Only / Vancouver',253
-25400,0,'British Properties / School Special',254
-25401,0,'Pk Royal - Only / School Special / Vancouver',254
-25500,0,'Capilano University - / Special',255
-25501,0,'Dundarave - 25th & Marine / Special',255
-25600,0,'21st Whitby Ests',256
-25601,0,'Pk Royal / Spuraway-',256
-25701,0,'- Horseshoe Bay / Marine & 25th / Pk Royal - / Horshoe Bay & Lions Bay',257
-25700,0,'- Vancouver / Pk Royal - / Special',257
-25900,0,'Horseshoe Bay / Pk Royal',259
+25300,0,'Vancouver / Pk Royal',253
+25400,0,'British Properties',254
+25401,0,'Vancouver / Pk Royal',254
+25500,0,'Capilano U',255
+25501,0,'Dundarave',255
+25601,0,'Spuraway / Pk Royal',256
+25600,0,'Whitby Ests',256
+25701,0,'Horseshoe Bay',257
+25700,0,'Vancouver',257
+25900,0,'Horseshoe Bay',259
 25901,0,'Lions Bay',259
 30101,0,'Brighouse Stn',301
 30100,0,'Newton Exch',301
@@ -182,17 +182,17 @@
 31101,0,'Scottsdale',311
 31200,0,'Scott Rd Stn',312
 31201,0,'Scottsdale',312
-31401,0,'Scott & 96 Ave / Sunbury',314
+31401,0,'Sunbury',314
 31400,0,'Surrey Central Stn',314
 31601,0,'Scottsdale',316
 31600,0,'Surrey Central Stn',316
 31901,0,'Newton Exch',319
 31900,0,'Scott Rd Stn',319
 32000,0,'Fleetwood / Langley Ctr',320
-32001,0,'Surrey Central Stn',320
-32100,0,'New West Stn / Surrey Central Stn',321
-32101,0,'Newton Exch / White Rock South / White Rock Ctr',321
-32301,0,'76th & 132nd / Newton Exch',323
+32001,0,'Langley Ctr',320
+32101,0,'Newton Exch / White Rock',321
+32100,0,'Surrey Ctrl Stn',321
+32301,0,'Newton Exch',323
 32300,0,'Surrey Central Stn',323
 32401,0,'Newton Exch',324
 32400,0,'Surrey Ctrl Stn',324
@@ -200,9 +200,9 @@
 32500,0,'Surrey Ctrl Stn',325
 32600,0,'Guildford',326
 32601,0,'Surrey Ctrl Stn',326
-32900,0,'Scott & 96 Ave / Surrey Ctrl Stn / Surrey Strl Stn',329
 32901,0,'Scottsdale',329
-33500,0,'Guildford Exch / Newton Exch',335
+32900,0,'Surrey Ctrl Stn',329
+33500,0,'Newton Exch',335
 33501,0,'Surrey Ctrl Stn',335
 33700,0,'Fraser Hts',337
 33701,0,'Guildford / Surrey Ctrl Stn',337
@@ -213,7 +213,7 @@
 34500,0,'King George Stn',345
 34501,0,'White Rock Ctr',345
 35100,0,'Bridgeport Stn',351
-35101,0,'Cr Beach / White Rock Ctr',351
+35101,0,'Cr Beach',351
 35200,0,'Bridgeport Stn',352
 35201,0,'Ocean Pk',352
 35400,0,'Bridgeport Stn',354
@@ -232,47 +232,47 @@
 39401,0,'White Rock Ctr',394
 39501,0,'King George Stn',395
 39500,0,'Langley Ctr',395
-40100,0,'Gdn City Horseshoe Way / Gdn City Riverport',401
+40100,0,'Gdn City',401
 40101,0,'One Rd',401
 40200,0,'Brighouse Stn',402
 40201,0,'Two Rd',402
-40300,0,'Bridgeport Stn / Steveston & Shell',403
+40300,0,'Bridgeport Stn',403
 40301,0,'Three Rd',403
-40401,0,'Brighouse Stn / Steveston & 5 Rd',404
-40400,0,'Four Rd / Steveston & Shell',404
+40400,0,'Brighouse Stn',404
+40401,0,'Four Rd',404
 40501,0,'Brighouse Stn / Five Rd',405
 40500,0,'Cambie',405
-40700,0,'Bridgeport / Brighouse Stn',407
-40701,0,'Brighouse Stn / Gilbert',407
-41000,0,'22nd St Stn / Brighouse Stn',410
-41001,0,'Brighouse Stn / Railway / Queensboro',410
+40700,0,'Bridgeport Stn',407
+40701,0,'Gilbert',407
+41000,0,'22nd St Stn',410
+41001,0,'Railway',410
 43001,0,'Brighouse Stn',430
 43000,0,'Metrotown Stn',430
 48000,0,'Bridgeport Stn',480
 48001,0,'Ubc',480
-50101,0,'Carvolth Exch / Langley Ctr',501
+50101,0,'Langley Ctr',501
 50100,0,'Surrey Ctrl Stn',501
 50200,0,'Brookswood / Langley Ctr',502
 50201,0,'Surrey Ctrl Stn',502
 50300,0,'Aldergrove',503
-50301,0,'Langley Ctr / Surrey Central Sta',503
+50301,0,'Surrey Ctrl Stn',503
 50901,0,'Surrey Ctrl Stn',509
 50900,0,'Walnut Grv',509
 53101,0,'White Rock Ctr',531
 53100,0,'Willowbrook',531
-55500,0,'Port Mann Exp/Carvolth Exch',555
-55501,0,'Port Mann Exp/Lougheed Stn',555
+55500,0,'Carvolth Exch',555
+55501,0,'Lougheed Stn',555
 59001,0,'Langley South',590
 59000,0,'Surrey Ctrl Stn',590
 59501,0,'Langley Ctr',595
 59500,0,'Maple Mdws Stn',595
-60101,0,'Boundary Bay / Ladner Exch / South Delta / South Delta Exch / Tsaww Hts',601
-60100,0,'Bridgeport Stn / Steveston Hwy',601
+60103,1,'N',601
+60104,1,'S',601
 60200,0,'Bridgeport Stn',602
 60201,0,'Tsaww. Hts',602
 60301,0,'Beach Grv',603
-60300,0,'Bridgeport Stn / S. Delta Exch',603
-60400,0,'Bridgeport Stn / S. Delta Exch',604
+60300,0,'Bridgeport Stn',603
+60400,0,'Bridgeport Stn',604
 60401,0,'English Bluff',604
 60601,1,'E',606
 60602,1,'W',606
@@ -282,10 +282,10 @@
 60901,0,'Tsawwassen 1st Nation',609
 62000,0,'Bridgeport Stn',620
 62001,0,'Tsaww. Ferry',620
-64001,0,'Ladner Exch / Special',640
+64001,0,'Ladner Exch',640
 64000,0,'Scott Rd Stn',640
 70101,0,'Coq Stn',701
-70100,0,'Haney Pl / Maple Rdg East',701
+70100,0,'Maple Rdg East',701
 79101,0,'Braid Stn',791
 79100,0,'Haney Pl',791
 89501,1,'E',895
@@ -313,7 +313,7 @@
 3001100,0,'Eaglecliff',30011
 3001101,0,'Snug Cv',30011
 3001201,0,'Caulfeild',30012
-3001200,0,'Horseshoe Bay / Lions Bay- Brunswick',30012
+3001200,0,'Lions Bay',30012
 3001500,0,'Indian River',30015
 3001501,0,'Phibbs Exch',30015
 3001800,0,'Ubc Loop',30018
@@ -328,19 +328,19 @@
 3002300,0,'Main St Stn',30023
 3002401,0,'Lougheed Stn',30024
 3002400,0,'Pt Moody Stn',30024
-3002500,0,'Belcarra / Ioco',30025
+3002500,0,'Ioco',30025
 3002501,0,'Pt Moody Stn',30025
-3002600,0,'Anmore / Belcarra / Buntzen Lk',30026
-3002601,0,'Coq Stn / Pt Moody Stn',30026
+3002600,0,'Belcarra',30026
+3002601,0,'Pt Moody Stn',30026
 3002700,0,'Coq Stn',30027
 3002701,0,'Pt Moody Stn',30027
 3002800,0,'Coq Stn',30028
-3002801,0,'Pt Moody Stn / Special',30028
+3002801,0,'Pt Moody Stn',30028
 3002901,0,'Coq Stn',30029
 3002900,0,'Pkwy Blvd',30029
 3003001,0,'Coq Stn',30030
 3003000,0,'Lafarge Pk',30030
-3003601,0,'Poco South / Poco Stn',30036
+3003601,0,'Poco South',30036
 3003600,0,'Poco Stn',30036
 3003701,0,'Poco Stn',30037
 3003700,0,'Prairie / Riverside',30037
@@ -351,12 +351,12 @@
 3004100,0,'Maple Mdws Stn / Meadowtown',30041
 3004101,0,'Pitt Mdws Ctr',30041
 3004300,0,'Haney Pl',30043
-3004301,0,'Maple Mdws Stn / Meadowtown / South Haney',30043
+3004301,0,'Maple Mdws Stn / Meadowtown',30043
 3004400,0,'Haney Pl',30044
 3004401,0,'Maple Mdws Stn / Meadowtown',30044
 3004500,0,'Cottonwood',30045
-3004501,0,'Haney Pl / Pt Haney Stn',30045
-3004600,0,'Albion / Special',30046
+3004501,0,'Haney Pl',30045
+3004600,0,'Albion',30046
 3004601,0,'Haney Pl',30046
 3004700,0,'Alouette',30047
 3004701,0,'Haney Pl',30047
@@ -403,7 +403,7 @@
 3008901,0,'Boundary Bay',30089
 3008900,0,'S Delta Exch',30089
 3009200,0,'Bridgeport Stn',30092
-3009201,0,'Sea Island South',30092
+3009201,0,'Sea Isl South',30092
 3009300,0,'Riverport',30093
 3009301,0,'Steveston',30093
 3009400,0,'Brighouse Stn',30094
@@ -419,7 +419,7 @@
 14000900,0,'Coq Stn',140009
 14000901,0,'Downtown',140009
 14001001,0,'Brighouse Stn',140010
-14001000,0,'Downtown / Granville 71',140010
+14001000,0,'Downtown',140010
 14001501,0,'Cambie',140015
 14001500,0,'Downtown',140015
 14001601,0,'Renfrew Hastings',140016
@@ -427,12 +427,12 @@
 14001700,0,'Downtown',140017
 14001701,0,'Ubc',140017
 14001901,0,'Downtown',140019
-14001900,0,'Metrotown / Sry Ctrl Stn / New West Stn',140019
+14001900,0,'Surrey Ctrl Stn',140019
 14002000,0,'Downtown',140020
 14002001,0,'Victoria',140020
 14002200,0,'Downtown',140022
 14002201,0,'Macdonald-Dunbar',140022
-14002401,0,'And St Davids / Downtown',140024
+14002401,0,'Downtown',140024
 14002400,0,'Lynn Vly',140024
 14003501,0,'Downtown',140035
 14003500,0,'Sfu',140035
