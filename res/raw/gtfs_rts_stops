@@ -2351,7 +2351,7 @@
 52813,'52813','Delta Ave / Southlawn Dr',49.270476,-122.992113
 52814,'52814','Delta Ave / Northlawn Dr',49.272871,-122.992095
 52815,'52815','Delta Ave / Eastlawn Dr',49.274831,-122.992076
-52816,'52816','Parker St / Delta Ave',49.27547,-122.99158
+52816,'52816','Parker St / Delta Ave',49.275477,-122.991596
 52817,'52817','Parker St / Springer Ave',49.275454,-122.987355
 52818,'52818','Parker St / Holdom Ave',49.275429,-122.981221
 52820,'52820','Curtis St / Fell Ave',49.275154,-122.975107
@@ -2650,7 +2650,7 @@
 53164,'53164','Guildford Way / Johnson St',49.285093,-122.80093
 53165,'53165','Guildford Way / Pacific St',49.285106,-122.797418
 53168,'53168','Pinetree Way / Gln Dr',49.28224,-122.793393
-53169,'53169','Pinetree Way / Lincoln Ave',49.27883,-122.795121
+53169,'53169','Pinetree Way / Lincoln Ave',49.279862,-122.794202
 53170,'53170','Coquitlam Central Stn Bay 7',49.274922,-122.799038
 53171,'53171','Barnet Hwy / Lansdowne Dr',49.277978,-122.80971
 53172,'53172','Barnet Hwy / Falcon Dr',49.278021,-122.819531
@@ -3638,7 +3638,6 @@
 54369,'54369','Capilano Rd / Handsworth Rd',49.352871,-123.107029
 54370,'54370','Capilano Rd / Montroyal Blvd',49.356466,-123.106088
 54371,'54371','Nancy Greene Way / Prospect Ave',49.359304,-123.105744
-54372,'54372','Nancy Greene Way / Blue Grouse Way',49.364018,-123.103178
 54373,'54373','Nancy Greene Way / S Grousewoods Dr',49.366284,-123.101733
 54374,'54374','Nancy Greene Way / N Grousewoods Dr',49.368777,-123.099815
 54375,'54375','W Esplanade / Rogers Ave',49.312,-123.081387
@@ -5279,7 +5278,7 @@
 56235,'56235','Marine Dr / Anderson St',49.02419,-122.815495
 56236,'56236','Marine Dr / Oxford St',49.023366,-122.812699
 56237,'56237','Marine Dr / Elm St',49.022583,-122.810074
-56238,'56238','Marine Dr / Martin St',49.021742,-122.807243
+56238,'56238','Marine Dr / Martin St',49.021809,-122.807476
 56239,'56239','Marine Dr / 15000 Block',49.020745,-122.803855
 56240,'56240','Marine Dr / Fir St',49.019905,-122.800901
 56241,'56241','Marine Dr / Dolphin St',49.019036,-122.798086
@@ -6437,7 +6436,7 @@
 57648,'57648','Dewdney Trunk Rd / 207 St',49.220591,-122.64835
 57649,'57649','Dewdney Trunk Rd / 205 St',49.221482,-122.653782
 57650,'57650','Dewdney Trunk Rd / 203 St',49.221514,-122.657617
-57651,'57651','Dewdney Trunk Rd / 202 St',49.221526,-122.661488
+57651,'57651','Dewdney Trunk Rd / 201b St',49.221533,-122.662377
 57652,'57652','Maple Mdws Way / 200 St',49.220333,-122.666916
 57654,'57654','Maple Mdws Stn Bay 1',49.216958,-122.66705
 57655,'57655','Hammond Rd / Springdale Dr',49.217291,-122.672949
