@@ -19,7 +19,7 @@
 1400,0,'Hastings / Downtown',14
 1401,0,'UBC',14
 1501,0,'Cambie',15
-1500,0,'Olympic Vlg Stn.',15
+1500,0,'Olympic Vlg Stn',15
 1600,0,'29th Ave Stn',16
 1601,0,'Arbutus',16
 1701,0,'Downtown',17
@@ -52,7 +52,7 @@
 4401,0,'Ubc',44
 4900,0,'Metrotown Stn',49
 4901,0,'UBC',49
-5001,0,'S. False Crk',50
+5001,0,'S False Crk',50
 5000,0,'Waterfront Stn',50
 8401,0,'Ubc',84
 8400,0,'Vcc-Clark Stn',84
@@ -221,7 +221,7 @@
 36400,0,'Langley Ctr',364
 36401,0,'Scottsdale',364
 37500,0,'Guildford',375
-37501,0,'White Rock S.',375
+37501,0,'White Rock S',375
 38801,0,'22nd St Stn',388
 38800,0,'Carvolth Exch',388
 39100,0,'Scott Rd Stn',391
@@ -269,7 +269,7 @@
 60103,1,'N',601
 60104,1,'S',601
 60200,0,'Bridgeport Stn',602
-60201,0,'Tsaww. Hts',602
+60201,0,'Tsaww Hts',602
 60301,0,'Beach Grv',603
 60300,0,'Bridgeport Stn',603
 60400,0,'Bridgeport Stn',604
@@ -281,7 +281,7 @@
 60900,0,'South Delta Exch',609
 60901,0,'Tsawwassen 1st Nation',609
 62000,0,'Bridgeport Stn',620
-62001,0,'Tsaww. Ferry',620
+62001,0,'Tsaww Ferry',620
 64001,0,'Ladner Exch',640
 64000,0,'Scott Rd Stn',640
 70101,0,'Coq Stn',701
