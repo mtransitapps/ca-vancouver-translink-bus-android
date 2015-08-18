@@ -74,8 +74,8 @@
 11001,0,'Metrotown Stn',110
 11201,0,'Edmonds Stn',112
 11200,0,'New West Stn',112
-11600,0,'Edmonds Stn',116
-11601,0,'Metrotown Stn',116
+11600,0,'Edmonds St',116
+11601,0,'Metrotown St',116
 12301,0,'Brentwood Stn',123
 12300,0,'New West Stn',123
 12801,0,'22nd St Stn',128
@@ -116,22 +116,22 @@
 16001,0,'Vancouver',160
 16901,0,'Braid Stn',169
 16900,0,'Coq Stn',169
-17800,0,'Coquitlam Sta',178
-17801,0,'Port Moody Sta',178
-18801,0,'Coquitlam Sta',188
-18800,0,'Port Coquitlam Sta',188
+17800,0,'Coquitlam Statio',178
+17801,0,'Port Moody Statio',178
+18801,0,'Coquitlam Statio',188
+18800,0,'Port Coquitlam Statio',188
 19000,0,'Coq Stn',190
 19001,0,'Vancouver',190
 20900,0,'Upper Lynn Vly',209
 20901,0,'Vancouver',209
 21000,0,'Upper Lynn Vly',210
 21001,0,'Vancouver',210
-21101,0,'Phibbs Exch / Vancouver',211
+21101,0,'Phibbs Exch / Vancouv',211
 21100,0,'Seymour',211
 21200,0,'Deep Cv',212
 21201,0,'Phibbs Exch',212
 21400,0,'Blueridge',214
-21401,0,'Phibbs Exch / Vancouver',214
+21401,0,'Phibbs Exch / Vancouv / Vancoouv',214
 22700,0,'Lynn Vly Ctr',227
 22701,0,'Phibbs Exch',227
 22801,0,'Lonsdale Quay',228
@@ -148,16 +148,16 @@
 23601,0,'Lonsdale Quay',236
 23900,0,'Capilano U',239
 23901,0,'Pk Royal',239
-24000,0,'15th St',240
+24000,0,'15th Stree',240
 24001,0,'Vancouver',240
 24100,0,'Upper Lonsdale',241
 24101,0,'Vancouver',241
 24200,0,'Upper Lonsdale',242
-24201,0,'Vancouver',242
+24201,0,'Vancouve',242
 24600,0,'Lonsdale Quay',246
 24601,0,'Vancouver',246
 24700,0,'Upper Capilano',247
-24701,0,'Vancouver',247
+24701,0,'Vancouve',247
 25001,0,'Horseshoe Bay',250
 25000,0,'Vancouver',250
 25100,0,'Pk Royal',251
@@ -231,7 +231,7 @@
 39400,0,'King George Stn',394
 39401,0,'White Rock Ctr',394
 39501,0,'King George Stn',395
-39500,0,'Langley Ctr',395
+39500,0,'Langley Centr',395
 40100,0,'Gdn City',401
 40101,0,'One Rd',401
 40200,0,'Brighouse Stn',402
@@ -254,7 +254,7 @@
 50100,0,'Surrey Ctrl Stn',501
 50200,0,'Brookswood / Langley Ctr',502
 50201,0,'Surrey Ctrl Stn',502
-50300,0,'Aldergrove',503
+50300,0,'Aldergrov',503
 50301,0,'Surrey Ctrl Stn',503
 50901,0,'Surrey Ctrl Stn',509
 50900,0,'Walnut Grv',509
@@ -316,16 +316,16 @@
 3001200,0,'Lions Bay',30012
 3001500,0,'Indian River',30015
 3001501,0,'Phibbs Exch',30015
-3001800,0,'Ubc Loop',30018
-3001801,0,'West Mall',30018
+3001800,0,'Ubc Loo',30018
+3001801,0,'West Mal',30018
 3001900,0,'Alma',30019
 3001901,0,'Ubc',30019
 3002001,0,'Marine Dr',30020
 3002000,0,'Ubc Loop',30020
 3002101,0,'Beach',30021
 3002100,0,'Yaletown',30021
-3002301,0,'Davie',30023
-3002300,0,'Main St Stn',30023
+3002301,0,'Davi',30023
+3002300,0,'Main St S',30023
 3002401,0,'Lougheed Stn',30024
 3002400,0,'Pt Moody Stn',30024
 3002500,0,'Ioco',30025
@@ -360,7 +360,7 @@
 3004601,0,'Haney Pl',30046
 3004700,0,'Alouette',30047
 3004701,0,'Haney Pl',30047
-3004801,0,'Haney Pl',30048
+3004801,0,'Haney Plac',30048
 3004800,0,'Thornhill',30048
 3004901,0,'Haney Pl',30049
 3004900,0,'Ruskin',30049
@@ -433,7 +433,7 @@
 14002200,0,'Downtown',140022
 14002201,0,'Macdonald-Dunbar',140022
 14002401,0,'Downtown',140024
-14002400,0,'Lynn Vly',140024
+14002400,0,'Lynn Vly Nightb',140024
 14003501,0,'Downtown',140035
 14003500,0,'Sfu',140035
 16002500,0,'Coq Stn',160025
