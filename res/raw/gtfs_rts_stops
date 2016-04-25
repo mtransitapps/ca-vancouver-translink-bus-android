@@ -2297,7 +2297,7 @@
 52765,'52765','Stanley St @ Sperling Ave',49.227032,-122.964257
 52766,'52766','Walker Ave @ Stanley St',49.226752,-122.960518
 52767,'52767','Walker Ave @ Morley St',49.22502,-122.958428
-52768,'52768','Salisbury Ave @ Imperial St',49.223297,-122.957661
+52768,'52768','Salisbury Ave @ Imperial St',49.223304,-122.957677
 52769,'52769','Salisbury Ave @ Elwell St',49.220907,-122.957641
 52770,'52770','Salisbury Ave @ Arcola St',49.21902,-122.957618
 52771,'52771','Edmonds Sta Bay 4',49.21197,-122.958484
@@ -2631,7 +2631,6 @@
 53163,'53163','Johnson St @ Gln Dr',49.282981,-122.801486
 53164,'53164','Guildford Way @ Johnson St',49.285093,-122.80093
 53165,'53165','Guildford Way @ Pacific St',49.285106,-122.797418
-53168,'53168','Pinetree Way @ Gln Dr',49.28224,-122.793393
 53169,'53169','Pinetree Way @ Anson Ave',49.278694,-122.795266
 53170,'53170','Coquitlam Central Sta Bay 7',49.274922,-122.799038
 53171,'53171','Barnet Hwy @ Lansdowne Dr',49.277978,-122.80971
@@ -3105,7 +3104,7 @@
 53756,'53756','Barnet Rd @ 9900 Block',49.288747,-122.896523
 53757,'53757','Barnet Rd @ Barnet Marine Pk',49.289329,-122.926468
 53758,'53758','Barnet Rd @ Texaco Dr',49.290367,-122.932258
-53759,'53759','Barnet Rd @ 7500 Block',49.289346,-122.942094
+53759,'53759','Barnet Rd @ 7500 Block',49.289352,-122.94211
 53760,'53760','Inlet Dr @ Bayview Dr',49.287022,-122.953126
 53761,'53761','Inlet Dr @ Rdg Dr',49.28288,-122.956499
 53764,'53764','Westwood St @ Lincoln Ave',49.278532,-122.790596
@@ -5165,7 +5164,7 @@
 56124,'56124','Cr Rd @ 142a St',49.067106,-122.827218
 56125,'56125','Granville St @ W 41 Ave',49.234888,-123.139463
 56127,'56127','Cr Rd @ King George Blvd',49.066983,-122.821933
-56128,'56128','Cr Rd @ Nico Wynd Dr',49.067484,-122.82948
+56128,'56128','Cr Rd @ Nico Wynd Dr',49.06749,-122.829496
 56129,'56129','Cr Rd @ 140 St',49.067566,-122.832918
 56130,'56130','Cr Rd @ 13700 Block',49.064522,-122.841639
 56131,'56131','Cr Rd @ 136 St',49.062993,-122.846846
@@ -5665,9 +5664,9 @@
 56728,'56728','Westminster Hwy @ 11000 Block',49.170255,-123.100476
 56729,'56729','Westminster Hwy @ 11500 Block',49.17027,-123.10724
 56730,'56730','Westminster Hwy @ No. 4 Rd',49.170283,-123.114692
-56731,'56731','Chatham St @ 5 Ave',49.126506,-123.189208
-56732,'56732','7 Ave @ Chatham St',49.126734,-123.191712
-56733,'56733','7 Ave @ Richmond St',49.128647,-123.191686
+56731,'56731','Chatham St @ 5 Ave',49.126506,-123.189267
+56732,'56732','7 Ave @ Chatham St',49.126849,-123.191756
+56733,'56733','7 Ave @ Richmond St',49.12863,-123.191742
 56734,'56734','7 Ave @ Regent St',49.13184,-123.191743
 56735,'56735','Steveston Hwy @ 4 Ave',49.133693,-123.186762
 56736,'56736','Steveston Hwy @ 2 Ave',49.133685,-123.183813
@@ -5679,60 +5678,60 @@
 56743,'56743','Steveston Hwy @ No. 2 Rd',49.133427,-123.15829
 56744,'56744','Steveston Hwy @ Housman St',49.133449,-123.154812
 56745,'56745','Steveston Hwy @ Constable Gt',49.133447,-123.151464
-56748,'56748','Springmont Gt @ Steveston Hwy',49.134058,-123.191674
-56749,'56749','Springmont Dr @ Springmont Gt',49.135953,-123.191676
-56750,'56750','Springmont Dr @ Springside Pl',49.137325,-123.192694
-56752,'56752','Williams Rd @ Springmont Dr',49.140928,-123.191349
-56753,'56753','Williams Rd @ 4 Ave',49.140936,-123.186561
-56754,'56754','Williams Rd @ 2 Ave',49.140945,-123.183855
-56755,'56755','Williams Rd @ No. 1 Rd',49.140955,-123.18096
-56756,'56756','Williams Rd @ Fortune Ave',49.140969,-123.177227
-56757,'56757','Williams Rd @ Freshwater Dr',49.140963,-123.171279
-56758,'56758','Railway Ave @ Williams Rd',49.141764,-123.169716
-56759,'56759','Railway Ave @ Woodwards Rd',49.144201,-123.169676
-56760,'56760','Railway Ave @ Maple Rd',49.147089,-123.169671
-56761,'56761','Railway Ave @ Francis Rd',49.148683,-123.169669
-56762,'56762','Railway Ave @ 8600 Block',49.150368,-123.169682
-56763,'56763','Railway Ave @ Colbeck Rd',49.152755,-123.169686
-56764,'56764','Railway Ave @ Blundell Rd',49.155898,-123.169696
-56765,'56765','Railway Ave @ Lancing Rd',49.157325,-123.169717
-56766,'56766','Railway Ave @ Linfield Gt',49.160554,-123.169703
+56748,'56748','Springmont Gt @ Steveston Hwy',49.134068,-123.191758
+56749,'56749','Springmont Dr @ Springmont Gt',49.135968,-123.191862
+56750,'56750','Springmont Dr @ Springside Pl',49.137321,-123.192756
+56752,'56752','Williams Rd @ Springmont Dr',49.140968,-123.190992
+56753,'56753','Williams Rd @ 4 Ave',49.140984,-123.186561
+56754,'56754','Williams Rd @ 2 Ave',49.140994,-123.18379
+56755,'56755','Williams Rd @ No. 1 Rd',49.140976,-123.180401
+56756,'56756','Williams Rd @ Fortune Ave',49.140975,-123.177243
+56757,'56757','Williams Rd @ Freshwater Dr',49.140969,-123.171295
+56758,'56758','Railway Ave @ Williams Rd',49.14177,-123.169732
+56759,'56759','Railway Ave @ Woodwards Rd',49.144208,-123.169727
+56760,'56760','Railway Ave @ Maple Rd',49.147125,-123.169728
+56761,'56761','Railway Ave @ Francis Rd',49.148838,-123.169737
+56762,'56762','Railway Ave @ 8600 Block',49.150298,-123.169738
+56763,'56763','Railway Ave @ Colbeck Rd',49.152826,-123.169729
+56764,'56764','Railway Ave @ Blundell Rd',49.155956,-123.169727
+56765,'56765','Railway Ave @ Lancing Rd',49.157331,-123.169733
+56766,'56766','Railway Ave @ Linfield Gt',49.160613,-123.169752
 56767,'56767','Granville Ave @ Railway Ave',49.162619,-123.166725
-56768,'56768','Granville Ave @ Lynas Ln',49.162616,-123.164344
-56769,'56769','Granville Ave @ Ledway Rd',49.162604,-123.161532
-56770,'56770','Granville Ave @ No. 2 Rd',49.162605,-123.15846
+56768,'56768','Granville Ave @ Lynas Ln',49.162622,-123.164359
+56769,'56769','Granville Ave @ Ledway Rd',49.162619,-123.16144
+56770,'56770','Granville Ave @ No. 2 Rd',49.162608,-123.158284
 56771,'56771','Granville Ave @ Azure Gt',49.16262,-123.152741
-56772,'56772','Granville Ave @ Livingstone Gt',49.162604,-123.149711
-56773,'56773','Granville Ave @ Gilbert Rd',49.162596,-123.147364
+56772,'56772','Granville Ave @ Livingstone Gt',49.162612,-123.149712
+56773,'56773','Granville Ave @ Gilbert Rd',49.162614,-123.146934
 56774,'56774','Granville Ave @ Moffatt Rd',49.162612,-123.1427
 56775,'56775','Granville Ave @ Minoru Blvd',49.162593,-123.139827
-56776,'56776','Granville Ave @ Minoru Blvd',49.162881,-123.140641
+56776,'56776','Granville Ave @ Minoru Blvd',49.162853,-123.140866
 56777,'56777','Granville Ave @ Moffatt Rd',49.162854,-123.143508
-56778,'56778','Granville Ave @ Gilbert Rd',49.162876,-123.148178
-56779,'56779','Granville Ave @ Azure Gt',49.162867,-123.15355
-56780,'56780','Granville Ave @ No. 2 Rd',49.162885,-123.159288
-56781,'56781','Granville Ave @ Ledway Rd',49.162894,-123.161927
-56782,'56782','Granville Ave @ Lynas Ln',49.162884,-123.164971
-56783,'56783','Railway Ave @ Granville Ave',49.161929,-123.169754
-56784,'56784','Railway Ave @ Linfield Gt',49.160016,-123.169943
-56785,'56785','Railway Ave @ Lancing Rd',49.157045,-123.169948
-56786,'56786','Railway Ave @ Blundell Rd',49.155333,-123.169949
-56787,'56787','Railway Ave @ Colbeck Rd',49.152454,-123.169941
-56788,'56788','Railway Ave @ 8600 Block',49.150941,-123.169929
-56789,'56789','Railway Ave @ Francis Rd',49.148126,-123.169922
-56790,'56790','Railway Ave @ Maple Rd',49.146787,-123.169925
-56791,'56791','Railway Ave @ Woodwards Rd',49.143899,-123.169931
-56792,'56792','Williams Rd @ Fortune Ave',49.141125,-123.176495
-56793,'56793','Williams Rd @ No. 1 Rd',49.141119,-123.181111
-56794,'56794','Williams Rd @ Elkmond Rd',49.141102,-123.185967
-56795,'56795','Williams Rd @ Stilmond Rd',49.141095,-123.190552
-56796,'56796','Springmont Dr @ Springhill Dr',49.13956,-123.191866
-56797,'56797','Springmont Dr @ Springside Pl',49.137269,-123.192903
-56798,'56798','Springmont Dr @ Springmont Gt',49.135507,-123.191564
-56799,'56799','7 Ave @ Steveston Hwy',49.13351,-123.1919
-56800,'56800','7 Ave @ Regent St',49.131743,-123.191927
-56801,'56801','7 Ave @ Garry St',49.129056,-123.191933
-56802,'56802','Chatham St @ 7 Ave',49.126361,-123.191452
+56778,'56778','Granville Ave @ Gilbert Rd',49.162858,-123.148814
+56779,'56779','Granville Ave @ Azure Gt',49.162856,-123.15358
+56780,'56780','Granville Ave @ No. 2 Rd',49.162855,-123.15939
+56781,'56781','Granville Ave @ Ledway Rd',49.16286,-123.1614
+56782,'56782','Granville Ave @ Lynas Ln',49.162845,-123.165392
+56783,'56783','Railway Ave @ Granville Ave',49.162079,-123.169697
+56784,'56784','Railway Ave @ Linfield Gt',49.159735,-123.169955
+56785,'56785','Railway Ave @ Lancing Rd',49.156791,-123.16993
+56786,'56786','Railway Ave @ Blundell Rd',49.155245,-123.169935
+56787,'56787','Railway Ave @ Colbeck Rd',49.152162,-123.169916
+56788,'56788','Railway Ave @ 8600 Block',49.150081,-123.169908
+56789,'56789','Railway Ave @ Francis Rd',49.148054,-123.16994
+56790,'56790','Railway Ave @ Maple Rd',49.146548,-123.169909
+56791,'56791','Railway Ave @ Woodwards Rd',49.143527,-123.169905
+56792,'56792','Williams Rd @ Fortune Ave',49.141112,-123.176768
+56793,'56793','Williams Rd @ No. 1 Rd',49.141116,-123.180739
+56794,'56794','Williams Rd @ Elkmond Rd',49.141114,-123.185975
+56795,'56795','Williams Rd @ Stilmond Rd',49.141094,-123.190514
+56796,'56796','Springmont Dr @ Springhill Dr',49.139683,-123.191832
+56797,'56797','Springmont Dr @ Springside Pl',49.13719,-123.192956
+56798,'56798','Springmont Dr @ Springmont Gt',49.135237,-123.191638
+56799,'56799','7 Ave @ Steveston Hwy',49.133361,-123.191894
+56800,'56800','7 Ave @ Regent St',49.131739,-123.19188
+56801,'56801','7 Ave @ Garry St',49.129041,-123.191884
+56802,'56802','Chatham St @ 7 Ave',49.12637,-123.1912
 56803,'56803','4 Ave @ Chatham St',49.126723,-123.187059
 56804,'56804','4 Ave @ Richmond St',49.128636,-123.187034
 56805,'56805','4 Ave @ Pleasant St',49.131405,-123.187028
@@ -6695,7 +6694,7 @@
 58092,'58092','Commercial Dr @ E 12 Ave',49.259177,-123.06995
 58093,'58093','Commercial Dr @ E 14 Ave',49.257485,-123.069954
 58097,'58097','No. 3 Rd @ Capstan Way',49.189186,-123.131999
-58100,'58100','Springmont Dr @ Springhill Cres',49.139451,-123.191622
+58100,'58100','Springmont Dr @ Springhill Cres',49.139851,-123.191661
 58103,'58103','6 St @ Columbia St',49.2036,-122.908167
 58105,'58105','Mariner Way @ Mara Dr',49.259252,-122.816173
 58106,'58106','Mariner Way @ Como Lk Ave',49.26142,-122.817531
@@ -6748,7 +6747,7 @@
 58191,'58191','North Rd @ Gatineau Pl',49.248513,-122.89266
 58192,'58192','116 St @ 88 Ave',49.1629,-122.902267
 58194,'58194','Chatham St @ 3 Ave',49.126345,-123.185609
-58195,'58195','Williams Rd @ Railway Ave',49.141111,-123.170153
+58195,'58195','Williams Rd @ Railway Ave',49.141101,-123.170812
 58196,'58196','No. 3 Rd @ Lansdowne Rd',49.17419,-123.136558
 58198,'58198','No. 3 Rd @ Cambie Rd',49.183904,-123.136384
 58200,'58200','No. 6 Rd @ International Pl',49.173388,-123.069309
@@ -6799,7 +6798,6 @@
 58271,'58271','Mariner Way @ Austin Ave',49.249319,-122.815518
 58272,'58272','Mariner Way @ 500 Block',49.251855,-122.815561
 58273,'58273','Old Yale Rd @ 13500 Block',49.184316,-122.847504
-58274,'58274','King George Blvd @ 2900 Block',49.056058,-122.806412
 58279,'58279','Richmond-Brighouse Sta Bay 6a',49.166424,-123.135294
 58280,'58280','Terminal Ave @ 300 Block',49.272363,-123.096638
 58281,'58281','E 49 Ave @ Frontenac St',49.222475,-123.026533
@@ -7064,7 +7062,6 @@
 58662,'58662','Derwent Way @ Belgrave Way',49.182717,-122.929698
 58663,'58663','Pinetree Way @ Bobcat Pl',49.30408,-122.784216
 58665,'58665','Pinetree Way @ Grizzly Pl',49.30106,-122.784931
-58666,'58666','Pinetree Way @ Guildford Way',49.284128,-122.793017
 58667,'58667','Plateau Blvd @ Bristlecone Court',49.303713,-122.790314
 58668,'58668','Plateau Blvd @ Robson Dr',49.301023,-122.793114
 58669,'58669','Plateau Blvd @ Timber Court',49.306313,-122.788863
@@ -7564,6 +7561,7 @@
 59429,'59429','Nordel Way @ 116 St',49.161828,-122.903039
 59430,'59430','Nordel Way @ 116 St',49.161586,-122.901205
 59434,'59434','E 49 Ave @ Vivian St',49.224856,-123.050858
+59435,'59435','Pinetree Way @ Burlington Dr',49.283373,-122.793388
 59439,'59439','North Bluff Rd @ Kent St',49.030998,-122.784269
 59476,'59476','Gladstone Dr @ 143a St',49.206725,-122.825607
 59479,'59479','Coast Meridian Rd @ Coquitlam Ave',49.267675,-122.755999
