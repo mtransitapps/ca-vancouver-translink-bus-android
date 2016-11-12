@@ -3301,6 +3301,7 @@
 54024,'54024','Queensbury Ave @ E Keith Rd',49.313132,-123.057219
 54025,'54025','Queensbury Ave @ E 5 St',49.310294,-123.057296
 54026,'54026','Phibbs Exch Bay 4',49.30564,-123.029001
+54028,'54028','Riverside Dr @ Old Dollarton Rd',49.308308,-123.014646
 54029,'54029','Mt Seymour Pkwy @ Seymour Blvd',49.31114,-123.020453
 54030,'54030','Mt Seymour Pkwy @ Riverside Dr',49.310835,-123.015427
 54031,'54031','Mt Seymour Pkwy @ Browning Pl',49.312136,-123.00691
@@ -3542,7 +3543,6 @@
 54301,'54301','Capilano Rd @ Edgewood Rd',49.350572,-123.108052
 54302,'54302','Capilano Rd @ Eldon Rd',49.346858,-123.111413
 54304,'54304','Capilano Rd @ 3600 Block',49.342653,-123.113437
-54305,'54305','Edgemont Blvd @ Riviere Pl',49.343454,-123.11121
 54306,'54306','Edgemont Blvd @ Sunset Blvd',49.340899,-123.106696
 54307,'54307','Edgemont Blvd @ Ridgewood Dr',49.338785,-123.103816
 54308,'54308','Edgemont Blvd @ Highland Blvd',49.337217,-123.101685
@@ -3593,8 +3593,6 @@
 54357,'54357','W Queens Rd @ Thorncliffe Dr',49.33667,-123.096151
 54358,'54358','W Queens Rd @ Colwood Dr',49.336681,-123.098293
 54359,'54359','Highland Blvd @ Woodbine Dr',49.3379,-123.101407
-54361,'54361','Edgemont Blvd @ Sunset Blvd',49.341508,-123.107166
-54362,'54362','Edgemont Blvd @ Capilano Rd',49.343661,-123.111635
 54363,'54363','Ridgewood Dr @ Edgemont Blvd',49.339439,-123.105101
 54364,'54364','Ridgewood Dr @ Norcross Way',49.339563,-123.11304
 54365,'54365','Capilano Rd @ Edgemont Blvd',49.344119,-123.11158
