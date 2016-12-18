@@ -30,6 +30,8 @@
 2001,0,'Victoria',20
 2201,0,'Downtown',22
 2200,0,'Knight',22
+2301,0,'Beach',23
+2300,0,'Main St Sta',23
 2500,0,'Brentwood Sta',25
 2501,0,'UBC',25
 2601,0,'29th Ave Sta',26
@@ -56,10 +58,10 @@
 5000,0,'Waterfront Sta',50
 8401,0,'UBC',84
 8400,0,'VCC-Clark Sta',84
+9501,0,'Burrard Sta',95
+9500,0,'SFU',95
 9600,0,'Guildford',96
 9601,0,'Newton Exch',96
-9700,0,'Coq Sta',97
-9701,0,'Lougheed Sta',97
 9900,0,'Boundary',99
 9901,0,'UBC',99
 10000,0,'22nd St Sta',100
@@ -78,8 +80,6 @@
 11601,0,'Metrotown Sta',116
 12301,0,'Brentwood Sta',123
 12300,0,'New West Sta',123
-12500,0,'B C I T',125
-12501,0,'Patterson Sta',125
 12801,0,'22nd St Sta',128
 12800,0,'Braid Sta',128
 12900,0,'Edmonds Sta',129
@@ -88,40 +88,66 @@
 13001,0,'Metrotown Sta',130
 13401,0,'Brentwood Sta',134
 13400,0,'Lk City Sta',134
-13501,0,'Burrard Sta',135
-13500,0,'SFU',135
 13601,0,'Brentwood Sta',136
 13600,0,'Lougheed Sta',136
-14300,0,'Coq Sta',143
+14300,0,'Burquitlam Sta',143
 14301,0,'SFU',143
 14401,0,'Metrotown Sta',144
 14400,0,'SFU',144
 14501,0,'Production Sta',145
 14500,0,'SFU',145
-15100,0,'Coq Sta',151
-15101,0,'Lougheed Sta',151
-15200,0,'Coq Sta',152
+15101,0,'Burquitlam Sta',151
+15100,0,'Coq Ctrl Sta',151
+15200,0,'Coq Ctrl Sta',152
 15201,0,'Lougheed Sta',152
 15301,0,'Braid Sta',153
-15300,0,'Coq Rec Ctr',153
+15300,0,'Coq Ctrl Sta',153
 15501,0,'22nd St Sta',155
 15500,0,'Braid Sta',155
 15600,0,'Braid Sta',156
 15601,0,'Lougheed Sta',156
-15700,0,'Coq Rec Ctr',157
+15700,0,'Burquitlam Sta',157
 15701,0,'Lougheed Sta',157
 15901,0,'Braid Sta',159
 15900,0,'PoCo Sta',159
-16000,0,'PoCo Sta',160
-16001,0,'Vancouver',160
+16001,0,'Kootenay Loop',160
+16000,0,'Pt Coq Sta',160
 16901,0,'Braid Sta',169
-16900,0,'Coq Sta',169
-17800,0,'Coq Sta',178
-17801,0,'Pt Moody Sta',178
-18801,0,'Coq Sta',188
-18800,0,'PoCo Sta',188
-19000,0,'Coq Sta',190
-19001,0,'Vancouver',190
+16900,0,'Coq Ctrl Sta',169
+17001,0,'Pt Coq South',170
+17000,0,'Pt Coq Sta',170
+17101,0,'Coq Ctrl Sta',171
+17100,0,'Fremont',171
+17201,0,'Coq Ctrl Sta',172
+17200,0,'Riverside',172
+17300,0,'Cedar',173
+17301,0,'Coq Ctrl Sta',173
+17401,0,'Coq Ctrl Sta',174
+17400,0,'Rocklin',174
+17501,0,'Coq Ctrl Sta',175
+17500,0,'Meridian',175
+18001,0,'Lougheed Sta',180
+18000,0,'Moody Ctr Sta',180
+18100,0,'Belcarra',181
+18101,0,'Moody Ctr Sta',181
+18200,0,'Belcarra',182
+18201,0,'Moody Ctr Sta',182
+18300,0,'Coq Ctrl Sta',183
+18301,0,'Moody Ctr Sta',183
+18401,0,'Moody Ctr Sta',184
+18400,0,'Noons Crk',184
+18501,0,'Coq Ctrl Sta',185
+18500,0,'Lansdowne',185
+18601,0,'Coq Ctrl Sta',186
+18600,0,'Hampton Pk',186
+18701,0,'Coq Ctrl Sta',187
+18700,0,'Pkwy',187
+18801,0,'Coq Ctrl Sta',188
+18800,0,'Pt Coq Sta',188
+18901,0,'Coq Central Sta',189
+18900,0,'Lafarge',189
+19101,0,'Coq Ctrl Sta',191
+19100,0,'Princeton',191
 20900,0,'Upper Lynn Vly',209
 20901,0,'Vancouver',209
 21000,0,'Upper Lynn Vly',210
@@ -287,31 +313,10 @@
 62001,0,'Tsaww Ferry',620
 64001,0,'Ladner Exch',640
 64000,0,'Scott Rd Sta',640
-70101,0,'Coq Sta',701
+70101,0,'Coq Ctrl Sta',701
 70100,0,'Maple Rdg East',701
 79101,0,'Braid Sta',791
 79100,0,'Haney Pl',791
-80401,1,'E',804
-80402,1,'W',804
-80703,1,'N',807
-80704,1,'S',807
-82803,1,'N',828
-82804,1,'S',828
-84001,0,'Special',840
-84801,0,'Lougheed Sta',848
-85501,1,'E',855
-85502,1,'W',855
-86103,1,'N',861
-86104,1,'S',861
-86302,1,'W',863
-86401,0,'Special',864
-86500,0,'Haney Pl',865
-86703,1,'N',867
-86704,1,'S',867
-88001,1,'E',880
-88002,1,'W',880
-88101,1,'E',881
-88102,1,'W',881
 89501,1,'E',895
 89502,1,'W',895
 3000100,0,'Hastings @ Gilmore',30001
@@ -342,32 +347,6 @@
 3001801,0,'West Mall',30018
 3002001,0,'Marine Dr',30020
 3002000,0,'UBC Loop',30020
-3002101,0,'Beach',30021
-3002100,0,'Yaletown',30021
-3002301,0,'Davie',30023
-3002300,0,'Main St Sta',30023
-3002401,0,'Lougheed Sta',30024
-3002400,0,'Pt Moody Sta',30024
-3002500,0,'Belcarra',30025
-3002501,0,'Pt Moody Sta',30025
-3002600,0,'Belcarra',30026
-3002601,0,'Pt Moody Sta',30026
-3002700,0,'Coq Sta',30027
-3002701,0,'Pt Moody Sta',30027
-3002800,0,'Coq Sta',30028
-3002801,0,'Pt Moody Sta',30028
-3002901,0,'Coq Sta',30029
-3002900,0,'Pkwy Blvd',30029
-3003001,0,'Coq Sta',30030
-3003000,0,'Lafarge Pk',30030
-3003601,0,'PoCo South',30036
-3003600,0,'PoCo Sta',30036
-3003701,0,'PoCo Sta',30037
-3003700,0,'Riverside',30037
-3003801,0,'Coq Sta',30038
-3003800,0,'Prairie / River Spgs',30038
-3004000,0,'Meridian',30040
-3004001,0,'PoCo Sta',30040
 3004100,0,'Maple Mdws Sta / Meadowtown',30041
 3004101,0,'Pitt Mdws Ctr',30041
 3004300,0,'Haney Pl',30043
@@ -434,7 +413,7 @@
 3009801,0,'Kingswood',30098
 14000801,0,'Downtown',140008
 14000800,0,'Fraser',140008
-14000900,0,'Coq Sta',140009
+14000900,0,'Coq Ctrl Sta',140009
 14000901,0,'Downtown',140009
 14001001,0,'Brighouse Sta',140010
 14001000,0,'Downtown',140010
