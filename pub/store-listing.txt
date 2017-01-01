@@ -5,7 +5,7 @@ Vancouver TransLink buses for MonTransit.
 Schedule. Real-Time. Alerts. News.
 ----------
 What's new in this version?:
-Schedule from December 19, 2016 to January 1, 2017.
+Schedule from January 2, 2017 to April 23, 2017.
 News from www.translink.ca.
 Tweets from @TransLink and @TransLinkMedia.
 ----------
