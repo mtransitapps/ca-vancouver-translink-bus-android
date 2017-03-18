@@ -11,6 +11,7 @@
 50016,'50016','Pacific Blvd @ Davie St',49.274036,-123.120842
 50021,'50021','E Pender St @ Carrall St',49.280394,-123.103799
 50022,'50022','Columbia St @ E Pender St',49.280772,-123.102196
+50023,'50023','Davie St @ Hamilton St',49.274869,-123.122537
 50024,'50024','Davie St @ Richards St',49.276179,-123.124555
 50025,'50025','Davie St @ Granville St',49.277437,-123.126514
 50026,'50026','Davie St @ Howe St',49.278073,-123.127493
@@ -3699,7 +3700,6 @@
 54528,'54528','Montroyal Blvd @ Skyline Dr',49.35427,-123.086217
 54529,'54529','Montroyal Blvd @ Bonita Dr',49.355412,-123.088286
 54530,'54530','Montroyal Blvd @ Ranger Ave',49.356346,-123.090995
-54531,'54531','Montroyal Blvd @ Cedarcrest Ave',49.356318,-123.093575
 54532,'54532','Highland Blvd @ Montroyal Blvd',49.355727,-123.094601
 54533,'54533','Highland Blvd @ Belvedere Dr',49.354443,-123.094825
 54534,'54534','Highland Blvd @ Handsworth Rd',49.352469,-123.095092
@@ -8317,7 +8317,6 @@
 61361,'61361','David Ave @ Genest Way',49.292978,-122.785631
 61396,'61396','232 St @ Fern Cres',49.24101,-122.579717
 61401,'61401','Johnston Rd @ Buena Vista Ave',49.024089,-122.801224
-61408,'61408','Davie St @ Pacific Blvd',49.274307,-123.121682
 61414,'61414','68 Ave @ 192 St',49.126318,-122.690377
 61416,'61416','68 Ave @ 194 St',49.126433,-122.686138
 61419,'61419','Renaissance Sq @ Quayside Dr',49.199987,-122.924573
