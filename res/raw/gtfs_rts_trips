@@ -12,8 +12,8 @@
 700,0,'Nanaimo Sta',7
 801,0,'Downtown',8
 800,0,'Fraser',8
+901,0,'Alma',9
 900,0,'Boundary',9
-901,0,'UBC',9
 1000,0,'Downtown',10
 1001,0,'Granville',10
 1400,0,'Hastings',14
@@ -38,8 +38,8 @@
 2600,0,'Joyce Sta',26
 2701,0,'Joyce Sta',27
 2700,0,'Kootenay Loop',27
-2800,0,'Capilano U',28
 2801,0,'Joyce Sta',28
+2800,0,'Phibbs Exch',28
 2900,0,'29th Ave Sta',29
 2901,0,'Elliott',29
 3200,0,'Downtown',32
@@ -60,7 +60,7 @@
 8400,0,'VCC-Clark Sta',84
 9501,0,'Burrard Sta',95
 9500,0,'SFU',95
-9600,0,'Guildford',96
+9600,0,'Guildford Exch',96
 9601,0,'Newton Exch',96
 9900,0,'Boundary',99
 9901,0,'UBC',99
@@ -86,8 +86,8 @@
 12800,0,'Braid Sta',128
 12900,0,'Edmonds Sta',129
 12901,0,'Patterson Sta',129
-13000,0,'Capilano U',130
 13001,0,'Metrotown Sta',130
+13000,0,'Phibbs Exch',130
 13401,0,'Brentwood Sta',134
 13400,0,'Lk City Sta',134
 13601,0,'Brentwood Sta',136
@@ -101,7 +101,7 @@
 15001,0,'Coq Ctrl Sta',150
 15000,0,'White Pine Beach',150
 15101,0,'Burquitlam Sta',151
-15100,0,'Coq Sta',151
+15100,0,'Coq Ctrl Sta',151
 15200,0,'Coq Ctrl Sta',152
 15201,0,'Lougheed Sta',152
 15301,0,'Braid Sta',153
@@ -182,7 +182,7 @@
 24001,0,'Vancouver',240
 24100,0,'Upper Lonsdale',241
 24101,0,'Vancouver',241
-24200,0,'Upper Lonsdale',242
+24200,0,'Lynn Vly',242
 24201,0,'Vancouver',242
 24600,0,'Lonsdale Quay',246
 24601,0,'Vancouver',246
@@ -214,30 +214,30 @@
 31101,0,'Scottsdale',311
 31200,0,'Scott Rd Sta',312
 31201,0,'Scottsdale',312
+31400,0,'Sry Ctrl Sta',314
 31401,0,'Sunbury',314
-31400,0,'Surrey Ctrl Sta',314
 31601,0,'Scottsdale',316
-31600,0,'Surrey Ctrl Sta',316
+31600,0,'Sry Ctrl Sta',316
 31901,0,'Newton Exch',319
 31900,0,'Scott Rd Sta',319
 32000,0,'Langley Ctr',320
-32001,0,'Surrey Ctrl Sta',320
+32001,0,'Sry Ctrl Sta',320
 32100,0,'New West Sta',321
 32101,0,'White Rock',321
 32301,0,'Newton Exch',323
-32300,0,'Surrey Ctrl Sta',323
+32300,0,'Sry Ctrl Sta',323
 32401,0,'Newton Exch',324
-32400,0,'Surrey Ctrl Sta',324
+32400,0,'Sry Ctrl Sta',324
 32501,0,'Newton Exch',325
-32500,0,'Surrey Ctrl Sta',325
+32500,0,'Sry Ctrl Sta',325
 32600,0,'Guildford',326
-32601,0,'Surrey Ctrl Sta',326
+32601,0,'Sry Ctrl Sta',326
 32901,0,'Scottsdale',329
-32900,0,'Surrey Ctrl Sta',329
+32900,0,'Sry Ctrl Sta',329
 33500,0,'Newton Exch',335
-33501,0,'Surrey Ctrl Sta',335
+33501,0,'Sry Ctrl Sta',335
 33700,0,'Fraser Hts',337
-33701,0,'Surrey Ctrl Sta',337
+33701,0,'Sry Ctrl Sta',337
 34001,0,'22nd St Sta',340
 34000,0,'Scottsdale',340
 34100,0,'Guildford',341
@@ -261,7 +261,7 @@
 39100,0,'Scott Rd Sta',391
 39101,0,'Scottsdale',391
 39301,0,'Newton Exch',393
-39300,0,'Surrey Ctrl Sta',393
+39300,0,'Sry Ctrl Sta',393
 39400,0,'King George Sta',394
 39401,0,'White Rock Ctr',394
 39501,0,'King George Sta',395
@@ -285,12 +285,12 @@
 48000,0,'Bridgeport Sta',480
 48001,0,'UBC',480
 50101,0,'Langley Ctr',501
-50100,0,'Surrey Ctrl Sta',501
+50100,0,'Sry Ctrl Sta',501
 50200,0,'Langley Ctr',502
-50201,0,'Surrey Ctrl Sta',502
+50201,0,'Sry Ctrl Sta',502
 50300,0,'Aldergrove',503
-50301,0,'Surrey Ctrl Sta',503
-50901,0,'Surrey Ctrl Sta',509
+50301,0,'Sry Ctrl Sta',503
+50901,0,'Sry Ctrl Sta',509
 50900,0,'Walnut Grv',509
 53101,0,'White Rock Ctr',531
 53100,0,'Willowbrook',531
@@ -333,9 +333,9 @@
 85502,1,'W',855
 86103,1,'N',861
 86104,1,'S',861
-86302,1,'W',863
+86300,0,'Arch Carney',863
 86401,0,'Special',864
-86500,0,'Haney Pl',865
+86501,0,'Haney Pl',865
 88001,1,'E',880
 88002,1,'W',880
 88101,1,'E',881
@@ -405,9 +405,9 @@
 3007001,0,'Cloverdale',30070
 3007000,0,'Willowbrook',30070
 3007101,0,'Scott Rd Sta',30071
-3007100,0,'Surrey Ctrl Sta',30071
+3007100,0,'Sry Ctrl Sta',30071
 3007300,0,'Guildford',30073
-3007301,0,'Surrey Ctrl Sta',30073
+3007301,0,'Sry Ctrl Sta',30073
 3007500,0,'Newton Exch',30075
 3007501,0,'Scottsdale Exch',30075
 3007601,0,'Ladner Exch',30076
@@ -443,7 +443,7 @@
 14001700,0,'Downtown',140017
 14001701,0,'UBC',140017
 14001901,0,'Downtown',140019
-14001900,0,'Surrey Ctrl Sta',140019
+14001900,0,'Sry Ctrl Sta',140019
 14002000,0,'Downtown',140020
 14002001,0,'Victoria',140020
 14002200,0,'Downtown',140022
