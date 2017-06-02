@@ -1220,8 +1220,6 @@
 51456,'51456','Canada Way @ Beta Ave',49.254764,-122.9987
 51457,'51457','Canada Way @ Willingdon Ave',49.25474,-123.002423
 51458,'51458','Willingdon Ave @ Juneau St',49.263415,-123.003061
-51460,'51460','Willingdon Ave @ Midlawn Dr',49.271387,-123.003116
-51462,'51462','Willingdon Ave @ William St',49.2741,-123.003095
 51463,'51463','Willingdon Ave @ Parker St',49.275944,-123.003113
 51464,'51464','Willingdon Ave @ Georgia St',49.278616,-123.003061
 51465,'51465','Hastings St @ Willingdon Ave',49.281124,-123.003973
@@ -3649,7 +3647,6 @@
 54489,'54489','Highland Blvd @ Leovista Ave',49.344253,-123.094988
 54490,'54490','Highland Blvd @ Wavertree Rd',49.346584,-123.093086
 54491,'54491','Highland Blvd @ Tudor Ave',49.350036,-123.093152
-54492,'54492','Highland Blvd @ Derby Pl',49.351081,-123.094608
 54493,'54493','Highland Blvd @ Handsworth Rd',49.352985,-123.094911
 54494,'54494','Highland Blvd @ Belvedere Dr',49.354872,-123.09451
 54495,'54495','Highland Blvd @ Montroyal Blvd',49.356024,-123.094579
@@ -7730,7 +7727,7 @@
 59879,'59879','175 St @ 58a Ave',49.108019,-122.737733
 59881,'59881','6 St @ Agnes St',49.204961,-122.91014
 59883,'59883','Lansdowne Rd @ Kwantlen St',49.17371,-123.128294
-59884,'59884','Southridge Dr @ 6600 Block',49.20434,-122.956039
+59884,'59884','Southridge Dr @ 6600 Block',49.204346,-122.956055
 59885,'59885','Southridge Dr @ 6600 Block',49.20409,-122.956856
 59887,'59887','Dewdney Trunk Rd @ 240 St',49.220256,-122.556606
 59889,'59889','Kootenay Loop Bay 1',49.281477,-123.025695
@@ -8242,6 +8239,7 @@
 61244,'61244','Machrina Way @ Horseshoe Way',49.124885,-123.095729
 61246,'61246','Cedar Dr @ Inverness St',49.282866,-122.73814
 61247,'61247','102 Ave @ 242b St',49.187396,-122.550391
+61248,'61248','Russ Baker Way @ Gilbert Rd',49.181955,-123.150214
 61250,'61250','Ross Dr @ 200 Block',49.213957,-122.899656
 61251,'61251','Ross Dr @ 200 Block',49.214216,-122.899826
 61252,'61252','Cambie St @ W 29 Ave',49.245537,-123.11525
