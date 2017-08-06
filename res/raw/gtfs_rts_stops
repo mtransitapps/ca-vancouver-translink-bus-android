@@ -1268,7 +1268,6 @@
 51511,'51511','W King Edward Ave @ Willow St',49.248988,-123.121932
 51512,'51512','W King Edward Ave @ Ash St',49.248918,-123.117941
 51513,'51513','King Edward Ave @ Cambie St',49.248866,-123.114707
-51514,'51514','W King Edward Ave @ Yukon St',49.248817,-123.111706
 51516,'51516','W King Edward Ave @ Manitoba St',49.248819,-123.107042
 51517,'51517','E King Edward Ave @ Quebec St',49.248736,-123.102742
 51518,'51518','E King Edward Ave @ Main St',49.248697,-123.100559
@@ -2231,7 +2230,6 @@
 52735,'52735','Moscrop St @ Smith Ave',49.242913,-123.019292
 52736,'52736','Metrotown Sta Bay 4',49.225793,-123.002517
 52738,'52738','Willingdon Ave @ Grafton St',49.232392,-123.003237
-52739,'52739','Willingdon Ave @ Deer Lk Pkwy',49.243311,-123.003169
 52740,'52740','Willingdon Ave @ Sanderson Way',49.248632,-123.004183
 52741,'52741','Willingdon Ave @ Sardis St',49.233488,-123.003442
 52742,'52742','Gilmore Ave @ Hastings St',49.280693,-123.014292
@@ -2401,8 +2399,6 @@
 52941,'52941','Holdom Ave @ Union St',49.277578,-122.980878
 52942,'52942','Holdom Ave @ Frances St',49.279421,-122.980857
 52943,'52943','Pender St @ Willingdon Ave',49.280153,-123.004371
-52945,'52945','Gamma Ave @ Pandora St',49.283114,-122.994623
-52946,'52946','N Gamma Ave @ Empire Dr',49.285876,-122.994536
 52947,'52947','Empire Dr @ Delta Ave',49.28352,-122.991607
 52948,'52948','Hythe Ave @ Empire Dr',49.283312,-122.990457
 52949,'52949','Dundas St @ Hythe Ave',49.28445,-122.989843
@@ -6908,7 +6904,6 @@
 58596,'58596','Clarence Taylor Cres @ Harvest Dr',49.087934,-123.060798
 58597,'58597','South Delta Exch Bay 2',49.035894,-123.068869
 58598,'58598','Gilmore Ave @ Douglas Rd',49.269886,-123.014354
-58599,'58599','Gamma Ave @ Albert St',49.282098,-122.99465
 58600,'58600','32 Ave @ 152 St',49.061678,-122.80191
 58604,'58604','84 Ave @ 160 St',49.155375,-122.780315
 58605,'58605','Sanderson Way @ Gilmore Way',49.248286,-123.008625
