@@ -75,7 +75,7 @@
 50102,'50102','Cornwall Ave @ Maple St',49.272566,-123.150628
 50103,'50103','Cornwall Ave @ Arbutus St',49.272608,-123.152989
 50104,'50104','Cornwall Ave @ Yew St',49.272645,-123.155439
-50105,'50105','Cornwall Ave @ Balsam St',49.272717,-123.160438
+50105,'50105','Cornwall Ave @ Larch St',49.272755,-123.161789
 50106,'50106','Cornwall Ave @ Trafalgar St',49.272799,-123.164636
 50107,'50107','Macdonald St @ W 1 Ave',49.270767,-123.168329
 50108,'50108','Macdonald St @ W 3 Ave',49.268877,-123.168389
@@ -1755,7 +1755,6 @@
 52136,'52136','Se Marine Dr @ Fraser St',49.210909,-123.090507
 52137,'52137','Se Marine Dr @ Prince Albert St',49.210967,-123.088039
 52138,'52138','Se Marine Dr @ Ross St',49.211036,-123.083514
-52140,'52140','Se Marine Dr @ Knight St Bridge',49.210925,-123.075122
 52141,'52141','Se Marine Dr @ Argyle St',49.210911,-123.071659
 52142,'52142','Se Marine Dr @ Beatrice St',49.209995,-123.067396
 52143,'52143','Se Marine Dr @ Matheson Cres',49.207971,-123.030512
@@ -7822,6 +7821,7 @@
 60209,'60209','Elmbridge Way @ Gilbert Rd',49.172833,-123.147194
 60215,'60215','Adams Rd @ Bowen Bay Rd',49.358207,-123.401633
 60216,'60216','Spyglass Rd @ Windjammer Rd',49.377363,-123.413082
+60225,'60225','Se Marine Dr @ Borden St',49.210936,-123.073475
 60283,'60283','No. 3 Rd @ Yaohan Access Rd',49.185933,-123.135504
 60284,'60284','No. 3 Rd @ Yaohan Access Rd',49.186813,-123.134315
 60302,'60302','Cambie St @ Dunsmuir St',49.280188,-123.111858
