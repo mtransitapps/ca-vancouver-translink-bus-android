@@ -80,6 +80,8 @@
 11601,0,'Metrotown Sta',116
 12301,0,'Brentwood Sta',123
 12300,0,'New West Sta',123
+12500,0,'B C I T',125
+12501,0,'Patterson Sta',125
 12801,0,'22nd St Sta',128
 12800,0,'Braid Sta',128
 12900,0,'Edmonds Sta',129
@@ -111,7 +113,7 @@
 15700,0,'Burquitlam Sta',157
 15701,0,'Lougheed Sta',157
 15901,0,'Braid Sta',159
-15900,0,'PoCo Sta',159
+15900,0,'Coq Ctrl Sta',159
 16001,0,'Kootenay Loop',160
 16000,0,'Pt Coq Sta',160
 16901,0,'Braid Sta',169
@@ -204,6 +206,8 @@
 25600,0,'Whitby Ests',256
 25701,0,'Horseshoe Bay',257
 25700,0,'Vancouver',257
+25801,0,'UBC',258
+25800,0,'West Vancouver',258
 25901,0,'Lions Bay',259
 25900,0,'Pk Royal',259
 30101,0,'Brighouse Sta',301
@@ -250,8 +254,18 @@
 35201,0,'Ocean Pk',352
 35400,0,'Bridgeport Sta',354
 35401,0,'White Rock South',354
+36001,0,'Ocean Pk',360
+36000,0,'Peace Arch Hosp',360
+36101,0,'Ocean Pk',361
+36100,0,'White Rock Ctr',361
+36201,0,'Seaside',362
+36200,0,'White Rock Ctr',362
+36301,0,'Peace Arch Hosp',363
+36300,0,'Southpoint',363
 36400,0,'Langley Ctr',364
 36401,0,'Scottsdale',364
+37201,0,'Clayton Hts',372
+37200,0,'Langley Ctr',372
 37500,0,'Guildford',375
 37501,0,'White Rock S',375
 38801,0,'22nd St Sta',388
@@ -316,8 +330,31 @@
 64000,0,'Scott Rd Sta',640
 70101,0,'Coq Ctrl Sta',701
 70100,0,'Maple Rdg East',701
+73301,0,'Pt Haney Sta',733
+73300,0,'Rock Rdg',733
+74100,0,'Anderson Crk',741
+74101,0,'Pt Haney Sta',741
 79101,0,'Braid Sta',791
 79100,0,'Haney Pl',791
+80401,1,'E',804
+80402,1,'W',804
+80703,1,'N',807
+80704,1,'S',807
+82803,1,'N',828
+82804,1,'S',828
+84001,0,'Special',840
+84801,0,'Lougheed Sta',848
+85501,1,'E',855
+85502,1,'W',855
+86103,1,'N',861
+86104,1,'S',861
+86300,0,'Arch Carney',863
+86401,0,'Special',864
+86501,0,'Haney Pl',865
+88001,1,'E',880
+88002,1,'W',880
+88101,1,'E',881
+88102,1,'W',881
 3000100,0,'Hastings @ Gilmore',30001
 3000101,0,'Kootenay Loop',30001
 3000200,0,'Capitol Hl',30002
@@ -342,12 +379,12 @@
 3001200,0,'Lions Bay',30012
 3001500,0,'Indian River',30015
 3001501,0,'Phibbs Exch',30015
-3001800,0,'UBC Loop',30018
+3001800,0,'UBC Exch',30018
 3001801,0,'West Mall',30018
 3001900,0,'Alma',30019
 3001901,0,'Spanish Banks',30019
 3002001,0,'Marine Dr',30020
-3002000,0,'UBC Loop',30020
+3002000,0,'UBC Exch',30020
 3004100,0,'Maple Mdws Sta / Meadowtown',30041
 3004101,0,'Pitt Mdws Ctr',30041
 3004300,0,'Haney Pl',30043
@@ -358,20 +395,10 @@
 3004501,0,'Haney Pl',30045
 3004600,0,'Albion',30046
 3004601,0,'Haney Pl',30046
-3004700,0,'Alouette',30047
-3004701,0,'Haney Pl',30047
 3004801,0,'Haney Pl',30048
 3004800,0,'Thornhill',30048
 3004901,0,'Haney Pl',30049
 3004900,0,'Ruskin',30049
-3005001,0,'Ocean Pk',30050
-3005000,0,'Peace Arch Hosp',30050
-3005101,0,'Ocean Pk',30051
-3005100,0,'White Rock Ctr',30051
-3005201,0,'Seaside',30052
-3005200,0,'White Rock Ctr',30052
-3005300,0,'Cranley',30053
-3005301,0,'White Rock Ctr',30053
 3006001,0,'Langley Ctr',30060
 3006000,0,'Langley Hosp',30060
 3006100,0,'Brookswood',30061
