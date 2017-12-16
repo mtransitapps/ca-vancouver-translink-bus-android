@@ -70,7 +70,7 @@
 10100,0,'Lougheed Sta',101
 10400,0,'22nd St Sta',104
 10401,0,'Annacis Isl',104
-10601,0,'Metrotown Sta',106
+10601,0,'Edmonds Sta',106
 10600,0,'New West Sta',106
 11000,0,'Lougheed Sta',110
 11001,0,'Metrotown Sta',110
@@ -78,6 +78,8 @@
 11200,0,'New West Sta',112
 11600,0,'Edmonds Sta',116
 11601,0,'Metrotown Sta',116
+11900,0,'Edmonds Sta',119
+11901,0,'Metrotown Sta',119
 12301,0,'Brentwood Sta',123
 12300,0,'New West Sta',123
 12500,0,'B C I T',125
