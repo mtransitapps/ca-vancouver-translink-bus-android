@@ -1930,8 +1930,6 @@
 52361,'52361','Ewen Ave @ Mcgillivray Pl',49.188467,-122.941615
 52362,'52362','Ewen Ave @ Howes St',49.186087,-122.947258
 52363,'52363','Ewen Ave @ Jardine St',49.185031,-122.949797
-52364,'52364','Ewen Ave @ Gifford St',49.184099,-122.952021
-52365,'52365','Ewen Ave @ Hume St',49.182363,-122.95614
 52366,'52366','Westminster Hwy @ Boundary Rd',49.183684,-122.958161
 52367,'52367','Westminster Hwy @ Smith Cres',49.181626,-122.964867
 52369,'52369','Westminster Hwy @ Willett Ave',49.179341,-122.967315
@@ -5752,9 +5750,6 @@
 56908,'56908','Smith Cres @ Gts Ave',49.179134,-122.964446
 56909,'56909','Smith Cres @ Westminster Hwy',49.181434,-122.964167
 56910,'56910','Westminster Hwy @ Willett Ave',49.180024,-122.966727
-56911,'56911','Ewen Ave @ Philips St',49.182193,-122.956327
-56912,'56912','Ewen Ave @ Dawe St',49.18299,-122.95442
-56913,'56913','Ewen Ave @ Gifford St',49.18428,-122.951332
 56919,'56919','22nd St Sta Bay 7',49.199633,-122.949901
 56920,'56920','Westminster Hwy @ Fraserside Gt',49.177613,-122.968331
 56921,'56921','Westminster Hwy @ Mclean Ave',49.173653,-122.970686
@@ -7528,11 +7523,13 @@
 59547,'59547','Salish Sea Dr @ Blue Heron Dr',49.037834,-123.090643
 59549,'59549','6 Ave @ 18 St',49.202285,-122.940342
 59552,'59552','Boyd St @ Gifford St',49.185126,-122.952829
+59553,'59553','Gifford St @ Ewen Ave',49.183824,-122.951394
 59554,'59554','Burquitlam Sta Bay 1',49.261408,-122.889533
 59555,'59555','Westminster Hwy @ Boundary Rd',49.183568,-122.958009
 59556,'59556','Boyd St @ Gifford St',49.185349,-122.952063
 59557,'59557','Burquitlam Sta Bay 2',49.261209,-122.8898
 59558,'59558','Dunsmuir St @ Cambie St',49.280837,-123.112004
+59559,'59559','Salter St @ Gifford St',49.181906,-122.948713
 59560,'59560','Marine Dr @ 4900 Block',49.207204,-122.993675
 59561,'59561','Burquitlam Sta Bay 3',49.260877,-122.890353
 59562,'59562','Rochester Ave @ Goyer Court',49.244978,-122.853637
@@ -7925,6 +7922,11 @@
 60227,'60227','Venables St @ Raymur Ave',49.276888,-123.082294
 60231,'60231','King George Blvd @ Cr Rd',49.066796,-122.819636
 60233,'60233','Maple Mdws Sta Bay 1',49.217229,-122.667435
+60236,'60236','Windjammer Rd @ Arbutus Pt Rd (Flagstop)',49.366352,-123.422783
+60237,'60237','Artisan Sq (Flagstop)',49.380313,-123.345891
+60238,'60238','Isl Pacific School (Flagstop)',49.380835,-123.352427
+60239,'60239','Miller Rd @ Scarborough Rd (Flagstop)',49.389398,-123.329958
+60240,'60240','Lenora Rd @ Melmore Rd (Flagstop)',49.383757,-123.336694
 60283,'60283','No. 3 Rd @ Yaohan Access Rd',49.185933,-123.135504
 60284,'60284','No. 3 Rd @ Yaohan Access Rd',49.186813,-123.134315
 60302,'60302','Cambie St @ Dunsmuir St',49.280188,-123.111858
