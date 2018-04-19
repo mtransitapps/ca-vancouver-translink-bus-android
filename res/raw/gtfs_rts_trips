@@ -48,6 +48,8 @@
 3301,0,'UBC',33
 4100,0,'Joyce Sta',41
 4101,0,'UBC',41
+4200,0,'Alma',42
+4201,0,'Spanish Banks',42
 4300,0,'Joyce Sta',43
 4301,0,'UBC',43
 4400,0,'Downtown',44
@@ -56,6 +58,10 @@
 4901,0,'UBC',49
 5001,0,'S False Crk',50
 5000,0,'Waterfront Sta',50
+6801,0,'Lower Mall',68
+6800,0,'UBC Exch',68
+7000,0,'UBC Exch',70
+7001,0,'Wesbrook Mall',70
 8401,0,'UBC',84
 8400,0,'VCC-Clark Sta',84
 9501,0,'Burrard Sta',95
@@ -86,10 +92,16 @@
 12501,0,'Patterson Sta',125
 12801,0,'22nd St Sta',128
 12800,0,'Braid Sta',128
-12900,0,'Edmonds Sta',129
+12900,0,'Holdom Sta',129
 12901,0,'Patterson Sta',129
 13001,0,'Metrotown Sta',130
 13000,0,'Phibbs Exch',130
+13100,0,'Hastings @ Gilmore',131
+13101,0,'Kootenay Loop',131
+13200,0,'Capitol Hl',132
+13201,0,'Hastings @ Gilmore',132
+13300,0,'Edmonds Sta',133
+13301,0,'Holdom Sta',133
 13401,0,'Brentwood Sta',134
 13400,0,'Lk City Sta',134
 13601,0,'Brentwood Sta',136
@@ -100,6 +112,8 @@
 14400,0,'SFU',144
 14501,0,'Production Sta',145
 14500,0,'SFU',145
+15001,0,'Coq Ctrl Sta',150
+15000,0,'White Pine Beach',150
 15101,0,'Burquitlam Sta',151
 15100,0,'Coq Ctrl Sta',151
 15200,0,'Coq Ctrl Sta',152
@@ -162,6 +176,8 @@
 21201,0,'Phibbs Exch',212
 21400,0,'Blueridge',214
 21401,0,'Vancouver',214
+21500,0,'Indian River',215
+21501,0,'Phibbs Exch',215
 22700,0,'Lynn Vly Ctr',227
 22701,0,'Phibbs Exch',227
 22801,0,'Lonsdale Quay',228
@@ -208,6 +224,12 @@
 25800,0,'West Vancouver',258
 25901,0,'Lions Bay',259
 25900,0,'Pk Royal',259
+26201,0,'Caulfeild',262
+26200,0,'Lions Bay- Brunswick',262
+28001,0,'Bluewater',280
+28000,0,'Snug Cv',280
+28100,0,'Eaglecliff',281
+28101,0,'Snug Cv',281
 30101,0,'Brighouse Sta',301
 30100,0,'Newton Exch',301
 31100,0,'Bridgeport Sta',311
@@ -262,8 +284,12 @@
 36300,0,'Southpoint',363
 36400,0,'Langley Ctr',364
 36401,0,'Scottsdale',364
+37101,0,'Scott Rd Sta',371
+37100,0,'Sry Ctrl Sta',371
 37201,0,'Clayton Hts',372
 37200,0,'Langley Ctr',372
+37300,0,'Guildford',373
+37301,0,'Sry Ctrl Sta',373
 37500,0,'Guildford',375
 37501,0,'White Rock S',375
 38801,0,'22nd St Sta',388
@@ -334,8 +360,6 @@
 74101,0,'Pt Haney Sta',741
 79101,0,'Braid Sta',791
 79100,0,'Haney Pl',791
-80401,1,'E',804
-80402,1,'W',804
 80703,1,'N',807
 80704,1,'S',807
 82803,1,'N',828
@@ -353,10 +377,6 @@
 88002,1,'W',880
 88101,1,'E',881
 88102,1,'W',881
-3000100,0,'Hastings @ Gilmore',30001
-3000101,0,'Kootenay Loop',30001
-3000200,0,'Capitol Hl',30002
-3000201,0,'Hastings @ Gilmore',30002
 3000301,0,'Quayside',30003
 3000300,0,'Victoria Hl',30003
 3000401,0,'New West Sta',30004
@@ -369,18 +389,6 @@
 3000701,0,'Metrotown Sta',30007
 3000900,0,'Lougheed Sta',30009
 3000901,0,'New West Sta',30009
-3001001,0,'Bluewater',30010
-3001000,0,'Snug Cv',30010
-3001100,0,'Eaglecliff',30011
-3001101,0,'Snug Cv',30011
-3001201,0,'Caulfeild',30012
-3001200,0,'Lions Bay',30012
-3001500,0,'Indian River',30015
-3001501,0,'Phibbs Exch',30015
-3001800,0,'UBC Exch',30018
-3001801,0,'West Mall',30018
-3002001,0,'Marine Dr',30020
-3002000,0,'UBC Exch',30020
 3004100,0,'Maple Mdws Sta / Meadowtown',30041
 3004101,0,'Pitt Mdws Ctr',30041
 3004300,0,'Haney Pl',30043
@@ -407,10 +415,6 @@
 3006400,0,'Willowbrook',30064
 3007001,0,'Cloverdale',30070
 3007000,0,'Willowbrook',30070
-3007101,0,'Scott Rd Sta',30071
-3007100,0,'Sry Ctrl Sta',30071
-3007300,0,'Guildford',30073
-3007301,0,'Sry Ctrl Sta',30073
 3007500,0,'Newton Exch',30075
 3007501,0,'Scottsdale Exch',30075
 3007601,0,'Ladner Exch',30076
