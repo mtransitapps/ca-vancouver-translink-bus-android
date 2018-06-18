@@ -88,8 +88,6 @@
 11901,0,'Metrotown Sta',119
 12301,0,'Brentwood Sta',123
 12300,0,'New West Sta',123
-12500,0,'B C I T',125
-12501,0,'Patterson Sta',125
 12801,0,'22nd St Sta',128
 12800,0,'Braid Sta',128
 12900,0,'Holdom Sta',129
@@ -144,6 +142,8 @@
 17400,0,'Rocklin',174
 17501,0,'Coq Ctrl Sta',175
 17500,0,'Meridian',175
+17900,0,'Buntzen Lk',179
+17901,0,'Coq Ctrl Sta',179
 18001,0,'Lougheed Sta',180
 18000,0,'Moody Ctr Sta',180
 18100,0,'Belcarra',181
@@ -230,6 +230,8 @@
 28101,0,'Snug Cv',281
 30101,0,'Brighouse Sta',301
 30100,0,'Newton Exch',301
+31001,0,'Ladner Exch',310
+31000,0,'Scottsdale',310
 31100,0,'Bridgeport Sta',311
 31101,0,'Scottsdale',311
 31200,0,'Scott Rd Sta',312
@@ -244,6 +246,8 @@
 32001,0,'Sry Ctrl Sta',320
 32100,0,'New West Sta',321
 32101,0,'White Rock',321
+32200,0,'Newton Exch',322
+32201,0,'Scottsdale',322
 32301,0,'Newton Exch',323
 32300,0,'Sry Ctrl Sta',323
 32401,0,'Newton Exch',324
@@ -282,6 +286,8 @@
 36300,0,'Southpoint',363
 36400,0,'Langley Ctr',364
 36401,0,'Scottsdale',364
+37001,0,'Cloverdale',370
+37000,0,'Willowbrook',370
 37101,0,'Scott Rd Sta',371
 37100,0,'Sry Ctrl Sta',371
 37201,0,'Clayton Hts',372
@@ -330,6 +336,16 @@
 53100,0,'Willowbrook',531
 55500,0,'Carvolth Exch',555
 55501,0,'Lougheed Sta',555
+56001,0,'Langley Ctr',560
+56000,0,'Murrayville',560
+56100,0,'Brookswood',561
+56101,0,'Langley Ctr',561
+56201,0,'Langley Ctr',562
+56200,0,'Walnut Grv',562
+56301,0,'Fernridge',563
+56300,0,'Langley Ctr',563
+56401,0,'Langley Ctr',564
+56400,0,'Willowbrook',564
 59501,0,'Langley Ctr',595
 59500,0,'Maple Mdws Sta',595
 60100,0,'Bridgeport Sta',601
@@ -356,27 +372,21 @@
 73300,0,'Rock Rdg',733
 74100,0,'Anderson Crk',741
 74101,0,'Pt Haney Sta',741
+74300,0,'Haney Pl',743
+74301,0,'Meadowtown',743
+74400,0,'Haney Pl',744
+74401,0,'Meadowtown',744
+74500,0,'Cottonwood',745
+74501,0,'Haney Pl',745
+74600,0,'Albion',746
+74601,0,'Haney Pl',746
+74801,0,'Haney Pl',748
+74800,0,'Thornhill',748
+74901,0,'Haney Pl',749
+74900,0,'Ruskin',749
 79101,0,'Braid Sta',791
 79100,0,'Haney Pl',791
-80401,1,'E',804
-80402,1,'W',804
-80703,1,'N',807
-80704,1,'S',807
-82803,1,'N',828
-82804,1,'S',828
 84001,0,'Special',840
-84801,0,'Lougheed Sta',848
-85501,1,'E',855
-85502,1,'W',855
-86103,1,'N',861
-86104,1,'S',861
-86300,0,'Arch Carney',863
-86401,0,'Special',864
-86501,0,'Haney Pl',865
-88001,1,'E',880
-88002,1,'W',880
-88101,1,'E',881
-88102,1,'W',881
 3000301,0,'Quayside',30003
 3000300,0,'Victoria Hl',30003
 3000401,0,'New West Sta',30004
@@ -391,34 +401,6 @@
 3000901,0,'New West Sta',30009
 3004100,0,'Maple Mdws Sta / Meadowtown',30041
 3004101,0,'Pitt Mdws Ctr',30041
-3004300,0,'Haney Pl',30043
-3004301,0,'Meadowtown',30043
-3004400,0,'Haney Pl',30044
-3004401,0,'Meadowtown',30044
-3004500,0,'Cottonwood',30045
-3004501,0,'Haney Pl',30045
-3004600,0,'Albion',30046
-3004601,0,'Haney Pl',30046
-3004801,0,'Haney Pl',30048
-3004800,0,'Thornhill',30048
-3004901,0,'Haney Pl',30049
-3004900,0,'Ruskin',30049
-3006001,0,'Langley Ctr',30060
-3006000,0,'Langley Hosp',30060
-3006100,0,'Brookswood',30061
-3006101,0,'Langley Ctr',30061
-3006201,0,'Langley Ctr',30062
-3006200,0,'Walnut Grv',30062
-3006301,0,'Fernridge',30063
-3006300,0,'Langley Ctr',30063
-3006401,0,'Langley Ctr',30064
-3006400,0,'Willowbrook',30064
-3007001,0,'Cloverdale',30070
-3007000,0,'Willowbrook',30070
-3007500,0,'Newton Exch',30075
-3007501,0,'Scottsdale Exch',30075
-3007601,0,'Ladner Exch',30076
-3007600,0,'Scottsdale Exch',30076
 3008401,0,'English Bluff',30084
 3008400,0,'S Delta Exch',30084
 3008600,0,'Ladner Exch',30086
