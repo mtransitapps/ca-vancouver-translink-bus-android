@@ -8,10 +8,10 @@
 50013,'50013','Eastbound Pacific St @ Richards St',49.273529,-123.127316
 50014,'50014','Eastbound Pacific Blvd @ Homer St',49.272929,-123.125546
 50015,'50015','Eastbound Pacific Blvd @ Drake St',49.273429,-123.123135
-50016,'50016','Eastbound Pacific Blvd @ Davie St',49.274036,-123.120842
+50016,'50016','Yaletown-Roundhouse Sta @ Bay 4',49.274036,-123.120842
 50021,'50021','Eastbound E Pender St @ Carrall St',49.280394,-123.103799
 50022,'50022','Northbound Columbia St @ E Pender St',49.280772,-123.102196
-50023,'50023','Westbound Davie St @ Hamilton St',49.274863,-123.122521
+50023,'50023','Yaletown-Roundhouse Sta @ Bay 1',49.274863,-123.122521
 50024,'50024','Westbound Davie St @ Richards St',49.276179,-123.124555
 50025,'50025','Westbound Davie St @ Granville St',49.277437,-123.126514
 50026,'50026','Westbound Davie St @ Howe St',49.278073,-123.127493
@@ -60,7 +60,7 @@
 50080,'50080','Eastbound W Pender St @ Hamilton St',49.281799,-123.110618
 50081,'50081','Southbound Cambie St @ Dunsmuir St',49.280808,-123.111146
 50082,'50082','Southbound Cambie St @ W Georgia St Bay 3',49.279172,-123.113635
-50085,'50085','Westbound Pacific Blvd @ Davie St',49.27402,-123.121945
+50085,'50085','Yaletown-Roundhouse Sta @ Bay 3',49.27402,-123.121945
 50086,'50086','Westbound Pacific Blvd @ Drake St',49.27342,-123.124214
 50087,'50087','Westbound Pacific St @ Richards St',49.273623,-123.127085
 50090,'50090','Westbound W 41 Ave @ Willow St',49.233984,-123.126031
@@ -104,7 +104,7 @@
 50132,'50132','Eastbound W 41 Ave @ Mackenzie St',49.234673,-123.169829
 50134,'50134','Eastbound W 41 Ave @ Willow St',49.233687,-123.123477
 50135,'50135','Eastbound W 41 Ave @ Heather St',49.233534,-123.120243
-50136,'50136','Eastbound W 41 Ave @ Cambie St',49.233446,-123.117554
+50136,'50136','Oakridge-41st Ave Sta @ Bay 2',49.233446,-123.117554
 50138,'50138','Eastbound W 41 Ave @ Columbia St',49.23327,-123.111462
 50139,'50139','Eastbound W 41 Ave @ Manitoba St',49.233142,-123.107725
 50140,'50140','Eastbound E 41 Ave @ Ontario St',49.233063,-123.105218
@@ -119,7 +119,7 @@
 50156,'50156','Westbound E 41st Ave @ Main St',49.233207,-123.102082
 50157,'50157','Westbound W 41 Ave @ Ontario St',49.233269,-123.106197
 50158,'50158','Westbound W 41 Ave @ Columbia St',49.233442,-123.11122
-50160,'50160','Westbound W 41 Ave @ Cambie St',49.233681,-123.116855
+50160,'50160','Oakridge-41st Ave Sta @ Bay 5',49.233681,-123.116855
 50161,'50161','Westbound W 41 Ave @ Heather St',49.233831,-123.121289
 50162,'50162','Northbound Main St @ E 39 Ave',49.235734,-123.101505
 50163,'50163','Northbound Main St @ E 36 Ave',49.23802,-123.101502
@@ -194,6 +194,9 @@
 50263,'50263','Southbound Main St @ E 62 Ave',49.213842,-123.102217
 50264,'50264','Southbound Main St @ E 63 Ave',49.212975,-123.102245
 50265,'50265','Eastbound E 65 Ave @ Main St',49.211695,-123.101625
+50268,'50268','Eastbound University Blvd @ Allison Rd',49.266827,-123.241849
+50270,'50270','Eastbound University Blvd @ 5300 Block',49.265327,-123.235217
+50271,'50271','Eastbound University Blvd @ 5100 Block',49.263486,-123.229095
 50272,'50272','Northbound Blanca St @ W 10 Ave',49.264289,-123.215067
 50273,'50273','Bus Stop @ Blanca Loop',49.265243,-123.21585
 50274,'50274','Eastbound W 10 Ave @ Blanca St',49.263836,-123.214641
@@ -320,13 +323,13 @@
 50410,'50410','Southbound Cambie St @ W Hastings St',49.282211,-123.109799
 50411,'50411','Eastbound Nelson St @ Cambie St',49.275788,-123.117719
 50412,'50412','Southbound Cambie St @ W 7th Ave',49.264477,-123.114982
-50413,'50413','Southbound Cambie St @ W Broadway',49.262829,-123.115052
+50413,'50413','Broadway-City Hall Sta @ Bay 3',49.262829,-123.115052
 50414,'50414','Southbound Cambie St @ W 12 Ave',49.260113,-123.115144
 50415,'50415','Southbound Cambie St @ W 16 Ave',49.256555,-123.115252
 50416,'50416','Southbound Cambie St @ W 18 Ave',49.254674,-123.115282
 50417,'50417','Southbound Cambie St @ W 20 Ave',49.252766,-123.115379
 50418,'50418','Southbound Cambie St @ W 22 Ave',49.250985,-123.115447
-50419,'50419','Southbound Cambie St @ W King Edward Ave',49.248634,-123.115722
+50419,'50419','King Edward Sta @ Bay 4',49.248634,-123.115722
 50420,'50420','Southbound Cambie St @ W 27 Ave',49.246788,-123.115814
 50421,'50421','Southbound Cambie St @ W 31 Ave',49.242949,-123.118428
 50422,'50422','Southbound Cambie St @ W 33 Ave',49.24075,-123.118651
@@ -370,10 +373,10 @@
 50464,'50464','Westbound W Broadway @ Spruce St',49.26354,-123.129369
 50465,'50465','Westbound W Broadway @ Alder St',49.263576,-123.131742
 50466,'50466','Westbound W Broadway @ Hemlock St',49.263661,-123.136472
-50467,'50467','Northbound Cambie St @ W 41 Ave',49.233905,-123.115953
+50467,'50467','Oakridge-41st Ave Sta @ Bay 6',49.233905,-123.115953
 50469,'50469','Northbound Cambie St @ W 37 Ave',49.237495,-123.1158
 50471,'50471','Northbound Cambie St @ W 33 Ave',49.241409,-123.11818
-50475,'50475','Northbound Cambie St @ W King Edward Ave',49.249415,-123.115245
+50475,'50475','King Edward Sta @ Bay 2',49.249415,-123.115245
 50476,'50476','Northbound Cambie St @ W 22 Ave',49.251472,-123.115164
 50477,'50477','Northbound Cambie St @ W 20 Ave',49.253243,-123.115102
 50478,'50478','Northbound Cambie St @ W 18 Ave',49.255125,-123.115019
@@ -469,6 +472,10 @@
 50598,'50598','Southbound Blanca St @ W 4th Ave',49.268693,-123.215183
 50599,'50599','Southbound Blanca St @ W 6th Ave',49.267013,-123.215227
 50600,'50600','Southbound Blanca St @ W 8th Ave',49.265146,-123.215302
+50601,'50601','Westbound University Blvd @ Blanca St',49.264016,-123.215915
+50602,'50602','Westbound University Blvd @ 5100 Block',49.263693,-123.229837
+50603,'50603','Westbound University Blvd @ 5300 Block',49.265815,-123.235541
+50604,'50604','Westbound University Blvd @ Acadia Rd',49.267024,-123.239311
 50607,'50607','Westbound Davie St @ Denman St',49.287084,-123.141411
 50608,'50608','Northbound Denman St @ Pendrell St',49.2881,-123.140382
 50609,'50609','Northbound Denman St @ Nelson St',49.289517,-123.138254
@@ -677,6 +684,7 @@
 50833,'50833','Northbound Fraser St @ E 37 Ave',49.236772,-123.090324
 50834,'50834','Northbound Fraser St @ E 35 Ave',49.23862,-123.090274
 50835,'50835','Northbound Fraser St @ E 33 Ave',49.240627,-123.09022
+50838,'50838','Northbound Fraser St @ E 28 Ave',49.245869,-123.090107
 50840,'50840','Northbound Fraser St @ E King Edward Ave',49.248973,-123.089998
 50841,'50841','Northbound Fraser St @ E 22 Ave',49.251282,-123.089924
 50843,'50843','Northbound Fraser St @ E 17 Ave',49.255774,-123.089737
@@ -705,7 +713,7 @@
 50872,'50872','Eastbound W Broadway @ Laurel St',49.263269,-123.123647
 50873,'50873','Eastbound W Broadway @ Willow St',49.26323,-123.121293
 50874,'50874','Eastbound W Broadway @ Heather St',49.263205,-123.119257
-50875,'50875','Eastbound W Broadway @ Cambie St',49.263107,-123.114283
+50875,'50875','Broadway-City Hall Sta @ Bay 1',49.263107,-123.114283
 50878,'50878','Eastbound E Broadway @ Ontario St',49.262911,-123.104471
 50879,'50879','Eastbound E Broadway @ Main St',49.262831,-123.101345
 50881,'50881','Westbound E Broadway @ Main St',49.26302,-123.101629
@@ -745,7 +753,7 @@
 50919,'50919','Westbound E Broadway @ Prince Albert St',49.262579,-123.087643
 50920,'50920','Westbound W Broadway @ Ontario St',49.263101,-123.105291
 50921,'50921','Westbound W Broadway @ Columbia St',49.263212,-123.109868
-50922,'50922','Westbound W Broadway @ Yukon St',49.263296,-123.113277
+50922,'50922','Broadway-City Hall Sta @ Bay 5',49.263296,-123.113277
 50924,'50924','Westbound W Broadway @ Ash St',49.26336,-123.118098
 50925,'50925','Westbound W Broadway @ Heather St',49.263401,-123.120227
 50926,'50926','Westbound W Broadway @ Willow St',49.263433,-123.122318
@@ -790,10 +798,10 @@
 50975,'50975','Eastbound W Georgia St @ Burrard St',49.284132,-123.120872
 50976,'50976','Eastbound W Georgia St @ Granville St',49.28264,-123.118529
 50978,'50978','Westbound W Hastings St @ Granville St',49.285242,-123.113584
-50981,'50981','Southbound Cambie St @ W 41 Ave',49.233092,-123.116464
+50981,'50981','Oakridge-41st Ave Sta @ Bay 1',49.233092,-123.116464
 50982,'50982','Southbound Cambie St @ W 43 Ave',49.231397,-123.116561
 50983,'50983','Southbound Cambie St @ W 45 Ave',49.229514,-123.116588
-50985,'50985','Southbound Cambie St @ W 49 Ave',49.225846,-123.116731
+50985,'50985','Langara-49th Sta @ Bay 4',49.225846,-123.116731
 50986,'50986','Southbound Cambie St @ W 54 Ave',49.221502,-123.116906
 50987,'50987','Southbound Cambie St @ W 57 Ave',49.218787,-123.117011
 50988,'50988','Southbound Cambie St @ W 59 Ave',49.216483,-123.117102
@@ -803,11 +811,10 @@
 50995,'50995','Northbound Cambie St @ W 59 Ave',49.217289,-123.116608
 50996,'50996','Northbound Cambie St @ W 57 Ave',49.219328,-123.116528
 50997,'50997','Northbound Cambie St @ W 54 Ave',49.22204,-123.116425
-50999,'50999','Northbound Cambie St @ W 49 Ave',49.226473,-123.116241
+50999,'50999','Langara-49th Sta @ Bay 1',49.226473,-123.116241
 51003,'51003','Northbound Cambie St @ W 42 Ave',49.232875,-123.115999
 51004,'51004','Northbound Seymour St @ Davie St',49.276811,-123.124629
 51006,'51006','Northbound Seymour St @ Nelson St',49.278835,-123.121579
-51007,'51007','Northbound Seymour St @ Robson St',49.280483,-123.119071
 51008,'51008','Southbound Granville St @ W 45 Ave',49.230342,-123.139857
 51010,'51010','Westbound W 64 Ave @ Adera St',49.213261,-123.144003
 51011,'51011','Northbound Angus Dr @ W 64 Ave',49.21358,-123.148376
@@ -1256,7 +1263,7 @@
 51510,'51510','Eastbound W King Edward Ave @ Oak St',49.24909,-123.127001
 51511,'51511','Eastbound W King Edward Ave @ Willow St',49.248988,-123.121932
 51512,'51512','Eastbound W King Edward Ave @ Ash St',49.248918,-123.117941
-51513,'51513','Eastbound W King Edward Ave @ Cambie St',49.248866,-123.114707
+51513,'51513','King Edward Sta @ Bay 3',49.248866,-123.114707
 51516,'51516','Eastbound W King Edward Ave @ Manitoba St',49.248819,-123.107042
 51517,'51517','Eastbound E King Edward Ave @ Quebec St',49.248736,-123.102742
 51518,'51518','Eastbound E King Edward Ave @ Main St',49.248697,-123.100559
@@ -1311,7 +1318,7 @@
 51570,'51570','Westbound E King Edward Ave @ Prince Edward St',49.248783,-123.097125
 51572,'51572','Westbound W King Edward Ave @ Ontario St',49.248922,-123.105388
 51573,'51573','Westbound W King Edward Ave @ Columbia St',49.249023,-123.110516
-51574,'51574','Westbound W King Edward Ave @ Cambie St',49.249121,-123.116003
+51574,'51574','King Edward Sta @ Bay 1',49.249121,-123.116003
 51575,'51575','Westbound W King Edward Ave @ Heather St',49.249205,-123.120844
 51576,'51576','Westbound W King Edward Ave @ Laurel St',49.249302,-123.125107
 51577,'51577','Westbound W King Edward Ave @ Oak St',49.249375,-123.128078
@@ -1471,7 +1478,6 @@
 51747,'51747','Phibbs Exch @ Bay 5',49.305795,-123.029135
 51748,'51748','Westbound Oxford St @ Mtn Hwy',49.306044,-123.031376
 51749,'51749','Northbound Mtn Hwy @ Crown St',49.309148,-123.031976
-51751,'51751','Northbound Old Lillooet Rd @ Premier St',49.31348,-123.027015
 51752,'51752','Northbound Lillooet Rd @ 1000 Block',49.315778,-123.023902
 51753,'51753','Eastbound Purcell Way @ Lillooet Rd',49.317472,-123.023477
 51755,'51755','Southbound Lillooet Rd @ Purcell Way',49.317205,-123.024083
@@ -1622,7 +1628,7 @@
 51963,'51963','Eastbound W 49 Ave @ Oak St',49.22645,-123.12776
 51965,'51965','Eastbound W 49 Ave @ Heather St',49.226275,-123.123158
 51966,'51966','Eastbound W 49 Ave @ Tisdall St',49.226174,-123.120295
-51967,'51967','Eastbound W 49 Ave @ Cambie St',49.226003,-123.11584
+51967,'51967','Langara-49th Sta @ Bay 3',49.226003,-123.11584
 51968,'51968','Eastbound W 49 Ave @ Alberta St',49.225896,-123.112498
 51969,'51969','Eastbound W 49 Ave @ Manitoba St',49.22573,-123.107863
 51970,'51970','Eastbound E 49 Ave @ Quebec St',49.225636,-123.103335
@@ -1722,7 +1728,7 @@
 52094,'52094','Westbound E Broadway @ Commercial Dr',49.262426,-123.069432
 52095,'52095','Westbound W Broadway @ Macdonald St',49.264156,-123.167544
 52099,'52099','Eastbound W Broadway @ Heather St',49.263212,-123.120173
-52100,'52100','Eastbound W Broadway @ Yukon St',49.263084,-123.113352
+52100,'52100','Broadway-City Hall Sta @ Bay 6',49.263084,-123.113352
 52101,'52101','Eastbound E Broadway @ Main St',49.262801,-123.10042
 52102,'52102','Eastbound E Broadway @ Commercial Dr',49.262213,-123.068963
 52103,'52103','Eastbound Lougheed Hwy @ Boundary Rd',49.265602,-123.022312
@@ -1887,7 +1893,7 @@
 52310,'52310','Westbound 8th Ave @ 19 St',49.203929,-122.946466
 52311,'52311','Westbound 8th Ave @ 20 St',49.202694,-122.948761
 52316,'52316','Eastbound Columbia St @ 6th St',49.203434,-122.907238
-52317,'52317','Eastbound Columbia St @ Columbia Sta',49.204662,-122.904917
+52317,'52317','Columbia Sta @ Bay 2',49.204662,-122.904917
 52318,'52318','Eastbound Columbia St @ 200 Block',49.205926,-122.902572
 52322,'52322','Eastbound E 8th Ave @ Mcbride Blvd',49.222855,-122.910938
 52323,'52323','Southbound Cumberland St @ E 8th Ave',49.223886,-122.908073
@@ -1897,7 +1903,7 @@
 52327,'52327','Southbound Richmond St @ Seymour Court',49.219804,-122.898494
 52328,'52328','Southbound Richmond St @ Miner St',49.218132,-122.896555
 52330,'52330','Westbound Columbia St @ 200 Block',49.206351,-122.902216
-52331,'52331','Westbound Columbia St @ Columbia Sta',49.204434,-122.905796
+52331,'52331','Columbia Sta @ Bay 1',49.204434,-122.905796
 52332,'52332','Westbound Columbia St @ 6th St',49.203028,-122.908363
 52335,'52335','Eastbound Quayside Dr @ Laguna Court',49.199906,-122.922576
 52336,'52336','Eastbound Quayside Dr @ Reliance Court',49.198963,-122.91808
@@ -1974,7 +1980,7 @@
 52425,'52425','Southbound 6th St @ Royal Ave',49.20583,-122.911237
 52427,'52427','Eastbound Agnes St @ 4th St',49.206323,-122.90702
 52428,'52428','Eastbound Agnes St @ Merrivale St',49.207215,-122.905371
-52431,'52431','Northbound 4th St @ Columbia St',49.20493,-122.905597
+52431,'52431','Columbia Sta @ Bay 3',49.20493,-122.905597
 52438,'52438','Northbound 6th St @ Royal Ave',49.206053,-122.911238
 52439,'52439','Northbound 6th St @ Queens Ave',49.207323,-122.912859
 52440,'52440','Northbound 6th St @ 3rd Ave',49.208885,-122.914819
@@ -3034,6 +3040,7 @@
 53776,'53776','Northbound Mary Hl Rd @ Lobb Ave',49.253356,-122.778707
 53777,'53777','Port Coquitlam Sta @ Bay 1',49.261338,-122.774051
 53783,'53783','Port Coquitlam Sta @ Bay 3',49.260996,-122.773778
+53784,'53784','Eastbound Riverwood Gt @ Terry Fox Secondary',49.263782,-122.747793
 53786,'53786','Eastbound Lougheed Hwy @ Shaughnessy St',49.266862,-122.775365
 53787,'53787','Northbound Oxford St @ Westminster Ave',49.265367,-122.767068
 53788,'53788','Northbound Oxford St @ Coquitlam Ave',49.267033,-122.767072
@@ -3067,6 +3074,7 @@
 53828,'53828','Southbound Shaughnessy St @ Dorset Ave',49.274164,-122.775046
 53829,'53829','Southbound Shaughnessy St @ Prairie Ave',49.27075,-122.77538
 53830,'53830','Southbound Shaughnessy St @ Fraser Ave',49.268912,-122.775442
+53831,'53831','Westbound Dominion Ave @ Archbishop Carney Secondary',49.258466,-122.751944
 53832,'53832','Northbound Shaughnessy St @ Fraser Ave',49.269579,-122.775187
 53835,'53835','Eastbound Prairie Ave @ Oxford St',49.271089,-122.766778
 53836,'53836','Eastbound Prairie Ave @ York St',49.271102,-122.764009
@@ -4835,6 +4843,7 @@
 55867,'55867','Westbound 84 Ave @ 156 St',49.155582,-122.790673
 55868,'55868','Westbound 84 Ave @ 154 St',49.155584,-122.797117
 55869,'55869','Eastbound 84 Ave @ 152 St',49.15545,-122.800457
+55870,'55870','Westbound 84 Ave @ 150 St',49.155589,-122.807316
 55871,'55871','Westbound 84 Ave @ 148 St',49.155608,-122.812993
 55872,'55872','Westbound 84 Ave @ 146 St',49.155621,-122.818346
 55873,'55873','Southbound 144 St @ 84 Ave',49.155035,-122.8235
@@ -4850,6 +4859,9 @@
 55885,'55885','Northbound 144 St @ 77a Ave',49.143562,-122.823331
 55886,'55886','Northbound 144 St @ 79 Ave',49.145773,-122.82332
 55888,'55888','Eastbound 84 Ave @ 146 St',49.155438,-122.816872
+55889,'55889','Eastbound 84 Ave @ 148 St',49.155446,-122.811953
+55890,'55890','Eastbound 84 Ave @ 150 St',49.155465,-122.806588
+55891,'55891','Westbound 84 Ave @ 152 St',49.155603,-122.802014
 55892,'55892','Eastbound 84 Ave @ 154 St',49.155458,-122.796138
 55893,'55893','Eastbound 84 Ave @ 156 St',49.155414,-122.789571
 55895,'55895','Northbound 148 St @ 84 Ave',49.155988,-122.812341
@@ -4859,6 +4871,7 @@
 55899,'55899','Southbound 148 St @ 88 Ave',49.162385,-122.812468
 55900,'55900','Southbound 148 St @ 86b Ave',49.160165,-122.812494
 55901,'55901','Southbound 148 St @ Spenser Dr',49.15762,-122.81252
+55902,'55902','Eastbound 80 Ave @ 156 St',49.14819,-122.789355
 55904,'55904','Northbound 160 St @ Fraser Hwy',49.158339,-122.778746
 55905,'55905','Northbound 160 St @ 88 Ave',49.163211,-122.778726
 55906,'55906','Northbound 160 St @ 89a Ave',49.165423,-122.778761
@@ -5202,6 +5215,8 @@
 56300,'56300','Eastbound Columbia Ave @ Ctr St',49.020385,-122.79677
 56301,'56301','Eastbound Columbia Ave @ 15400 Block',49.01977,-122.794806
 56302,'56302','Eastbound Columbia Ave @ Maple St',49.018357,-122.789575
+56306,'56306','Westbound 24 Ave @ 128 St',49.04583,-122.868821
+56307,'56307','Westbound 24 Ave @ 124b St',49.04584,-122.87619
 56308,'56308','Southbound 124 St @ 24 Ave',49.045527,-122.878496
 56309,'56309','Southbound 124 St @ 23 Ave',49.044056,-122.878493
 56310,'56310','Southbound 124 St @ Indian Fort Dr',49.038863,-122.878485
@@ -5235,6 +5250,14 @@
 56346,'56346','Westbound Cranley Dr @ 157a St',49.044433,-122.785542
 56347,'56347','Westbound 24 Ave @ 156 St',49.045676,-122.790735
 56358,'56358','Westbound 24 Ave @ 153 St',49.045701,-122.798085
+56365,'56365','Westbound 24 Ave @ 134 St',49.045844,-122.851445
+56366,'56366','Westbound 24 Ave @ 132 St',49.045834,-122.856816
+56367,'56367','Westbound 24 Ave @ 130 St',49.045834,-122.861486
+56368,'56368','Eastbound 24 Ave @ 128 St',49.045703,-122.866177
+56369,'56369','Eastbound 24 Ave @ 130 St',49.045704,-122.860782
+56370,'56370','Eastbound 24 Ave @ 132 St',49.045706,-122.855979
+56371,'56371','Eastbound 24 Ave @ 134 St',49.045684,-122.850534
+56372,'56372','Eastbound 24 Ave @ 136 St',49.045679,-122.84726
 56380,'56380','Eastbound 24 Ave @ 152 St',49.045525,-122.800528
 56388,'56388','White Rock Ctr @ Bay 7',49.032418,-122.80105
 56389,'56389','Westbound Buena Vista Ave @ Foster St',49.023963,-122.804312
@@ -5295,7 +5318,7 @@
 56451,'56451','Richmond-Brighouse Sta @ Bay 6',49.166453,-123.135795
 56452,'56452','Northbound No. 3 Rd @ Saba Rd',49.169358,-123.136381
 56453,'56453','Northbound No. 3 Rd @ Ackroyd Rd',49.17237,-123.136488
-56454,'56454','Eastbound Lansdowne Rd @ No. 3 Rd',49.173763,-123.135822
+56454,'56454','Lansdowne Sta @ Bay 2',49.173763,-123.135822
 56458,'56458','Eastbound Alderbridge Way @ Kwantlen St',49.177223,-123.128124
 56459,'56459','Westbound Capstan Way @ Gdn City Rd',49.187836,-123.125701
 56462,'56462','Eastbound Bridgeport Rd @ Sexsmith Rd',49.191911,-123.12663
@@ -5382,7 +5405,7 @@
 56560,'56560','Eastbound Sea Isl Way @ No. 3 Rd',49.190896,-123.132234
 56562,'56562','Westbound Cambie Rd @ Sexsmith Rd',49.184756,-123.128673
 56563,'56563','Westbound Cambie Rd @ Hazelbridge Way',49.184767,-123.133019
-56564,'56564','Southbound No. 3 Rd @ Cambie Rd',49.183998,-123.136731
+56564,'56564','Aberdeen Sta @ Bay 2',49.183998,-123.136731
 56566,'56566','Southbound No. 3 Rd @ Leslie Rd',49.179084,-123.13677
 56567,'56567','Southbound No. 3 Rd @ Alderbridge Way',49.176886,-123.136777
 56570,'56570','Southbound No. 3 Rd @ Granville Ave',49.163197,-123.136701
@@ -5677,7 +5700,6 @@
 56871,'56871','Southbound Gdn City Rd @ Bowcock Rd',49.15102,-123.125354
 56872,'56872','Southbound Gdn City Rd @ Francis Rd',49.14793,-123.125292
 56873,'56873','Southbound Gdn City Rd @ Glenallan Gt',49.145229,-123.125249
-56874,'56874','Southbound Gdn City Rd @ Saunders Rd',49.14325,-123.125279
 56875,'56875','Eastbound Williams Rd @ Gdn City Rd',49.14078,-123.126386
 56876,'56876','Eastbound Williams Rd @ Severn Dr',49.140717,-123.118719
 56877,'56877','Eastbound Williams Rd @ No. 4 Rd',49.140666,-123.113709
@@ -5814,6 +5836,7 @@
 57036,'57036','Northbound 200 St @ 68 Ave',49.125858,-122.668355
 57037,'57037','Northbound 200 St @ 70 Ave',49.130443,-122.668181
 57038,'57038','Eastbound 72 Ave @ 200 St',49.133409,-122.6671
+57039,'57039','Northbound 202a St @ 7800 Block',49.144835,-122.661315
 57040,'57040','Northbound 200 St @ 72 Ave',49.134251,-122.668046
 57041,'57041','Northbound 200 St @ 7600 Block',49.141434,-122.668059
 57042,'57042','Northbound 200 St @ 80 Ave',49.14909,-122.667988
@@ -5830,6 +5853,8 @@
 57060,'57060','Eastbound 96 Ave @ 192 St',49.176884,-122.689214
 57061,'57061','Eastbound 96 Ave @ 195 St',49.176911,-122.681788
 57062,'57062','Eastbound 96 Ave @ 198 St',49.176926,-122.673076
+57068,'57068','Eastbound 80 Ave @ 200 St',49.148143,-122.666432
+57069,'57069','Southbound 202a St @ 7700 Block',49.143361,-122.661518
 57070,'57070','Southbound 200 St @ 80 Ave',49.147449,-122.668434
 57071,'57071','Southbound 200 St @ 7500 Block',49.140474,-122.668429
 57072,'57072','Southbound 200 St @ 72 Ave',49.133118,-122.668534
@@ -6239,7 +6264,7 @@
 57573,'57573','Eastbound Lougheed Hwy @ Ottawa St',49.255084,-122.747264
 57575,'57575','Southbound Harris Rd @ Mcmyn Rd',49.229291,-122.689643
 57576,'57576','Southbound Harris Rd @ Davison Rd',49.227202,-122.689669
-57577,'57577','Southbound Harris Rd @ Pitt Mdws Sta',49.225312,-122.689688
+57577,'57577','Pitt Mdws Sta @ Bay 2',49.225312,-122.689688
 57579,'57579','Southbound Harris Rd @ 119 Ave',49.218645,-122.689704
 57580,'57580','Eastbound Hammond Rd @ Harris Rd',49.217084,-122.688891
 57581,'57581','Eastbound Hammond Rd @ Blakely Rd',49.217117,-122.682879
@@ -6313,7 +6338,7 @@
 57660,'57660','Northbound Harris Rd @ Hammond Rd',49.21761,-122.689443
 57661,'57661','Northbound Harris Rd @ 119 Ave',49.219437,-122.689445
 57662,'57662','Northbound Harris Rd @ Ford Rd',49.223266,-122.689429
-57663,'57663','Northbound Harris Rd @ Pitt Mdws Sta',49.22495,-122.689402
+57663,'57663','Pitt Mdws Sta @ Bay 3',49.22495,-122.689402
 57664,'57664','Northbound Harris Rd @ Davison Rd',49.226981,-122.689383
 57665,'57665','Northbound Harris Rd @ Mcmyn Rd',49.229012,-122.689362
 57667,'57667','Westbound Lougheed Hwy @ Ottawa St',49.256074,-122.748653
@@ -6338,14 +6363,14 @@
 57692,'57692','Eastbound River Rd @ 216 St',49.213988,-122.622375
 57693,'57693','Eastbound River Rd @ Carr St',49.214253,-122.616422
 57694,'57694','Eastbound River Rd @ River Bend',49.213548,-122.610258
-57695,'57695','Eastbound River Rd @ Port Haney Sta',49.212312,-122.605337
+57695,'57695','Port Haney Sta @ Bay 2',49.212312,-122.605337
 57696,'57696','Northbound 227 St @ Haney Bypass',49.20963,-122.594869
 57697,'57697','Westbound 116 Ave @ 227 St',49.210612,-122.595121
 57698,'57698','Westbound 116 Ave @ 22500 Block',49.211944,-122.597568
 57699,'57699','Westbound North Ave @ 225 St',49.216042,-122.599318
 57700,'57700','Northbound 224 St @ North Ave',49.216224,-122.601329
 57701,'57701','Northbound 224 St @ 119 Ave',49.218935,-122.601625
-57703,'57703','Westbound River Rd @ Port Haney Sta',49.212747,-122.606558
+57703,'57703','Port Haney Sta @ Bay 1',49.212747,-122.606558
 57704,'57704','Westbound River Rd @ River Bend',49.213242,-122.608728
 57705,'57705','Westbound River Rd @ Carr St',49.214336,-122.617354
 57706,'57706','Westbound River Rd @ 216 St',49.21408,-122.622562
@@ -6513,6 +6538,8 @@
 57931,'57931','Northbound Tamarack Ln @ 108 Ave',49.198831,-122.567844
 57932,'57932','Northbound Tamarack Ln @ 108b Ave',49.200266,-122.570969
 57933,'57933','Westbound Tamarack Ln @ Lougheed Hwy',49.201243,-122.577748
+57938,'57938','Eastbound University Blvd @ Acadia Rd',49.266503,-123.237822
+57943,'57943','Southbound Jones Ave @ W 21 St',49.328504,-123.081606
 58008,'58008','Southbound Lost Lagoon Rd @ Stanley Pk Causeway',49.296637,-123.136713
 58010,'58010','Westbound @ Bowen Bay (Flag)',49.361102,-123.418655
 58011,'58011','Tunstall Blvd @ Whitesails Rd (Flag)',49.355966,-123.405411
@@ -6624,8 +6651,8 @@
 58192,'58192','Southbound 116 St @ 88 Ave',49.162894,-122.902251
 58194,'58194','Eastbound Chatham St @ 3rd Ave',49.126357,-123.18513
 58195,'58195','Westbound Williams Rd @ Geal Rd',49.141096,-123.170797
-58196,'58196','Northbound No. 3rd Rd @ Lansdowne Rd',49.174387,-123.136617
-58198,'58198','Northbound No. 3 Rd @ Cambie Rd',49.183912,-123.136477
+58196,'58196','Lansdowne Sta @ Bay 1',49.174387,-123.136617
+58198,'58198','Aberdeen Sta @ Bay 1',49.183912,-123.136477
 58200,'58200','Southbound No. 6 Rd @ International Pl',49.173382,-123.069293
 58202,'58202','Westbound W Cordova St @ Granville St',49.285898,-123.112474
 58209,'58209','Southbound No. 2 Rd @ Spender Dr',49.135065,-123.158975
@@ -6658,6 +6685,7 @@
 58249,'58249','Joyce Sta @ Bay 1',49.237996,-123.032261
 58250,'58250','Eastbound Williams Rd @ Gdn City Rd',49.140767,-123.124509
 58251,'58251','Northbound No. 5 Rd @ Hartnell Rd',49.127973,-123.092
+58253,'58253','Eastbound Anderson Rd @ Buswell St',49.163406,-123.134015
 58254,'58254','Eastbound W Georgia St @ Bidwell St',49.291212,-123.131834
 58257,'58257','Eastbound 48 Ave @ Laidlaw St',49.090072,-123.085518
 58258,'58258','Eastbound 88 Ave @ 160 St',49.162665,-122.778041
@@ -6674,7 +6702,6 @@
 58272,'58272','Northbound Mariner Way @ 500 Block',49.251855,-122.815561
 58273,'58273','Eastbound Old Yale Rd @ 13500 Block',49.184316,-122.847504
 58274,'58274','Northbound King George Blvd @ 2900 Block',49.056058,-122.806412
-58279,'58279','Richmond-Brighouse Sta @ Bay 6a',49.166445,-123.135068
 58280,'58280','Westbound Terminal Ave @ 300 Block',49.272363,-123.096638
 58281,'58281','Westbound E 49 Ave @ Frontenac St',49.222475,-123.026533
 58282,'58282','Eastbound Edmonds St @ Canada Way',49.224262,-122.940465
@@ -6820,7 +6847,7 @@
 58498,'58498','Westbound Marine Dr @ Kerfoot Rd',49.026328,-122.825969
 58499,'58499','Eastbound E Broadway @ Clark Dr',49.262263,-123.076191
 58500,'58500','Westbound E Broadway @ Main St',49.26304,-123.10218
-58501,'58501','Westbound W Broadway @ Cambie St',49.263338,-123.115714
+58501,'58501','Broadway-City Hall Sta @ Bay 4',49.263338,-123.115714
 58502,'58502','Westbound W Broadway @ Willow St',49.263437,-123.12286
 58503,'58503','Eastbound W Broadway @ Granville St',49.263484,-123.137377
 58504,'58504','Westbound W Georgia St @ Seymour St',49.28232,-123.117661
@@ -6829,6 +6856,7 @@
 58510,'58510','Southbound Main St @ E 5th Ave',49.266106,-123.100973
 58511,'58511','Westbound Winston St @ Bainbridge Ave',49.25166,-122.956525
 58513,'58513','Northbound 222 St @ Fraser Hwy',49.09209,-122.607316
+58515,'58515','Westbound 91 Ave @ 152 St',49.168347,-122.800512
 58517,'58517','Northbound 216 St @ Fraser Hwy',49.096719,-122.624426
 58518,'58518','Southbound 216 St @ 52 Ave',49.0974,-122.624718
 58519,'58519','Eastbound Fraser Hwy @ 222 St',49.091684,-122.609049
@@ -6976,6 +7004,7 @@
 58726,'58726','Southbound Marmont St @ Alderson Ave',49.239975,-122.862316
 58727,'58727','Rose Gdn Ln @ Bay 1',49.300494,-123.133742
 58728,'58728','Stanley Pk Loop @ Bay 2',49.300672,-123.13403
+58729,'58729','Southbound Deer Lk Pkwy @ Canada Way',49.244496,-122.974395
 58730,'58730','Northbound Marmont St @ Quadling Ave',49.240272,-122.862155
 58731,'58731','Westbound 88 Ave @ 204 St',49.162902,-122.656106
 58733,'58733','Northbound 203 St @ 56 Ave',49.104589,-122.660102
@@ -7306,6 +7335,7 @@
 59190,'59190','Southbound Langley Bypass @ Fraser Hwy',49.100754,-122.643991
 59191,'59191','Northbound Langley Bypass @ Fraser Hwy',49.100627,-122.643748
 59192,'59192','Eastbound 104 Ave @ 240 St',49.19129,-122.555714
+59193,'59193','Northbound 240 St @ 109 Ave',49.200484,-122.556573
 59198,'59198','Westbound 102 Ave @ 241a St',49.187551,-122.55278
 59199,'59199','Eastbound 102 Ave @ 241a St',49.187432,-122.552135
 59200,'59200','Westbound 102 Ave @ 244 St',49.187515,-122.546463
@@ -7319,7 +7349,7 @@
 59213,'59213','Eastbound 116 Ave @ Burnett St',49.211984,-122.589346
 59214,'59214','Westbound 116 Ave @ Burnett St',49.212109,-122.589054
 59215,'59215','Southbound 128 St @ 82 Ave',49.149868,-122.868156
-59216,'59216','Eastbound River Rd @ Port Haney Sta',49.212009,-122.604104
+59216,'59216','Port Haney Sta @ Bay 3',49.212009,-122.604104
 59217,'59217','Westbound 105 Ave @ 23500 Block',49.194327,-122.567506
 59218,'59218','Eastbound 105 Ave @ 23500 Block',49.194412,-122.566881
 59219,'59219','Southbound 225 St @ Haney Bypass',49.211048,-122.599215
@@ -7368,7 +7398,7 @@
 59299,'59299','Eastbound North Fraser Way @ 5000 Block',49.200111,-123.004741
 59300,'59300','Eastbound North Fraser Way @ Glenlyon Pkwy West',49.200053,-123.009524
 59304,'59304','Westbound Dewdney Trunk Rd @ Fraser St',49.220544,-122.599936
-59305,'59305','Eastbound W 41 Ave @ Ash St',49.233459,-123.11793
+59305,'59305','Oakridge-41st Ave Sta @ Bay 3',49.233459,-123.11793
 59306,'59306','Eastbound Westminster Hwy @ Mcmillan Way',49.169174,-122.993088
 59309,'59309','Southbound East Rd @ Blackberry Dr',49.300062,-122.835526
 59310,'59310','Northbound East Rd @ Blackberry Dr',49.300172,-122.835368
@@ -7583,6 +7613,11 @@
 59688,'59688','Northbound Gilley Ave @ Ewart St',49.210454,-122.972279
 59689,'59689','Northbound Gilley Ave @ Brynlor Dr',49.209028,-122.972921
 59690,'59690','Northbound Gilley Ave @ Keith St',49.20769,-122.97389
+59692,'59692','Southbound 240 St @ Dewdney Trunk Rd',49.219802,-122.557188
+59693,'59693','Northbound 240 St @ 118 Ave',49.21665,-122.55685
+59695,'59695','Northbound 240 St @ 11500 Block',49.212037,-122.556692
+59696,'59696','Southbound 240 St @ 11500 Block',49.211555,-122.556883
+59697,'59697','Northbound 240 St @ 112 Ave',49.206124,-122.556596
 59698,'59698','Southbound 240 St @ 112 Ave',49.205433,-122.556703
 59701,'59701','Westbound Lougheed Hwy @ Madison Ave',49.266542,-123.009458
 59702,'59702','Eastbound Lougheed Hwy @ Madison Ave',49.266312,-123.008094
@@ -7593,6 +7628,7 @@
 59708,'59708','Eastbound Brown Ave @ 224 St',49.221507,-122.600945
 59710,'59710','Westbound Dewdney Trunk Rd @ 223 St',49.220551,-122.604122
 59711,'59711','Southbound Edge St @ Brown Ave',49.221082,-122.597881
+59713,'59713','Southbound 240 St @ 118 Ave',49.217262,-122.55709
 59715,'59715','Northbound Wesbrook Mall @ Thunderbird Blvd',49.262267,-123.241873
 59716,'59716','Northbound Lonsdale Ave @ E 1st St',49.312182,-123.07821
 59717,'59717','Southbound 66 St @ London Ln',49.088925,-123.04051
@@ -7625,7 +7661,7 @@
 59766,'59766','Eastbound Great Northern Way @ Foley St',49.266021,-123.086122
 59767,'59767','VCC Sta @',49.265975,-123.079842
 59770,'59770','Southbound No. 3 Rd @ Capstan Way',49.187766,-123.133691
-59771,'59771','Southbound No. 3 Rd @ Lansdowne Rd',49.172869,-123.136815
+59771,'59771','Lansdowne Sta @ Bay 4',49.172869,-123.136815
 59772,'59772','Westbound 108 Ave @ 158 St',49.198893,-122.783259
 59775,'59775','Southbound 228 St @ Dewdney Trunk Rd',49.220113,-122.590426
 59776,'59776','Northbound 227 St @ 122 Ave',49.225156,-122.593812
@@ -7638,7 +7674,7 @@
 59786,'59786','Northbound Pitt River Rd @ Pooley Ave',49.244874,-122.77348
 59794,'59794','Northbound Cloverdale Bypass @ 58 Ave',49.108571,-122.735851
 59795,'59795','Westbound 58 Ave @ 176a St',49.107856,-122.733279
-59796,'59796','Pitt Mdws Sta @ Loop',49.225691,-122.688711
+59796,'59796','Pitt Mdws Sta @ Bay 1',49.225691,-122.688711
 59798,'59798','Northbound Ferry Rd @ Brigantine Rd',49.10349,-123.07933
 59803,'59803','VCC Sta @ Bay 1',49.265476,-123.079447
 59807,'59807','Northbound Falcon Dr @ Runnel Dr',49.279154,-122.818284
@@ -7827,6 +7863,7 @@
 60154,'60154','Westbound Alderbridge Way @ May Dr',49.177384,-123.119063
 60155,'60155','Eastbound Alderbridge Way @ May Dr',49.177158,-123.118934
 60156,'60156','UBC Exch @',49.267643,-123.247294
+60160,'60160','UBC Exch @ Bay 14',49.267177,-123.24863
 60166,'60166','Eastbound Cumberland St @ Miner St',49.220434,-122.895443
 60167,'60167','Westbound Cumberland St @ Sapper St',49.220538,-122.894757
 60169,'60169','Northbound 232 St @ 132 Ave',49.244042,-122.579756
@@ -7856,6 +7893,7 @@
 60201,'60201','Southbound Pinetree Way @ David Ave',49.293797,-122.790462
 60204,'60204','Westbound Oxford Connector @ 1900 Block',49.265203,-122.771539
 60206,'60206','Westbound 64 Ave @ 196 St',49.119175,-122.680507
+60207,'60207','Eastbound 64 Ave @ 194 St',49.119024,-122.684578
 60208,'60208','29th Ave Sta @ Bay 4',49.244435,-123.044461
 60209,'60209','Westbound Elmbridge Way @ Gilbert Rd',49.172828,-123.147179
 60211,'60211','Metrotown Sta @ Bay 11',49.226034,-123.004152
@@ -7863,6 +7901,7 @@
 60214,'60214','Metrotown Sta @ Bay 13',49.225091,-123.002091
 60215,'60215','Eastbound Adams Rd @ Bowen Bay Rd',49.358202,-123.401618
 60216,'60216','Southbound Spyglass Rd @ Windjammer Rd',49.377358,-123.413066
+60219,'60219','Westbound University Blvd @ Western Pkwy',49.266634,-123.244736
 60220,'60220','Eastbound Lougheed Hwy @ 227 St',49.21685,-122.593469
 60222,'60222','Northbound 228 St @ Lougheed Hwy',49.216406,-122.590234
 60223,'60223','Northbound Fraser St @ E 20 Ave',49.253266,-123.089851
@@ -7884,12 +7923,11 @@
 60266,'60266','Northbound Oak St @ W 10 Ave',49.262225,-123.12653
 60270,'60270','Southbound Highland Blvd @ Canfield Cres',49.338483,-123.100348
 60271,'60271','Westbound Bedwell Bay Rd @ White Pine Beach Rd',49.314355,-122.88435
-60273,'60273','Northbound Blanca St @ W 9th Ave',49.265097,-123.21504
-60274,'60274','Blanca Loop @ Loading Only',49.265376,-123.215431
 60276,'60276','Southbound 15th St @ Ottawa Ave',49.340163,-123.156999
+60277,'60277','Northbound Seymour St @ Robson St',49.281079,-123.118157
 60283,'60283','Southbound No. 3 Rd @ Yaohan Access Rd',49.185927,-123.135488
 60284,'60284','Northbound No. 3rd Rd @ Yaohan Access Rd',49.186808,-123.1343
-60285,'60285','Joyce St @ Vanness Ave',49.237786,-123.030577
+60285,'60285','Joyce Sta @ Bay 2',49.237786,-123.030577
 60286,'60286','Joyce St @ Vanness Ave',49.238015,-123.031924
 60287,'60287','Southbound Alpha Ave @ Lougheed Hwy',49.265757,-123.000485
 60289,'60289','Westbound E King Edward Ave @ Main St',49.24885,-123.100621
@@ -7900,7 +7938,7 @@
 60521,'60521','Northbound 180 St @ 55 Ave',49.102886,-122.723724
 60562,'60562','Northbound N Boundary Rd @ Trinity St',49.289497,-123.023179
 60566,'60566','Westbound Williams Rd @ 5100 Block',49.141079,-123.167982
-60583,'60583','Westbound W 41 Ave @ Ash St',49.233703,-123.118539
+60583,'60583','Oakridge-41st Ave Sta @ Bay 4',49.233703,-123.118539
 60601,'60601','Northbound 128 St @ 80 Ave',49.14855,-122.867841
 60661,'60661','Westbound 60 Ave @ 179 St',49.111524,-122.727349
 60663,'60663','Eastbound 56 Ave @ Hwy 10',49.104403,-122.687502
@@ -7988,6 +8026,7 @@
 60856,'60856','Northbound Graybar Rd @ Westminster Hwy',49.168304,-122.989641
 60857,'60857','Westbound Gordon Way @ 21300 Block',49.167469,-122.987092
 60858,'60858','Southbound Fraserwood Pl @ Westminster Hwy',49.168184,-122.983805
+60859,'60859','Westbound Moscrop St @ Willingdon Ave',49.243038,-123.00393
 60861,'60861','Northbound 201a St @ Michaud Cres',49.102443,-122.664137
 60864,'60864','Southbound 203 St @ 56 Ave',49.103695,-122.660498
 60865,'60865','Westbound 56 Ave @ 203 St',49.104386,-122.66168
@@ -8111,14 +8150,14 @@
 61013,'61013','Northbound Shaughnessy St @ Mcallister Ave',49.262582,-122.781227
 61014,'61014','Eastbound 24 Ave @ 156 St',49.045489,-122.789656
 61018,'61018','Northbound @ Anmore Grocery Store (Flag)',49.322425,-122.855612
-61027,'61027','Northbound Cambie St @ W 10 Ave',49.262759,-123.114655
+61027,'61027','Broadway-City Hall Sta @ Bay 2',49.262759,-123.114655
 61028,'61028','Southbound 199a St @ 96 Ave',49.176466,-122.669453
 61029,'61029','Westbound Churchill St @ 7900 Block',49.082328,-123.004148
 61031,'61031','Westbound W Georgia St @ Granville St',49.282879,-123.118524
 61033,'61033','Southbound Scott Rd @ Preddy Dr',49.107341,-122.890514
 61036,'61036','Surrey Ctrl Sta @ Bay 13',49.189684,-122.847558
-61039,'61039','Eastbound W 2nd Ave @ Cambie St',49.266425,-123.114936
-61040,'61040','Westbound W 2nd Ave @ Cambie St',49.266245,-123.115944
+61039,'61039','Olympic Vlg Sta @ Bay 2',49.266425,-123.114936
+61040,'61040','Olympic Vlg Sta @ Bay 1',49.266245,-123.115944
 61042,'61042','Eastbound W 16 Ave @ Wesbrook Mall',49.255122,-123.237649
 61043,'61043','Westbound W 16 Ave @ Wesbrook Mall',49.256287,-123.234956
 61048,'61048','Westbound 103a Ave @ Scott Rd',49.190713,-122.891384
@@ -8134,6 +8173,9 @@
 61062,'61062','Haney Pl @ Bay 3',49.21945,-122.596908
 61063,'61063','Haney Pl @ Bay 2',49.219451,-122.59727
 61064,'61064','Haney Pl @ Bay 1',49.219454,-122.597616
+61068,'61068','Capilano University @ Bay 1',49.319397,-123.018935
+61069,'61069','Capilano University @ Bay 2',49.319206,-123.018939
+61070,'61070','Capilano University @ Bay 3',49.319395,-123.018759
 61071,'61071','Capilano University @ Bay 4',49.31939,-123.018631
 61073,'61073','Southbound Cambie St @ Robson St',49.277999,-123.115404
 61074,'61074','Southbound Main St @ Powell St',49.282699,-123.099733
@@ -8247,8 +8289,8 @@
 61209,'61209','Westbound 88 Ave @ 168 St',49.162916,-122.757345
 61210,'61210','Northbound 168 St @ 88 Ave',49.163302,-122.756466
 61211,'61211','Westbound 96 Ave @ 201 St',49.177082,-122.66547
-61215,'61215','Eastbound Davie St @ Pacific Blvd',49.274278,-123.121876
-61218,'61218','Westbound W 49 Ave @ Cambie St',49.226178,-123.116035
+61215,'61215','Yaletown-Roundhouse Sta @ Bay 2',49.274278,-123.121876
+61218,'61218','Langara-49th Sta @ Bay 2',49.226178,-123.116035
 61219,'61219','Eastbound 84 Ave @ 108 St',49.155985,-122.922785
 61222,'61222','Southbound Tsawwassen Dr N @ Falcon Way',49.044149,-123.103979
 61223,'61223','Southbound Tsawwassen Dr N @ 2100 Block',49.04222,-123.100801
@@ -8272,7 +8314,7 @@
 61251,'61251','Northbound Ross Dr @ 200 Block',49.214217,-122.899827
 61252,'61252','Northbound Cambie St @ W 29 Ave',49.245537,-123.11525
 61253,'61253','Northbound Cambie St @ W 27 Ave',49.247293,-123.115175
-61254,'61254','Eastbound E 2nd Ave @ Ash St',49.265937,-123.116053
+61254,'61254','Olympic Vlg Sta @ Bay 3',49.265937,-123.116053
 61258,'61258','Southbound Willingdon Ave @ Still Crk Dr',49.261663,-123.003449
 61259,'61259','Northbound Willingdon Ave @ Still Crk Dr',49.261653,-123.003137
 61260,'61260','Spuraway Lodge (Flag)',49.332349,-123.12048
@@ -8284,6 +8326,7 @@
 61267,'61267','Eastbound 98 Ave @ 26100 Block (Flag)',49.180253,-122.497519
 61268,'61268','Eastbound 98 Ave @ 26400 Block (Flag)',49.179041,-122.489332
 61269,'61269','Northbound Mtn Hwy @ E 27th St',49.332733,-123.037816
+61273,'61273','Eastbound Dominion Ave @ Archbishop Carney Secondary',49.258336,-122.749983
 61274,'61274','Northbound Admiral Blvd @ Commodore Dr',49.106556,-123.074226
 61275,'61275','Northbound Admiral Blvd @ Cv Reach Rd',49.109481,-123.072531
 61276,'61276','Northbound Admiral Blvd @ Cv Inlet Rd',49.110991,-123.072164
@@ -8317,15 +8360,15 @@
 61323,'61323','Bridgeport Sta @ Bay 3',49.195229,-123.126551
 61324,'61324','Bridgeport Sta @ Bay 4',49.195114,-123.126817
 61325,'61325','Bridgeport Sta @ Bay 5',49.195004,-123.127081
-61326,'61326','Bridgeport Sta @ Bay 5a',49.195053,-123.127304
-61327,'61327','Bridgeport Sta @ Bay 7',49.195144,-123.127071
-61328,'61328','Bridgeport Sta @ Bay 8',49.195246,-123.126904
-61329,'61329','Bridgeport Sta @ Bay 9',49.195366,-123.126635
-61330,'61330','Bridgeport Sta @ Bay 10',49.195565,-123.126212
-61331,'61331','Bridgeport Sta @ Bay 11',49.195652,-123.125982
+61326,'61326','Bridgeport Sta @ Bay 7',49.195053,-123.127304
+61327,'61327','Bridgeport Sta @ Bay 8',49.195144,-123.127071
+61328,'61328','Bridgeport Sta @ Bay 9',49.195246,-123.126904
+61329,'61329','Bridgeport Sta @ Bay 10',49.195366,-123.126635
+61330,'61330','Bridgeport Sta @ Bay 11',49.195565,-123.126212
+61331,'61331','Bridgeport Sta @ Bay 12',49.195652,-123.125982
 61332,'61332','Richmond-Brighouse Sta @ Bay 4',49.168747,-123.13555
 61334,'61334','Richmond-Brighouse Sta @ Bay 3',49.168512,-123.136367
-61335,'61335','Westbound Anderson Rd @ Buswell St',49.163531,-123.134652
+61336,'61336','Eastbound Larson Rd @ Fir St',49.325675,-123.088428
 61337,'61337','Marine Dr Sta @ Bay 1',49.209087,-123.116823
 61341,'61341','Westbound Elmbridge Way @ Minoru Blvd',49.172083,-123.141228
 61342,'61342','Westbound Elmbridge Way @ Alderbridge Way',49.172095,-123.144162
@@ -8334,6 +8377,8 @@
 61347,'61347','Southbound Minoru Blvd @ Westminster Hwy',49.169554,-123.140355
 61348,'61348','Southbound Minoru Blvd @ Murdoch Ave',49.166706,-123.141002
 61349,'61349','Southbound Minoru Blvd @ Minoru Gt',49.16465,-123.140684
+61351,'61351','Eastbound Grange St @ Barker Ave',49.232808,-123.010562
+61352,'61352','Eastbound Grange St @ Wilson Ave',49.232173,-123.006294
 61353,'61353','Northbound 224 St @ 12200 Block',49.225496,-122.601234
 61359,'61359','Northbound 201 St @ 96 Ave',49.177479,-122.664276
 61360,'61360','Southbound Oak St @ W 72 Ave',49.205381,-123.130464
@@ -8376,6 +8421,7 @@
 61497,'61497','Northbound 157a St @ 10900 Block',49.200713,-122.785073
 61498,'61498','Westbound Churchill St @ Athabaska St',49.08237,-123.010562
 61499,'61499','Eastbound Churchill St @ Athabaska St',49.082271,-123.009464
+61500,'61500','Westbound Anderson Rd @ No. 3 Rd',49.163535,-123.136217
 61501,'61501','Eastbound 64 Ave @ Fraser Hwy',49.119185,-122.69063
 61503,'61503','Eastbound E 41st Ave @ Fraser St',49.232766,-123.09098
 61504,'61504','Westbound Agnes St @ Elliot St',49.208133,-122.903954
@@ -8398,6 +8444,7 @@
 61542,'61542','Northbound 194 St @ 66 Ave',49.124011,-122.685224
 61543,'61543','Southbound 194 St @ 66 Ave',49.123365,-122.685416
 61548,'61548','Southbound 208 St @ 52a Ave',49.098117,-122.646665
+61549,'61549','Patterson Sta @ Bay 3',49.22929,-123.012088
 61550,'61550','Westbound 60 Ave @ 194a St',49.111342,-122.685765
 61551,'61551','Eastbound 60 Ave @ Enterprise Way',49.11122,-122.685449
 61552,'61552','Eastbound Mclean Ave @ Kingsway Ave',49.253237,-122.764961
@@ -8460,9 +8507,7 @@
 61643,'61643','Northbound 192 St @ 28 Ave',49.053205,-122.691408
 61645,'61645','Southbound Elliott St @ E 54 Ave',49.220551,-123.054963
 61647,'61647','Southbound 123a St @ 96 Ave',49.177565,-122.880597
-61648,'61648','New Westminster Sta @ Bay 1',49.201348,-122.911869
 61649,'61649','New Westminster Sta @ Bay 2',49.200991,-122.912182
-61650,'61650','New Westminster Sta @ Bay 3',49.200804,-122.912513
 61651,'61651','New Westminster Sta @ Bay 4',49.20088,-122.912854
 61652,'61652','New Westminster Sta @ Bay 5',49.20106,-122.913116
 61654,'61654','New Westminster Sta @ Bay 7',49.201379,-122.913535
@@ -8484,6 +8529,7 @@
 61675,'61675','Westbound E Royal Ave @ Mcbride Blvd',49.212748,-122.898522
 61676,'61676','Eastbound E Royal Ave @ Mcbride Blvd',49.212701,-122.898435
 61677,'61677','Surrey Ctrl Sta @ Bay 5a',49.189461,-122.849708
+61678,'61678','New Westminster Sta @ Unload Only',49.200807,-122.912785
 61679,'61679','Eastbound 10 Ave @ 54a St',49.021959,-123.072799
 61680,'61680','Northbound 80 St @ Churchill St',49.081159,-123.001684
 61681,'61681','Westbound Churchill St @ 80 St',49.080954,-123.002068
@@ -8493,7 +8539,7 @@
 61689,'61689','Eastbound Como Lk Ave @ Emerson St',49.263173,-122.886273
 61690,'61690','Northbound East Rd @ 1400 Block',49.304307,-122.838479
 61691,'61691','Southbound East Rd @ 1400 Block',49.304406,-122.838698
-61693,'61693','Bridgeport Sta @ Bay 5a',49.19488,-123.127321
+61693,'61693','Bridgeport Sta @ Bay 6',49.19488,-123.127321
 61701,'61701','UBC Exch @ Bay 11',49.26581,-123.248129
 61702,'61702','UBC Exch @ Bay 12',49.265923,-123.247364
 61704,'61704','Newton Exch @ Bay 9',49.133098,-122.842704
@@ -8591,8 +8637,8 @@
 61867,'61867','Eastbound S Wildwood Cres @ 19800 Block',49.210658,-122.671642
 61868,'61868','Northbound Wildwood Cres @ Wildwood Pl',49.212939,-122.670651
 61869,'61869','Westbound N Wildwood Cres @ 19800 Block',49.214735,-122.672857
-61870,'61870','Southbound Hamilton St @ W Georgia St Bay 1',49.280275,-123.113845
-61871,'61871','Southbound Hamilton St @ W Georgia St Bay 2',49.280661,-123.113264
+61870,'61870','Southbound Hamilton St @ W Georgia St',49.280275,-123.113845
+61871,'61871','Southbound Hamilton St @ Dunsmuir St',49.280661,-123.113264
 61872,'61872','Eastbound Mcclure Dr @ 106 Ave',49.194721,-122.55298
 61873,'61873','Westbound Mcclure Dr @ 106 Ave',49.195789,-122.553666
 61874,'61874','Westbound Mcclure Dr @ 243 St',49.194833,-122.550018
@@ -8675,7 +8721,7 @@
 61975,'61975','Eastbound North Fraser Way @ 8000 Block',49.188967,-122.98073
 61976,'61976','Westbound North Fraser Way @ Tillicum St',49.190273,-122.988946
 61977,'61977','Eastbound North Fraser Way @ Tillicum St',49.189656,-122.988442
-61978,'61978','Southbound No. 3rd Rd @ 5300 Block',49.175079,-123.136907
+61978,'61978','Lansdowne Sta @ Bay 3',49.175079,-123.136907
 61979,'61979','UBC Exch @ Bay 5',49.267312,-123.246536
 61985,'61985','Westbound W 2nd Ave @ Crowe St',49.26817,-123.111966
 61986,'61986','Westbound North Fraser Way @ Byrne Rd',49.195504,-122.995601

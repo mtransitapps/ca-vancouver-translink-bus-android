@@ -38,8 +38,8 @@
 2600,0,'Joyce Sta',26
 2701,0,'Joyce Sta',27
 2700,0,'Kootenay Loop',27
+2800,0,'Capilano U',28
 2801,0,'Joyce Sta',28
-2800,0,'Phibbs Exch',28
 2900,0,'29th Ave Sta',29
 2901,0,'Elliott',29
 3200,0,'Downtown',32
@@ -74,10 +74,16 @@
 10001,0,'Marpole',100
 10101,0,'22nd St Sta',101
 10100,0,'Lougheed Sta',101
+10301,0,'Quayside',103
+10300,0,'Victoria Hl',103
 10400,0,'22nd St Sta',104
 10401,0,'Annacis Isl',104
+10501,0,'New West Sta',105
+10500,0,'Uptown',105
 10601,0,'Edmonds Sta',106
 10600,0,'New West Sta',106
+10900,0,'Lougheed Sta',109
+10901,0,'New West Sta',109
 11000,0,'Lougheed Sta',110
 11001,0,'Metrotown Sta',110
 11201,0,'Edmonds Sta',112
@@ -88,6 +94,8 @@
 11901,0,'Metrotown Sta',119
 12301,0,'Brentwood Sta',123
 12300,0,'New West Sta',123
+12500,0,'B C I T',125
+12501,0,'Patterson Sta',125
 12801,0,'22nd St Sta',128
 12800,0,'Braid Sta',128
 12900,0,'Holdom Sta',129
@@ -110,6 +118,12 @@
 14400,0,'SFU',144
 14501,0,'Production Sta',145
 14500,0,'SFU',145
+14600,0,'Metrotown Sta',146
+14601,0,'Suncrest',146
+14700,0,'Edmonds Sta',147
+14701,0,'Metrotown Sta',147
+14800,0,'Edmonds Sta',148
+14801,0,'Royal Oak Sta',148
 15001,0,'Coq Ctrl Sta',150
 15000,0,'White Pine Beach',150
 15101,0,'Burquitlam Sta',151
@@ -220,17 +234,21 @@
 25600,0,'Whitby Ests',256
 25701,0,'Horseshoe Bay',257
 25700,0,'Vancouver',257
+25801,0,'UBC',258
+25800,0,'West Vancouver',258
+25900,0,'Horseshoe Bay',259
 25901,0,'Lions Bay',259
-25900,0,'Pk Royal',259
 26201,0,'Caulfeild',262
 26200,0,'Lions Bay- Brunswick',262
 28001,0,'Bluewater',280
 28000,0,'Snug Cv',280
 28100,0,'Eaglecliff',281
 28101,0,'Snug Cv',281
+28200,0,'Mt Gardner',282
+28201,0,'Snug Gove',282
 30101,0,'Brighouse Sta',301
 30100,0,'Newton Exch',301
-31001,0,'Ladner',310
+31001,0,'Ladner Exch',310
 31000,0,'Scottsdale',310
 31100,0,'Bridgeport Sta',311
 31101,0,'Scottsdale',311
@@ -306,8 +324,8 @@
 39401,0,'White Rock Ctr',394
 39501,0,'King George Sta',395
 39500,0,'Langley Ctr',395
+40100,0,'Brighouse Sta',401
 40101,0,'One Rd',401
-40100,0,'Riverport',401
 40200,0,'Brighouse Sta',402
 40201,0,'Two Rd',402
 40300,0,'Bridgeport Sta',403
@@ -316,10 +334,24 @@
 40400,0,'Four Rd',404
 40500,0,'Cambie',405
 40501,0,'Five Rd',405
+40600,0,'Brighouse Sta',406
+40601,0,'Steveston',406
 40700,0,'Bridgeport',407
 40701,0,'Gilbert',407
+40801,0,'Brighouse Sta',408
+40800,0,'Riverport',408
 41000,0,'22nd St Sta',410
 41001,0,'Railway',410
+41200,0,'Bridgeport Sta',412
+41201,0,'Sea Isl South',412
+41300,0,'Riverport',413
+41301,0,'Steveston',413
+41400,0,'Brighouse Sta',414
+41401,0,'Richmond Oval',414
+41601,0,'Brighouse Sta',416
+41600,0,'East Cambie',416
+41800,0,'22nd St Sta',418
+41801,0,'Kingswood',418
 43001,0,'Brighouse Sta',430
 43000,0,'Metrotown Sta',430
 48000,0,'Bridgeport Sta',480
@@ -362,12 +394,26 @@
 60802,1,'W',608
 60900,0,'South Delta Exch',609
 60901,0,'Tsawwassen 1st Nation',609
+61401,0,'English Bluff',614
+61400,0,'South Delta Exch',614
+61600,0,'Ladner Exch',616
+61601,0,'Ladner South',616
+61700,0,'East Ladner',617
+61701,0,'Ladner Exch',617
+61801,0,'Ladner Exch',618
+61800,0,'Ladner North',618
+61901,0,'Boundary Bay',619
+61900,0,'South Delta Exch',619
 62000,0,'Bridgeport Sta',620
 62001,0,'Tsaww Ferry',620
 64001,0,'Ladner Exch',640
 64000,0,'Scott Rd Sta',640
 70101,0,'Coq Ctrl Sta',701
 70100,0,'Mission City Sta',701
+71901,0,'Fraser Way',719
+71900,0,'Meadowtown',719
+72201,0,'Bonson',722
+72200,0,'Meadowtown',722
 73301,0,'Pt Haney Sta',733
 73300,0,'Rock Rdg',733
 74100,0,'Anderson Crk',741
@@ -386,41 +432,25 @@
 74900,0,'Ruskin',749
 79101,0,'Braid Sta',791
 79100,0,'Haney Pl',791
+80401,1,'E',804
+80402,1,'W',804
+80703,1,'N',807
+80704,1,'S',807
+82803,1,'N',828
+82804,1,'S',828
 84001,0,'Special',840
-3000301,0,'Quayside',30003
-3000300,0,'Victoria Hl',30003
-3000401,0,'New West Sta',30004
-3000400,0,'Uptown',30004
-3000500,0,'Edmonds Sta',30005
-3000501,0,'Royal Oak Sta',30005
-3000600,0,'Metrotown Sta',30006
-3000601,0,'Suncrest',30006
-3000700,0,'Edmonds Sta',30007
-3000701,0,'Metrotown Sta',30007
-3000900,0,'Lougheed Sta',30009
-3000901,0,'New West Sta',30009
-3004100,0,'Maple Mdws Sta / Meadowtown',30041
-3004101,0,'Pitt Mdws Ctr',30041
-3008401,0,'English Bluff',30084
-3008400,0,'S Delta Exch',30084
-3008600,0,'Ladner Exch',30086
-3008601,0,'Ladner South',30086
-3008700,0,'East Ladner',30087
-3008701,0,'Ladner Exch',30087
-3008801,0,'Ladner Exch',30088
-3008800,0,'Ladner North',30088
-3008901,0,'Boundary Bay',30089
-3008900,0,'S Delta Exch',30089
-3009200,0,'Bridgeport Sta',30092
-3009201,0,'Sea Isl South',30092
-3009300,0,'Riverport',30093
-3009301,0,'Steveston',30093
-3009400,0,'Brighouse Sta',30094
-3009401,0,'Richmond Oval',30094
-3009601,0,'Brighouse Sta',30096
-3009600,0,'East Cambie',30096
-3009800,0,'22nd St Sta',30098
-3009801,0,'Kingswood',30098
+84801,0,'Lougheed Sta',848
+85501,1,'E',855
+85502,1,'W',855
+86103,1,'N',861
+86104,1,'S',861
+86300,0,'Arch Carney',863
+86401,0,'Special',864
+86501,0,'Haney Pl',865
+88001,1,'E',880
+88002,1,'W',880
+88101,1,'E',881
+88102,1,'W',881
 14000801,0,'Downtown',140008
 14000800,0,'Fraser',140008
 14000900,0,'Coq Ctrl Sta',140009
