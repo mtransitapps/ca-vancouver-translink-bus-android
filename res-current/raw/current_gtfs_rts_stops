@@ -3578,7 +3578,6 @@
 54424,'54424','Phibbs Exch @ Bay 10',49.305313,-123.02846
 54425,'54425','Lonsdale Quay @ Bay 5',49.310412,-123.083112
 54426,'54426','Northbound Chesterfield Ave @ W 1st St',49.313517,-123.081348
-54427,'54427','Northbound Chesterfield Ave @ W 2nd St',49.314235,-123.080618
 54428,'54428','Westbound Marine Dr @ Mackay Ave',49.323913,-123.103303
 54429,'54429','Westbound Marine Dr @ Lloyd Ave',49.323931,-123.105534
 54435,'54435','Westbound Marine Dr @ Pemberton Ave',49.323956,-123.108455
@@ -7914,7 +7913,6 @@
 60237,'60237','Artisan Sq (Flag)',49.380323,-123.345848
 60239,'60239','Westbound Miller Rd @ Scarborough Rd (Flag)',49.389393,-123.329942
 60240,'60240','Lenora Rd @ Melmore Rd (Flag)',49.383944,-123.336686
-60245,'60245','Westbound Thrift Ave @ Foster St',49.027657,-122.803487
 60246,'60246','Southbound Johnston Rd @ Russell Ave',49.028755,-122.80128
 60247,'60247','Southbound 184 St @ 71 Ave',49.130861,-122.712624
 60248,'60248','Eastbound E Broadway @ Fraser St',49.262364,-123.089378
@@ -7931,6 +7929,8 @@
 60286,'60286','Joyce St @ Vanness Ave',49.238015,-123.031924
 60287,'60287','Southbound Alpha Ave @ Lougheed Hwy',49.265757,-123.000485
 60289,'60289','Westbound E King Edward Ave @ Main St',49.24885,-123.100621
+60291,'60291','Eastbound North Bluff Rd @ Foster St',49.031031,-122.802667
+60292,'60292','Eastbound N Bluff Rd @ George St',49.031015,-122.799229
 60302,'60302','Northbound Cambie St @ Dunsmuir St',49.280182,-123.111842
 60331,'60331','Eastbound David Ave @ Pinetree Way',49.293831,-122.789324
 60401,'60401','Eastbound 64 Ave @ 172 St',49.118733,-122.74546
@@ -8060,7 +8060,7 @@
 60904,'60904','Westbound Inglewood Ave @ Sinclair St',49.334618,-123.163501
 60905,'60905','Eastbound Inglewood Ave @ 1700 Block (Flag)',49.334525,-123.162505
 60908,'60908','Eastbound Queens Ave @ 1500 Block (Flag)',49.341742,-123.157429
-60909,'60909','Northbound 15 St @ Ottawa Ave',49.34021,-123.156822
+60909,'60909','Northbound 15 St @ Ottawa Ave',49.340258,-123.156826
 60910,'60910','Eastbound Mathers Ave @ 15 St',49.338115,-123.156633
 60911,'60911','Eastbound Mathers Ave @ 1200 Block (Flag)',49.338095,-123.151198
 60912,'60912','Eastbound Inglewood Ave @ 1500 Block (Flag)',49.334491,-123.158293
