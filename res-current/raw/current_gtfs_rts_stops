@@ -528,7 +528,6 @@
 50664,'50664','Northbound Slocan St @ Euclid Ave',49.243511,-123.050495
 50665,'50665','Westbound E 22 Ave @ Slocan St',49.250756,-123.050472
 50666,'50666','Westbound E 22 Ave @ Kamloops St',49.250747,-123.055069
-50667,'50667','Northbound Alma St @ W Broadway',49.264644,-123.185714
 50668,'50668','Northbound Alma St @ W 7th Ave',49.266385,-123.185659
 50669,'50669','Southbound Nanaimo St @ Dundas St',49.284388,-123.05668
 50670,'50670','Southbound Nanaimo St @ Franklin St',49.28183,-123.056723
@@ -1592,9 +1591,6 @@
 51897,'51897','Westbound Sw Marine Dr @ Camosun St',49.235286,-123.197663
 51898,'51898','Westbound Sw Marine Dr @ Kullahun Dr',49.237441,-123.205607
 51900,'51900','Eastbound W 16 Ave @ Sw Marine Dr',49.252833,-123.244214
-51906,'51906','Eastbound Nw Marine Dr @ Tolmie St',49.274742,-123.211352
-51910,'51910','Eastbound Nw Marine Dr @ Discovery St',49.271953,-123.203426
-51912,'51912','Eastbound Nw Marine Dr @ Locarno Cres',49.268799,-123.200827
 51913,'51913','Westbound W 4th Ave @ Blanca St',49.269195,-123.215565
 51916,'51916','Westbound Chancellor Blvd @ Hamber Rd',49.273342,-123.239004
 51917,'51917','Westbound Chancellor Blvd @ Allison Rd',49.273563,-123.246195
@@ -1602,10 +1598,6 @@
 51925,'51925','Eastbound Nw Marine Dr @ West Mall',49.268769,-123.258526
 51928,'51928','Eastbound Chancellor Blvd @ Western Pkwy',49.273301,-123.246837
 51930,'51930','Eastbound Chancellor Blvd @ Hamber Rd',49.272894,-123.237649
-51934,'51934','Westbound Nw Marine Dr @ Discovery St',49.271904,-123.203022
-51935,'51935','Northbound Nw Marine Dr @ Belmont Ave',49.274065,-123.205593
-51937,'51937','Westbound Nw Marine Dr @ Sasamat St',49.274502,-123.209135
-51938,'51938','Westbound Nw Marine Dr @ Tolmie St',49.275093,-123.212054
 51941,'51941','Northbound Burrard St @ W 3rd Ave',49.269179,-123.145428
 51942,'51942','Southbound Burrard St @ W 3rd Ave',49.268549,-123.145798
 51944,'51944','Southbound Dunbar St @ W 43 Ave',49.232611,-123.18547
@@ -2629,7 +2621,6 @@
 53219,'53219','Southbound E Columbia St @ Alberta St',49.223325,-122.893032
 53221,'53221','Southbound E Columbia St @ Richmond St',49.216185,-122.894078
 53227,'53227','Westbound Ungless Way @ Guildford Way',49.283995,-122.824236
-53228,'53228','Westbound Ungless Way @ Noons Crk Dr',49.284375,-122.827603
 53231,'53231','Westbound Ioco Rd @ Metta St',49.286494,-122.834973
 53232,'53232','Westbound Ioco Rd @ Harbour Pl',49.288036,-122.838341
 53233,'53233','Westbound Ioco Rd @ Mercier Rd',49.289952,-122.842591
@@ -2648,7 +2639,6 @@
 53246,'53246','Southbound Sunnyside Rd @ East Rd',49.314255,-122.855754
 53247,'53247','Southbound Sunnyside Rd @ Elementary Rd',49.311561,-122.857193
 53248,'53248','Westbound Sunnyside Rd @ Summerwood Ln',49.307956,-122.862785
-53249,'53249','White Pine Beach Rd @ Norton Court',49.323873,-122.88605
 53250,'53250','Westbound Bedwell Bay Rd @ Senkler Rd',49.32353,-122.89958
 53251,'53251','Eastbound Midden Rd @ Belcarra Bay Rd',49.313315,-122.925447
 53253,'53253','Eastbound Bedwell Bay Rd @ 3900 Block',49.317311,-122.909827
@@ -3496,7 +3486,8 @@
 54325,'54325','Eastbound E Keith Rd @ Hendry Ave',49.313365,-123.05138
 54326,'54326','Eastbound E Keith Rd @ Adderley St',49.313317,-123.048554
 54327,'54327','Eastbound E Keith Rd @ Cloverley St',49.313273,-123.04582
-54330,'54330','Southbound Brooksbank Ave @ E 4th St',49.310658,-123.040509
+54330,'54330','Southbound Brooksbank Ave @ E 4th St',49.309636,-123.04053
+54331,'54331','Southbound Brooksbank Ave @ E 3rd St',49.308077,-123.040574
 54332,'54332','Eastbound Main St @ Lynn Ave',49.306304,-123.036502
 54333,'54333','Phibbs Exch @ Bay 11',49.30514,-123.028313
 54334,'54334','Northbound Brooksbank Ave @ E 3rd St',49.308549,-123.040349
@@ -5699,6 +5690,7 @@
 56871,'56871','Southbound Gdn City Rd @ Bowcock Rd',49.15102,-123.125354
 56872,'56872','Southbound Gdn City Rd @ Francis Rd',49.14793,-123.125292
 56873,'56873','Southbound Gdn City Rd @ Glenallan Gt',49.145229,-123.125249
+56874,'56874','Southbound Gdn City Rd @ Saunders Rd',49.14325,-123.125279
 56875,'56875','Eastbound Williams Rd @ Gdn City Rd',49.14078,-123.126386
 56876,'56876','Eastbound Williams Rd @ Severn Dr',49.140717,-123.118719
 56877,'56877','Eastbound Williams Rd @ No. 4 Rd',49.140666,-123.113709
@@ -6315,7 +6307,6 @@
 57635,'57635','Southbound 227 St @ Haney Bypass',49.209621,-122.595106
 57636,'57636','Northbound 225 St @ Haney Bypass',49.211268,-122.598915
 57637,'57637','Northbound 225 St @ Brickwood Close',49.214071,-122.598881
-57639,'57639','Northbound 226 St @ Lougheed Hwy',49.217426,-122.596206
 57641,'57641','Westbound Dewdney Trunk Rd @ 222 St',49.220575,-122.608115
 57642,'57642','Westbound Dewdney Trunk Rd @ Dover St',49.220617,-122.6145
 57643,'57643','Westbound Dewdney Trunk Rd @ Hall St',49.220636,-122.618915
@@ -6552,7 +6543,6 @@
 58023,'58023','Westbound W 10 Ave @ Sasamat St',49.263905,-123.209694
 58026,'58026','Westbound Cottonwood Ave @ Robinson St',49.258299,-122.879436
 58029,'58029','Eastbound Ravine Dr @ 100 Block',49.295018,-122.834259
-58030,'58030','N Bus Access Rd @ E 29th Ave',49.285674,-123.043632
 58032,'58032','Southbound 208 St @ Willoughby Town Ctr Dr',49.145238,-122.645895
 58037,'58037','Eastbound W Broadway @ Alma St',49.264263,-123.184623
 58038,'58038','Northbound 208 St @ 80 Ave',49.148689,-122.645576
@@ -7357,7 +7347,6 @@
 59222,'59222','Southbound 222 St @ 119 Ave',49.21875,-122.607135
 59223,'59223','Northbound 222 St @ 119 Ave',49.218793,-122.606907
 59224,'59224','Southbound 222 St @ Dewdney Trunk Rd',49.219948,-122.607103
-59225,'59225','Bus Stop @ Buntzen Lk',49.33871,-122.856819
 59226,'59226','Eastbound E Keith Rd @ Grand Blvd East',49.313425,-123.056138
 59227,'59227','Eastbound Chatham St @ 4th Ave',49.126361,-123.186418
 59228,'59228','Westbound 108 Ave @ 168 St',49.198954,-122.757007
@@ -7919,6 +7908,7 @@
 60251,'60251','Eastbound Sw Marine Dr @ Hudson St',49.20317,-123.135556
 60252,'60252','Southbound 80 St @ 4500 Block',49.085464,-123.001829
 60266,'60266','Northbound Oak St @ W 10 Ave',49.262225,-123.12653
+60267,'60267','Southbound Oak St @ W 10th Ave',49.262196,-123.126721
 60270,'60270','Southbound Highland Blvd @ Canfield Cres',49.338483,-123.100348
 60271,'60271','Westbound Bedwell Bay Rd @ White Pine Beach Rd',49.314355,-122.88435
 60276,'60276','Southbound 15th St @ Ottawa Ave',49.340163,-123.156999
@@ -8149,7 +8139,6 @@
 61011,'61011','Phibbs Exch @ Bay 6',49.30587,-123.029009
 61013,'61013','Northbound Shaughnessy St @ Mcallister Ave',49.262582,-122.781227
 61014,'61014','Eastbound 24 Ave @ 156 St',49.045489,-122.789656
-61018,'61018','Northbound @ Anmore Grocery Store (Flag)',49.322425,-122.855612
 61027,'61027','Broadway-City Hall Sta @ Bay 2',49.262759,-123.114655
 61028,'61028','Southbound 199a St @ 96 Ave',49.176466,-122.669453
 61029,'61029','Westbound Churchill St @ 7900 Block',49.082328,-123.004148
@@ -8226,12 +8215,9 @@
 61129,'61129','Westbound W 16 Ave @ Vine St',49.257435,-123.15827
 61130,'61130','Westbound W 16 Ave @ Trafalgar St',49.257758,-123.165382
 61131,'61131','Westbound W 16 Ave @ Blenheim St',49.257961,-123.178447
-61133,'61133','Southbound Trimble St @ Belmont Ave',49.273327,-123.205803
 61134,'61134','Westbound E 33 Ave @ Inverness St',49.240296,-123.080645
 61135,'61135','Eastbound E 33 Ave @ Inverness St',49.240161,-123.079787
-61138,'61138','Westbound Nw Marine Dr @ W 4th Ave',49.268938,-123.200648
 61139,'61139','Eastbound Mcclure Dr @ 240 St',49.196882,-122.556161
-61143,'61143','Bus Stop @ Spanish Banks Loop',49.276328,-123.215494
 61149,'61149','Southbound Cambie St @ W 14 Ave',49.25846,-123.115193
 61150,'61150','Eastbound E 33 Ave @ Main St',49.240435,-123.101853
 61151,'61151','Southbound Windjammer Rd @ Captains Way Rd (Flag)',49.369621,-123.423063
@@ -8480,7 +8466,6 @@
 61613,'61613','Eastbound Lougheed Hwy @ Woolridge Connector',49.234857,-122.864253
 61614,'61614','Westbound 96 Ave @ 176 St',49.176898,-122.735989
 61615,'61615','Eastbound Golden Ears Way @ 176 St',49.175934,-122.733272
-61616,'61616','29th Ave Sta @ Bay 5',49.244392,-123.044987
 61617,'61617','Westbound United Blvd @ King Edward St',49.230563,-122.859574
 61618,'61618','Westbound River Rd @ 8800 Block',49.153728,-122.97802
 61619,'61619','Eastbound 96 Ave @ 168 St',49.176937,-122.755946
