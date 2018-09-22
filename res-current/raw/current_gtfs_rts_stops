@@ -4544,7 +4544,7 @@
 55555,'55555','Westbound New Mclellan Rd @ 124 St',49.103874,-122.879685
 55556,'55556','Westbound New Mclellan Rd @ 123 St',49.103437,-122.882521
 55557,'55557','Westbound New Mclellan Rd @ Hillside Rd',49.102959,-122.886411
-55558,'55558','Northbound Scott Rd @ 56 Ave',49.104521,-122.890335
+55559,'55559','Northbound Scott Rd @ 56 Ave',49.104989,-122.890274
 55564,'55564','Northbound 128 St @ 60 Ave',49.112064,-122.867704
 55565,'55565','Northbound 128 St @ 62 Ave',49.116187,-122.867704
 55566,'55566','Westbound 64 Ave @ 132 St',49.119089,-122.85705
@@ -5716,6 +5716,7 @@
 56898,'56898','Northbound No. 6 Rd @ Sparwood Pl',49.170783,-123.069082
 56899,'56899','Northbound No. 6 Rd @ International Pl',49.174123,-123.069105
 56900,'56900','Northbound No. 6 Rd @ Commerce Pkwy',49.176817,-123.069055
+56901,'56901','Southbound Graybar Rd @ Westminster Hwy',49.168632,-122.989835
 56902,'56902','Eastbound Gordon Way @ 21300 Block',49.16735,-122.986866
 56903,'56903','Northbound Fraserwood Pl @ Gordon Way',49.168021,-122.983586
 56904,'56904','Eastbound Westminster Hwy @ Hwy 91',49.171144,-122.971969
