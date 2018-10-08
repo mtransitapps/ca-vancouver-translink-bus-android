@@ -2267,6 +2267,7 @@
 52787,'52787','Northbound Douglas Rd @ Hwy 1st',49.256983,-122.982623
 52788,'52788','Northbound Douglas Rd @ Norland Ave',49.259866,-122.983586
 52790,'52790','Northbound Douglas Rd @ Springer Ave',49.263533,-122.98873
+52792,'52792','Brentwood Sta @ Bay 2',49.266442,-122.998687
 52798,'52798','Northbound Gilmore Ave @ Douglas Rd',49.270576,-123.014183
 52799,'52799','Northbound Gilmore Ave @ Kitchener St',49.272367,-123.014164
 52800,'52800','Northbound Gilmore Ave @ William St',49.274137,-123.014169
@@ -3098,8 +3099,8 @@
 53873,'53873','Eastbound Dunkirk Ave @ Pipeline Rd',49.28772,-122.78314
 53874,'53874','Eastbound Dunkirk Ave @ Galiano St',49.287452,-122.779416
 53875,'53875','Eastbound Dunkirk Ave @ Hornby St',49.288287,-122.776518
-53876,'53876','Northbound Gabriola Dr @ Georgeson Ave',49.289114,-122.773202
-53877,'53877','Northbound Gabriola Dr @ Savary Ave',49.290405,-122.774226
+53876,'53876','Northbound Gabriola Dr @ Georgeson Ave',49.289197,-122.773213
+53877,'53877','Northbound Gabriola Dr @ Savary Ave',49.290264,-122.774104
 53878,'53878','Westbound Harwood Ave @ Gabriola Dr',49.291271,-122.774651
 53879,'53879','Westbound Harwood Ave @ Hornby St',49.291275,-122.777818
 53882,'53882','Southbound Pipeline Rd @ Dunkirk Ave',49.287578,-122.783827
@@ -3569,6 +3570,7 @@
 54424,'54424','Phibbs Exch @ Bay 10',49.305313,-123.02846
 54425,'54425','Lonsdale Quay @ Bay 5',49.310412,-123.083112
 54426,'54426','Northbound Chesterfield Ave @ W 1st St',49.313517,-123.081348
+54427,'54427','Northbound Chesterfield Ave @ W 2nd St',49.314235,-123.080618
 54428,'54428','Westbound Marine Dr @ Mackay Ave',49.323913,-123.103303
 54429,'54429','Westbound Marine Dr @ Lloyd Ave',49.323931,-123.105534
 54435,'54435','Westbound Marine Dr @ Pemberton Ave',49.323956,-123.108455
@@ -3606,7 +3608,7 @@
 54469,'54469','Westbound W Keith Rd @ Forbes Ave',49.320182,-123.085235
 54470,'54470','Westbound W Keith Rd @ Delbruck Ave',49.320206,-123.088561
 54471,'54471','Southbound Lions Gt Bridge Onramp @ Marine Dr',49.326637,-123.128681
-54473,'54473','Eastbound W Georgia St @ Homer St',49.280989,-123.115989
+54473,'54473','Eastbound W Georgia St @ Richards St',49.280989,-123.115989
 54474,'54474','Northbound Lonsdale Ave @ E Kings Rd',49.337683,-123.071867
 54475,'54475','Northbound Lonsdale Ave @ E Osborne Rd',49.340769,-123.071822
 54480,'54480','Northbound Capilano Rd @ W 21st St',49.32935,-123.117663
@@ -3854,8 +3856,8 @@
 54733,'54733','Westbound Southborough Dr @ Taylor Way',49.34108,-123.13564
 54734,'54734','Northbound Southborough Dr @ Parkside Rd',49.342862,-123.138921
 54735,'54735','Northbound Eyremount Dr @ Southborough Dr',49.34447,-123.13605
-54736,'54736','Westbound Xing Crk Rd @ Highland Dr',49.346232,-123.144455
-54737,'54737','Westbound Xing Crk Rd @ Chartwell Dr',49.345298,-123.147176
+54736,'54736','Westbound Cross Crk Rd @ Highland Dr',49.346232,-123.144455
+54737,'54737','Westbound Cross Crk Rd @ Chartwell Dr',49.345298,-123.147176
 54738,'54738','Northbound Chartwell Dr @ 1300 Block',49.346851,-123.151814
 54739,'54739','Northbound Chartwell Dr @ Whitby Rd',49.347559,-123.152414
 54740,'54740','Northbound Chartwell Dr @ Burnside Rd',49.34927,-123.15089
@@ -7484,6 +7486,7 @@
 59509,'59509','Southbound Horseshoe Way @ Blacksmith Pl',49.127969,-123.096021
 59510,'59510','Westbound 52 St @ 2000 Block',49.041495,-123.082095
 59511,'59511','Westbound 52 St @ 2000 Block',49.040314,-123.087622
+59513,'59513','Eastbound W Georgia St @ Hamilton St',49.280019,-123.114489
 59518,'59518','Northbound Banbury Rd @ Gallant Ave',49.326512,-122.949168
 59525,'59525','Westbound Water St @ Abbott St',49.28411,-123.107364
 59526,'59526','Eastbound Lynn Vly Rd @ Mtn Hwy',49.336608,-123.038743
@@ -7498,6 +7501,7 @@
 59544,'59544','Metrotown Sta @ Bay 9',49.225157,-123.003128
 59547,'59547','Northbound 52 St @ 2000 Block',49.038251,-123.090098
 59549,'59549','Eastbound 6th Ave @ 18 St',49.202286,-122.940342
+59550,'59550','Northbound Cambie St @ W Georgia St',49.279637,-123.112669
 59552,'59552','Westbound Boyd St @ Gifford St',49.185126,-122.95283
 59553,'59553','Southbound Gifford St @ Ewen Ave',49.183819,-122.951378
 59554,'59554','Burquitlam Sta @ Bay 1',49.261403,-122.889518
@@ -7918,7 +7922,6 @@
 60284,'60284','Northbound No. 3rd Rd @ Yaohan Access Rd',49.186808,-123.1343
 60285,'60285','Joyce Sta @ Bay 2',49.237786,-123.030577
 60286,'60286','Joyce St @ Vanness Ave',49.238015,-123.031924
-60287,'60287','Southbound Alpha Ave @ Lougheed Hwy',49.265757,-123.000485
 60289,'60289','Westbound E King Edward Ave @ Main St',49.24885,-123.100621
 60291,'60291','Eastbound North Bluff Rd @ Foster St',49.031031,-122.802667
 60292,'60292','Eastbound N Bluff Rd @ George St',49.031015,-122.799229
@@ -8076,8 +8079,8 @@
 60933,'60933','Westbound Southborough Dr @ Biddesden Pl',49.343326,-123.138538
 60934,'60934','Southbound Eyremount Rd @ 700 Block (Flag)',49.344405,-123.136213
 60935,'60935','Westbound Eyremount Dr @ 700 Block',49.345218,-123.139214
-60936,'60936','Westbound Xing Crk Rd @ Eyremount Dr',49.346176,-123.14189
-60937,'60937','Eastbound Xing Crk Rd @ Highland Dr (Flag)',49.346081,-123.143949
+60936,'60936','Westbound Cross Crk Rd @ Eyremount Dr',49.346176,-123.14189
+60937,'60937','Eastbound Cross Crk Rd @ Highland Dr (Flag)',49.346081,-123.143949
 60938,'60938','Southbound Chartwell Dr @ 1200 Block (Flag)',49.346194,-123.147999
 60939,'60939','Eastbound Chartwell Dr @ Cammeray Rd (Flag)',49.346846,-123.153313
 60940,'60940','Southbound Chartwell Dr @ Burnside Rd (Flag)',49.348313,-123.151171
@@ -8494,7 +8497,7 @@
 61643,'61643','Northbound 192 St @ 28 Ave',49.053205,-122.691408
 61645,'61645','Southbound Elliott St @ E 54 Ave',49.220551,-123.054963
 61647,'61647','Southbound 123a St @ 96 Ave',49.177565,-122.880597
-61649,'61649','New Westminster Sta @ Bay 2',49.200991,-122.912182
+61649,'61649','New Westminster Sta @ Bay 2',49.201037,-122.912095
 61651,'61651','New Westminster Sta @ Bay 4',49.20088,-122.912854
 61652,'61652','New Westminster Sta @ Bay 5',49.20106,-122.913116
 61654,'61654','New Westminster Sta @ Bay 7',49.201379,-122.913535
@@ -8624,8 +8627,6 @@
 61867,'61867','Eastbound S Wildwood Cres @ 19800 Block',49.210658,-122.671642
 61868,'61868','Northbound Wildwood Cres @ Wildwood Pl',49.212939,-122.670651
 61869,'61869','Westbound N Wildwood Cres @ 19800 Block',49.214735,-122.672857
-61870,'61870','Southbound Hamilton St @ W Georgia St',49.280275,-123.113845
-61871,'61871','Southbound Hamilton St @ Dunsmuir St',49.280661,-123.113264
 61872,'61872','Eastbound Mcclure Dr @ 106 Ave',49.194721,-122.55298
 61873,'61873','Westbound Mcclure Dr @ 106 Ave',49.195789,-122.553666
 61874,'61874','Westbound Mcclure Dr @ 243 St',49.194833,-122.550018
