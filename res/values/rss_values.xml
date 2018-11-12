@@ -7,13 +7,13 @@
     <bool name="rss_copy_to_file_instead_of_streaming">false</bool>
     <string name="rss_encoding">utf-8</string>
     <string-array name="rss_feeds">
-        <item>http://buzzer.translink.ca/feed/</item>
+        <item>https://buzzer.translink.ca/feed/</item>
     </string-array>
     <string-array name="rss_feeds_author_name">
         <item>TransLink (Buzzer Blog)</item>
     </string-array>
     <string-array name="rss_feeds_author_url">
-        <item>http://buzzer.translink.ca/</item>
+        <item>https://buzzer.translink.ca/</item>
     </string-array>
     <string-array name="rss_feeds_label">
         <item>buzzer.translink.ca</item>
