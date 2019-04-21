@@ -45,4 +45,4 @@ Email: mtransit.apps+GooglePlay@gmail.com
 ----------
 Phone: 
 ----------
-Privacy Policy:
+Privacy Policy: https://github.com/mtransitapps/mtransit-for-android/wiki/PrivacyPolicy
