@@ -586,6 +586,7 @@
 50730,'50730','WB E Hastings St @ Nanaimo St',49.281242,-123.057254
 50731,'50731','WB E Hastings St @ Templeton Dr',49.28126,-123.060231
 50733,'50733','WB E Hastings St @ Victoria Dr',49.281297,-123.066124
+50735,'50735','NB Nanaimo St @ E Hastings St',49.281413,-123.056378
 50736,'50736','NB Nanaimo St @ Pandora St',49.283304,-123.056396
 50737,'50737','SB Dunbar St @ W 41 Ave',49.234424,-123.185469
 50738,'50738','Marpole Loop @ Bay 1',49.202764,-123.13332
@@ -2450,7 +2451,7 @@
 53022,'53022','EB Lougheed Hwy @ Westwood St',49.274107,-122.792389
 53023,'53023','EB Lougheed Hwy @ Hastings St',49.269622,-122.781555
 53024,'53024','SB Shaughnessy St @ Lions Way',49.266491,-122.77758
-53025,'53025','SB Shaughnessy St @ McAllister Ave',49.262567,-122.781495
+53025,'53025','SB Shaughnessy St @ McAllister Ave',49.26239,-122.781673
 53026,'53026','EB Wilson Ave @ Shaughnessy St',49.260807,-122.781601
 53027,'53027','EB Wilson Ave @ Mary Hl Rd',49.260805,-122.777747
 53029,'53029','WB Wilson Ave @ Kingsway Ave',49.260944,-122.776176
@@ -2620,7 +2621,7 @@
 53240,'53240','EB Sunnyside Rd @ 2000 Block',49.307873,-122.86469
 53241,'53241','NB Sunnyside Rd @ Alder Way',49.31089,-122.857692
 53242,'53242','NB Sunnyside Rd @ East Rd',49.314796,-122.855634
-53243,'53243','NB Sunnyside Rd @ Eaglecrest Dr',49.318629,-122.855644
+53243,'53243','NB Sunnyside Rd @ Eaglecrest Dr',49.318242,-122.855614
 53244,'53244','SB Sunnyside Rd @ Anmore Grocery Store',49.322138,-122.855795
 53245,'53245','SB Sunnyside Rd @ Anmore Crk Way',49.318666,-122.855772
 53246,'53246','SB Sunnyside Rd @ East Rd',49.314255,-122.855754
@@ -6703,6 +6704,7 @@
 58385,'58385','EB Goring St @ Douglas Rd',49.262985,-122.986025
 58386,'58386','WB Lougheed Hwy @ Gilmore Ave',49.266208,-123.014957
 58387,'58387','SB Gilmore Ave @ 2nd Ave',49.267781,-123.014362
+58388,'58388','NB Gilmore Ave @ Halifax St',49.268646,-123.014167
 58390,'58390','WB Henning Dr @ 3800 Block',49.264012,-123.019214
 58391,'58391','EB Henning Dr @ 3800 Block',49.263862,-123.018496
 58392,'58392','EB Henning Dr @ Boundary Rd',49.263596,-123.022725
