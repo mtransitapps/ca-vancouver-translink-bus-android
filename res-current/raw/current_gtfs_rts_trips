@@ -38,8 +38,8 @@
 2600,0,'Joyce Sta',26
 2701,0,'Joyce Sta',27
 2700,0,'Kootenay Loop',27
+2800,0,'Capilano U',28
 2801,0,'Joyce Sta',28
-2800,0,'Phibbs Exch',28
 2900,0,'29th Ave Sta',29
 2901,0,'Elliott',29
 3200,0,'Downtown',32
@@ -94,6 +94,8 @@
 11901,0,'Metrotown Sta',119
 12301,0,'Brentwood Sta',123
 12300,0,'New West Sta',123
+12500,0,'B C I T',125
+12501,0,'Patterson Sta',125
 12801,0,'22nd St Sta',128
 12800,0,'Braid Sta',128
 12900,0,'Holdom Sta',129
@@ -212,10 +214,12 @@
 24101,0,'Vancouver',241
 24200,0,'Lynn Vly',242
 24201,0,'Vancouver',242
-24600,0,'Lonsdale Quay',246
-24601,0,'Vancouver',246
+24601,0,'Downtown',246
+24600,0,'Highland',246
 24700,0,'Grouse Mtn',247
 24701,0,'Vancouver',247
+24900,0,'Delbrook',249
+24901,0,'Lonsdale Quay',249
 25001,0,'Horseshoe Bay',250
 25000,0,'Vancouver',250
 25100,0,'Pk Royal',251
@@ -232,6 +236,8 @@
 25600,0,'Whitby Ests',256
 25701,0,'Horseshoe Bay',257
 25700,0,'Vancouver',257
+25801,0,'UBC',258
+25800,0,'West Vancouver',258
 26201,0,'Caulfeild',262
 26200,0,'Lions Bay- Brunswick',262
 28001,0,'Bluewater',280
@@ -426,7 +432,23 @@
 74900,0,'Ruskin',749
 79101,0,'Braid Sta',791
 79100,0,'Haney Pl',791
+80401,1,'E',804
+80402,1,'W',804
+80703,1,'N',807
+80704,1,'S',807
 84001,0,'Special',840
+84801,0,'Lougheed Sta',848
+85501,1,'E',855
+85502,1,'W',855
+86103,1,'N',861
+86104,1,'S',861
+86300,0,'Arch Carney',863
+86401,0,'Special',864
+86501,0,'Haney Pl',865
+88001,1,'E',880
+88002,1,'W',880
+88101,1,'E',881
+88102,1,'W',881
 14000801,0,'Downtown',140008
 14000800,0,'Fraser',140008
 14000900,0,'Coq Ctrl Sta',140009
