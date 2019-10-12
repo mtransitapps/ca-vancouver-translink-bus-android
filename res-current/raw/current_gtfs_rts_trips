@@ -124,8 +124,6 @@
 14701,0,'Metrotown Sta',147
 14800,0,'Edmonds Sta',148
 14801,0,'Royal Oak Sta',148
-15001,0,'Coq Ctrl Sta',150
-15000,0,'White Pine Beach',150
 15101,0,'Burquitlam Sta',151
 15100,0,'Coq Ctrl Sta',151
 15200,0,'Coq Ctrl Sta',152
@@ -156,8 +154,6 @@
 17400,0,'Rocklin',174
 17501,0,'Coq Ctrl Sta',175
 17500,0,'Meridian',175
-17900,0,'Buntzen Lk',179
-17901,0,'Coq Ctrl Sta',179
 18001,0,'Lougheed Sta',180
 18000,0,'Moody Ctr Sta',180
 18100,0,'Belcarra',181
