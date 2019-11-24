@@ -48,8 +48,6 @@
 3301,0,'UBC',33
 4100,0,'Joyce Sta',41
 4101,0,'UBC',41
-4200,0,'Alma',42
-4201,0,'Spanish Banks',42
 4300,0,'Joyce Sta',43
 4301,0,'UBC',43
 4400,0,'Downtown',44
@@ -66,7 +64,7 @@
 8400,0,'VCC-Clark Sta',84
 9501,0,'Burrard Sta',95
 9500,0,'SFU',95
-9600,0,'Guildford Exch',96
+9600,0,'Guildford',96
 9601,0,'Newton Exch',96
 9900,0,'Boundary',99
 9901,0,'UBC',99
