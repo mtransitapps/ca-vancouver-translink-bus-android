@@ -1,15 +1,3 @@
-Title: Vancouver Transit Bus - MonTransit
-----------
-Short description:
-Vancouver buses for MonTransit.
-Schedule. Real-Time. Alerts. News.
-----------
-What's new in this version?:
-Schedule from September 2, 2019 to January 5, 2020.
-News from www.translink.ca.
-Tweets from @TransLink and @TransLinkMedia.
-----------
-Full description:
 This app adds Vancouver buses information to MonTransit.
 
 This app provides the buses schedule (offline and real-time) and news from www.translink.ca, YouTube and @TransLink and @TransLinkMedia on Twitter.
@@ -18,7 +6,7 @@ Vancouver buses serves the Metro Vancouver region in British Columbia, Canada.
 
 Once this application is installed, the MonTransit app will display buses information (schedule...).
 
-This application only has a temporary icon and no screen: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+This application only has a temporary icon: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
 
 You can install this application on the SD card but it is not recommended.
 
@@ -32,17 +20,3 @@ This app is not related with TransLink (South Coast British Columbia Transportat
 
 Permissions:
 - Other: required to read real-time stop estimates from api.translink.ca and to read news from www.translink.ca, YouTube and Twitter
-----------
-Application type: Applications
-----------
-Category: Transportation
-----------
-Content rating: Low Maturity
-----------
-Website: https://github.com/mtransitapps/ca-vancouver-translink-bus-android
-----------
-Email: mtransit.apps+GooglePlay@gmail.com
-----------
-Phone: 
-----------
-Privacy Policy: https://github.com/mtransitapps/mtransit-for-android/wiki/PrivacyPolicy
