@@ -1,465 +1,465 @@
-200,0,'Downtown',2
-201,0,'Macdonald',2
-300,0,'Downtown',3
-301,0,'Main-Marine Dr Sta',3
-400,0,'Powell',4
-401,0,'UBC',4
-500,0,'Downtown',5
-501,0,'Robson',5
-601,0,'Davie',6
-600,0,'Downtown',6
-701,0,'Dunbar',7
-700,0,'Nanaimo Sta',7
-801,0,'Downtown',8
-800,0,'Fraser',8
-901,0,'Alma',9
-900,0,'Boundary',9
-1000,0,'Downtown',10
-1001,0,'Granville',10
-1400,0,'Hastings',14
-1401,0,'UBC',14
-1501,0,'Cambie',15
-1500,0,'Olympic Vlg Sta',15
-1600,0,'29th Ave Sta',16
-1601,0,'Arbutus',16
-1701,0,'Downtown',17
-1700,0,'Oak',17
-1900,0,'Metrotown Sta',19
-1901,0,'Stanley Pk',19
-2000,0,'Downtown',20
-2001,0,'Victoria',20
-2201,0,'Downtown',22
-2200,0,'Knight',22
-2301,0,'Beach',23
-2300,0,'Main St Sta',23
-2500,0,'Brentwood Sta',25
-2501,0,'UBC',25
-2601,0,'29th Ave Sta',26
-2600,0,'Joyce Sta',26
-2701,0,'Joyce Sta',27
-2700,0,'Kootenay Loop',27
-2800,0,'Capilano U',28
-2801,0,'Joyce Sta',28
-2900,0,'29th Ave Sta',29
-2901,0,'Elliott',29
-3200,0,'Downtown',32
-3201,0,'Dunbar',32
-3300,0,'29th Ave Sta',33
-3301,0,'UBC',33
-4100,0,'Joyce Sta',41
-4101,0,'UBC',41
-4300,0,'Joyce Sta',43
-4301,0,'UBC',43
-4400,0,'Downtown',44
-4401,0,'UBC',44
-4900,0,'Metrotown Sta',49
-4901,0,'UBC',49
-5001,0,'S False Crk',50
-5000,0,'Waterfront Sta',50
-6801,0,'Lower Mall',68
-6800,0,'UBC Exch',68
-7000,0,'UBC Exch',70
-7001,0,'Wesbrook Mall',70
-8401,0,'UBC',84
-8400,0,'VCC-Clark Sta',84
-9501,0,'Burrard Sta',95
-9500,0,'SFU',95
-9600,0,'Guildford',96
-9601,0,'Newton Exch',96
-9900,0,'Boundary',99
-9901,0,'UBC',99
-10000,0,'22nd St Sta',100
-10001,0,'Marpole',100
-10101,0,'22nd St Sta',101
-10100,0,'Lougheed Sta',101
-10301,0,'Quayside',103
-10300,0,'Victoria Hl',103
-10400,0,'22nd St Sta',104
-10401,0,'Annacis Isl',104
-10501,0,'New West Sta',105
-10500,0,'Uptown',105
-10601,0,'Edmonds Sta',106
-10600,0,'New West Sta',106
-10900,0,'Lougheed Sta',109
-10901,0,'New West Sta',109
-11000,0,'Lougheed Sta',110
-11001,0,'Metrotown Sta',110
-11201,0,'Edmonds Sta',112
-11200,0,'New West Sta',112
-11600,0,'Edmonds Sta',116
-11601,0,'Metrotown Sta',116
-11900,0,'Edmonds Sta',119
-11901,0,'Metrotown Sta',119
-12301,0,'Brentwood Sta',123
-12300,0,'New West Sta',123
-12500,0,'B C I T',125
-12501,0,'Patterson Sta',125
-12801,0,'22nd St Sta',128
-12800,0,'Braid Sta',128
-12900,0,'Holdom Sta',129
-12901,0,'Patterson Sta',129
-13001,0,'Metrotown Sta',130
-13000,0,'Phibbs Exch',130
-13100,0,'Hastings @ Gilmore',131
-13101,0,'Kootenay Loop',131
-13200,0,'Capitol Hl',132
-13201,0,'Hastings @ Gilmore',132
-13300,0,'Edmonds Sta',133
-13301,0,'Holdom Sta',133
-13401,0,'Brentwood Sta',134
-13400,0,'Lk City Sta',134
-13601,0,'Brentwood Sta',136
-13600,0,'Lougheed Sta',136
-14300,0,'Burquitlam Sta',143
-14301,0,'SFU',143
-14401,0,'Metrotown Sta',144
-14400,0,'SFU',144
-14501,0,'Production Sta',145
-14500,0,'SFU',145
-14600,0,'Metrotown Sta',146
-14601,0,'Suncrest',146
-14700,0,'Edmonds Sta',147
-14701,0,'Metrotown Sta',147
-14800,0,'Edmonds Sta',148
-14801,0,'Royal Oak Sta',148
-15101,0,'Burquitlam Sta',151
-15100,0,'Coq Ctrl Sta',151
-15200,0,'Coq Ctrl Sta',152
-15201,0,'Lougheed Sta',152
-15301,0,'Braid Sta',153
-15300,0,'Coq Ctrl Sta',153
-15501,0,'22nd St Sta',155
-15500,0,'Braid Sta',155
-15600,0,'Braid Sta',156
-15601,0,'Lougheed Sta',156
-15700,0,'Burquitlam Sta',157
-15701,0,'Lougheed Sta',157
-15901,0,'Braid Sta',159
-15900,0,'Coq Ctrl Sta',159
-16001,0,'Kootenay Loop',160
-16000,0,'Pt Coq Sta',160
-16901,0,'Braid Sta',169
-16900,0,'Coq Ctrl Sta',169
-17001,0,'Pt Coq South',170
-17000,0,'Pt Coq Sta',170
-17101,0,'Coq Ctrl Sta',171
-17100,0,'Fremont',171
-17201,0,'Coq Ctrl Sta',172
-17200,0,'Riverside',172
-17300,0,'Cedar',173
-17301,0,'Coq Ctrl Sta',173
-17401,0,'Coq Ctrl Sta',174
-17400,0,'Rocklin',174
-17501,0,'Coq Ctrl Sta',175
-17500,0,'Meridian',175
-18001,0,'Lougheed Sta',180
-18000,0,'Moody Ctr Sta',180
-18100,0,'Belcarra',181
-18101,0,'Moody Ctr Sta',181
-18200,0,'Belcarra',182
-18201,0,'Moody Ctr Sta',182
-18300,0,'Coq Ctrl Sta',183
-18301,0,'Moody Ctr Sta',183
-18401,0,'Moody Ctr Sta',184
-18400,0,'Noons Crk',184
-18501,0,'Coq Ctrl Sta',185
-18500,0,'Lansdowne',185
-18601,0,'Coq Ctrl Sta',186
-18600,0,'Hampton Pk',186
-18701,0,'Coq Ctrl Sta',187
-18700,0,'Pkwy',187
-18801,0,'Coq Ctrl Sta',188
-18800,0,'Pt Coq Sta',188
-18901,0,'Coq Ctrl Sta',189
-18900,0,'Lafarge',189
-19101,0,'Coq Ctrl Sta',191
-19100,0,'Princeton',191
-20900,0,'Upper Lynn Vly',209
-20901,0,'Vancouver',209
-21000,0,'Upper Lynn Vly',210
-21001,0,'Vancouver',210
-21100,0,'Seymour',211
-21101,0,'Vancouver',211
-21200,0,'Deep Cv',212
-21201,0,'Phibbs Exch',212
 21400,0,'Blueridge',214
 21401,0,'Vancouver',214
-21500,0,'Indian River',215
-21501,0,'Phibbs Exch',215
 22700,0,'Lynn Vly Ctr',227
 22701,0,'Phibbs Exch',227
-22801,0,'Lonsdale Quay',228
-22800,0,'Lynn Vly',228
-22901,0,'Lonsdale Quay',229
-22900,0,'Lynn Vly',229
-23001,0,'Lonsdale Quay',230
-23000,0,'Upper Lonsdale',230
-23101,0,'Harbourside',231
-23100,0,'Lonsdale Quay',231
-23201,0,'Grouse Mtn',232
-23200,0,'Phibbs Exch',232
-23600,0,'Grouse Mtn',236
-23601,0,'Lonsdale Quay',236
-23900,0,'Capilano U',239
-23901,0,'Pk Royal',239
-24000,0,'15th St',240
-24001,0,'Vancouver',240
-24100,0,'Upper Lonsdale',241
-24101,0,'Vancouver',241
-24200,0,'Lynn Vly',242
-24201,0,'Vancouver',242
-24601,0,'Downtown',246
-24600,0,'Highland',246
-24700,0,'Grouse Mtn',247
-24701,0,'Vancouver',247
-24900,0,'Delbrook',249
-24901,0,'Lonsdale Quay',249
-25001,0,'Horseshoe Bay',250
-25000,0,'Vancouver',250
-25100,0,'Pk Royal',251
-25101,0,'Queens',251
-25201,0,'Inglewood',252
-25200,0,'Pk Royal',252
-25301,0,'Caulfeild',253
-25300,0,'Vancouver',253
-25400,0,'British Properties',254
-25401,0,'Vancouver',254
-25500,0,'Capilano U',255
-25501,0,'Dundarave',255
-25601,0,'Pk Royal',256
-25600,0,'Whitby Ests',256
-25701,0,'Horseshoe Bay',257
-25700,0,'Vancouver',257
-25801,0,'UBC',258
-25800,0,'West Vancouver',258
-26201,0,'Caulfeild',262
-26200,0,'Lions Bay- Brunswick',262
-28001,0,'Bluewater',280
-28000,0,'Snug Cv',280
-28100,0,'Eaglecliff',281
-28101,0,'Snug Cv',281
-28200,0,'Mt Gardner',282
-28201,0,'Snug Gove',282
-30101,0,'Brighouse Sta',301
-30100,0,'Newton Exch',301
-31001,0,'Ladner Exch',310
-31000,0,'Scottsdale',310
-31100,0,'Bridgeport Sta',311
-31101,0,'Scottsdale',311
-31200,0,'Scott Rd Sta',312
-31201,0,'Scottsdale',312
-31400,0,'Sry Ctrl Sta',314
-31401,0,'Sunbury',314
-31601,0,'Scottsdale',316
-31600,0,'Sry Ctrl Sta',316
-31901,0,'Newton Exch',319
-31900,0,'Scott Rd Sta',319
-32000,0,'Langley Ctr',320
-32001,0,'Sry Ctrl Sta',320
-32100,0,'New West Sta',321
-32101,0,'White Rock',321
-32200,0,'Newton Exch',322
-32201,0,'Scottsdale',322
-32301,0,'Newton Exch',323
-32300,0,'Sry Ctrl Sta',323
-32401,0,'Newton Exch',324
-32400,0,'Sry Ctrl Sta',324
-32501,0,'Newton Exch',325
-32500,0,'Sry Ctrl Sta',325
-32600,0,'Guildford',326
-32601,0,'Sry Ctrl Sta',326
-32901,0,'Scottsdale',329
-32900,0,'Sry Ctrl Sta',329
-33500,0,'Newton Exch',335
-33501,0,'Sry Ctrl Sta',335
-33700,0,'Fraser Hts',337
-33701,0,'Sry Ctrl Sta',337
-34001,0,'22nd St Sta',340
-34000,0,'Scottsdale',340
-34100,0,'Guildford',341
-34101,0,'Newton Exch',341
-34200,0,'Langley Ctr',342
-34201,0,'Newton Exch',342
-34500,0,'King George Sta',345
-34501,0,'White Rock Ctr',345
-35100,0,'Bridgeport Sta',351
-35101,0,'Cr Beach',351
-35200,0,'Bridgeport Sta',352
-35201,0,'Ocean Pk',352
-35400,0,'Bridgeport Sta',354
-35401,0,'White Rock South',354
-36001,0,'Ocean Pk',360
-36000,0,'Peace Arch Hosp',360
-36101,0,'Ocean Pk',361
-36100,0,'White Rock Ctr',361
-36201,0,'Seaside',362
-36200,0,'White Rock Ctr',362
-36301,0,'Peace Arch Hosp',363
-36300,0,'Southpoint',363
-36400,0,'Langley Ctr',364
-36401,0,'Scottsdale',364
-37001,0,'Cloverdale',370
-37000,0,'Willowbrook',370
-37101,0,'Scott Rd Sta',371
-37100,0,'Sry Ctrl Sta',371
-37201,0,'Clayton Hts',372
-37200,0,'Langley Ctr',372
-37300,0,'Guildford',373
-37301,0,'Sry Ctrl Sta',373
-37500,0,'Guildford',375
-37501,0,'White Rock S',375
-38801,0,'22nd St Sta',388
-38800,0,'Carvolth Exch',388
-39100,0,'Scott Rd Sta',391
-39101,0,'Scottsdale',391
-39301,0,'Newton Exch',393
-39300,0,'Sry Ctrl Sta',393
-39400,0,'King George Sta',394
-39401,0,'White Rock Ctr',394
-39501,0,'King George Sta',395
-39500,0,'Langley Ctr',395
-40100,0,'Brighouse Sta',401
-40101,0,'One Rd',401
-40200,0,'Brighouse Sta',402
-40201,0,'Two Rd',402
-40300,0,'Bridgeport Sta',403
-40301,0,'Three Rd',403
-40401,0,'Brighouse Sta',404
-40400,0,'Four Rd',404
-40500,0,'Cambie',405
-40501,0,'Five Rd',405
-40600,0,'Brighouse Sta',406
-40601,0,'Steveston',406
-40700,0,'Bridgeport',407
-40701,0,'Gilbert',407
-40801,0,'Brighouse Sta',408
-40800,0,'Riverport',408
-41000,0,'22nd St Sta',410
-41001,0,'Brighouse Sta',410
-41200,0,'Bridgeport Sta',412
-41201,0,'Sea Isl South',412
-41300,0,'Riverport',413
-41301,0,'Steveston',413
-41400,0,'Brighouse Sta',414
-41401,0,'Richmond Oval',414
-41601,0,'Brighouse Sta',416
-41600,0,'East Cambie',416
-41800,0,'22nd St Sta',418
-41801,0,'Kingswood',418
-43001,0,'Brighouse Sta',430
-43000,0,'Metrotown Sta',430
-48000,0,'Bridgeport Sta',480
-48001,0,'UBC',480
-50101,0,'Langley Ctr',501
-50100,0,'Sry Ctrl Sta',501
-50200,0,'Langley Ctr',502
-50201,0,'Sry Ctrl Sta',502
-50300,0,'Aldergrove',503
-50301,0,'Sry Ctrl Sta',503
-50901,0,'Sry Ctrl Sta',509
-50900,0,'Walnut Grv',509
-53101,0,'White Rock Ctr',531
-53100,0,'Willowbrook',531
 55500,0,'Carvolth Exch',555
 55501,0,'Lougheed Sta',555
-56001,0,'Langley Ctr',560
-56000,0,'Murrayville',560
-56100,0,'Brookswood',561
-56101,0,'Langley Ctr',561
-56201,0,'Langley Ctr',562
-56200,0,'Walnut Grv',562
-56301,0,'Fernridge',563
-56300,0,'Langley Ctr',563
-56401,0,'Langley Ctr',564
-56400,0,'Willowbrook',564
-59501,0,'Langley Ctr',595
-59500,0,'Maple Mdws Sta',595
-60100,0,'Bridgeport Sta',601
-60101,0,'South Delta',601
-60200,0,'Bridgeport Sta',602
-60201,0,'Tsaww Hts',602
-60301,0,'Beach Grv',603
-60300,0,'Bridgeport Sta',603
-60400,0,'Bridgeport Sta',604
-60401,0,'English Bluff',604
 60601,1,'E',606
 60602,1,'W',606
 60801,1,'E',608
 60802,1,'W',608
-60900,0,'South Delta Exch',609
-60901,0,'Tsawwassen 1st Nation',609
-61401,0,'English Bluff',614
-61400,0,'South Delta Exch',614
-61600,0,'Ladner Exch',616
-61601,0,'Ladner South',616
-61700,0,'East Ladner',617
-61701,0,'Ladner Exch',617
-61801,0,'Ladner Exch',618
-61800,0,'Ladner North',618
-61901,0,'Boundary Bay',619
-61900,0,'South Delta Exch',619
-62000,0,'Bridgeport Sta',620
-62001,0,'Tsaww Ferry',620
-64001,0,'Ladner Exch',640
-64000,0,'Scott Rd Sta',640
-70101,0,'Coq Ctrl Sta',701
-70100,0,'Mission City Sta',701
-71901,0,'Fraser Way',719
-71900,0,'Meadowtown',719
-72201,0,'Bonson',722
-72200,0,'Meadowtown',722
-73301,0,'Pt Haney Sta',733
-73300,0,'Rock Rdg',733
-74100,0,'Anderson Crk',741
-74101,0,'Pt Haney Sta',741
-74300,0,'Haney Pl',743
-74301,0,'Meadowtown',743
-74400,0,'Haney Pl',744
-74401,0,'Meadowtown',744
-74500,0,'Cottonwood',745
-74501,0,'Haney Pl',745
-74600,0,'Albion',746
-74601,0,'Haney Pl',746
-74801,0,'Haney Pl',748
-74800,0,'Thornhill',748
-74901,0,'Haney Pl',749
-74900,0,'Ruskin',749
-79101,0,'Braid Sta',791
-79100,0,'Haney Pl',791
 80401,1,'E',804
 80402,1,'W',804
 80703,1,'N',807
 80704,1,'S',807
-84001,0,'Special',840
 84801,0,'Lougheed Sta',848
 85501,1,'E',855
 85502,1,'W',855
 86103,1,'N',861
 86104,1,'S',861
 86300,0,'Arch Carney',863
-86401,0,'Special',864
 86501,0,'Haney Pl',865
 88001,1,'E',880
 88002,1,'W',880
 88101,1,'E',881
 88102,1,'W',881
-14000801,0,'Downtown',140008
-14000800,0,'Fraser',140008
-14000900,0,'Coq Ctrl Sta',140009
-14000901,0,'Downtown',140009
-14001001,0,'Brighouse Sta',140010
-14001000,0,'Downtown',140010
-14001501,0,'Cambie',140015
-14001500,0,'Downtown',140015
-14001700,0,'Downtown',140017
-14001701,0,'UBC',140017
-14001901,0,'Downtown',140019
-14001900,0,'Sry Ctrl Sta',140019
-14002000,0,'Downtown',140020
-14002001,0,'Victoria',140020
-14002200,0,'Downtown',140022
-14002201,0,'Macdonald',140022
-14002401,0,'Downtown',140024
-14002400,0,'Lynn Vly',140024
-14003501,0,'Downtown',140035
-14003500,0,'SFU',140035
+661200,0,'Downtown',6612
+661201,0,'Macdonald',6612
+661300,0,'Downtown',6613
+661301,0,'Main-Marine Dr Sta',6613
+661400,0,'Powell',6614
+661401,0,'UBC',6614
+661500,0,'Downtown',6615
+661501,0,'Robson',6615
+661601,0,'Davie',6616
+661600,0,'Downtown',6616
+661701,0,'Dunbar',6617
+661700,0,'Nanaimo Sta',6617
+661801,0,'Downtown',6618
+661800,0,'Fraser',6618
+661901,0,'Alma',6619
+661900,0,'Boundary',6619
+662000,0,'Downtown',6620
+662001,0,'Granville',6620
+662101,0,'Cambie',6621
+662100,0,'Olympic Vlg Sta',6621
+662200,0,'29th Ave Sta',6622
+662201,0,'Arbutus',6622
+662301,0,'Downtown',6623
+662300,0,'Oak',6623
+662400,0,'Metrotown Sta',6624
+662401,0,'Stanley Pk',6624
+662500,0,'Downtown',6625
+662501,0,'Victoria',6625
+662601,0,'Downtown',6626
+662600,0,'Knight',6626
+662700,0,'Brentwood Sta',6627
+662701,0,'UBC',6627
+662801,0,'29th Ave Sta',6628
+662800,0,'Joyce Sta',6628
+662901,0,'Joyce Sta',6629
+662900,0,'Kootenay Loop',6629
+663000,0,'Capilano U',6630
+663001,0,'Joyce Sta',6630
+663100,0,'29th Ave Sta',6631
+663101,0,'Elliott',6631
+663200,0,'Downtown',6632
+663201,0,'Dunbar',6632
+663300,0,'Joyce Sta',6633
+663301,0,'UBC',6633
+663400,0,'Joyce Sta',6634
+663401,0,'UBC',6634
+663500,0,'Downtown',6635
+663501,0,'UBC',6635
+663600,0,'Metrotown Sta',6636
+663601,0,'UBC',6636
+663701,0,'S False Crk',6637
+663700,0,'Waterfront Sta',6637
+663801,0,'UBC',6638
+663800,0,'VCC-Clark Sta',6638
+664100,0,'Boundary',6641
+664101,0,'UBC',6641
+664200,0,'22nd St Sta',6642
+664201,0,'Marpole',6642
+664301,0,'22nd St Sta',6643
+664300,0,'Lougheed Sta',6643
+664400,0,'22nd St Sta',6644
+664401,0,'Annacis Isl',6644
+664501,0,'Edmonds Sta',6645
+664500,0,'New West Sta',6645
+664600,0,'Lougheed Sta',6646
+664601,0,'Metrotown Sta',6646
+664701,0,'Edmonds Sta',6647
+664700,0,'New West Sta',6647
+664800,0,'Edmonds Sta',6648
+664801,0,'Metrotown Sta',6648
+664901,0,'Brentwood Sta',6649
+664900,0,'New West Sta',6649
+665000,0,'Holdom Sta',6650
+665001,0,'Patterson Sta',6650
+665101,0,'Metrotown Sta',6651
+665100,0,'Phibbs Exch',6651
+665201,0,'Brentwood Sta',6652
+665200,0,'Lk City Sta',6652
+665301,0,'Burrard Sta',6653
+665300,0,'SFU',6653
+665401,0,'Brentwood Sta',6654
+665400,0,'Lougheed Sta',6654
+665600,0,'Burquitlam Sta',6656
+665601,0,'SFU',6656
+665701,0,'Metrotown Sta',6657
+665700,0,'SFU',6657
+665801,0,'Production Sta',6658
+665800,0,'SFU',6658
+665901,0,'Burquitlam Sta',6659
+665900,0,'Coq Ctrl Sta',6659
+666000,0,'Coq Ctrl Sta',6660
+666001,0,'Lougheed Sta',6660
+666101,0,'Braid Sta',6661
+666100,0,'Coq Ctrl Sta',6661
+666201,0,'22nd St Sta',6662
+666200,0,'Braid Sta',6662
+666301,0,'22nd St Sta',6663
+666300,0,'Braid Sta',6663
+666400,0,'Braid Sta',6664
+666401,0,'Lougheed Sta',6664
+666500,0,'Burquitlam Sta',6665
+666501,0,'Lougheed Sta',6665
+666601,0,'Braid Sta',6666
+666600,0,'Coq Ctrl Sta',6666
+666701,0,'Kootenay Loop',6667
+666700,0,'Pt Coq Sta',6667
+666801,0,'Braid Sta',6668
+666800,0,'Coq Ctrl Sta',6668
+667200,0,'Upper Lynn Vly',6672
+667201,0,'Vancouver',6672
+667300,0,'Seymour',6673
+667301,0,'Vancouver',6673
+667400,0,'Deep Cv',6674
+667401,0,'Phibbs Exch',6674
+667601,0,'Lonsdale Quay',6676
+667600,0,'Lynn Vly',6676
+667701,0,'Lonsdale Quay',6677
+667700,0,'Lynn Vly',6677
+667801,0,'Lonsdale Quay',6678
+667800,0,'Upper Lonsdale',6678
+667901,0,'Grouse Mtn',6679
+667900,0,'Phibbs Exch',6679
+668000,0,'Grouse Mtn',6680
+668001,0,'Lonsdale Quay',6680
+668100,0,'Capilano U',6681
+668101,0,'Pk Royal',6681
+668200,0,'15th St',6682
+668201,0,'Vancouver',6682
+668300,0,'Upper Lonsdale',6683
+668301,0,'Vancouver',6683
+668400,0,'Lynn Vly',6684
+668401,0,'Vancouver',6684
+668501,0,'Downtown',6685
+668500,0,'Highland',6685
+668600,0,'Grouse Mtn',6686
+668601,0,'Vancouver',6686
+668701,0,'Horseshoe Bay',6687
+668700,0,'Vancouver',6687
+668800,0,'Pk Royal',6688
+668801,0,'Queens',6688
+668901,0,'Inglewood',6689
+668900,0,'Pk Royal',6689
+669001,0,'Caulfeild',6690
+669000,0,'Vancouver',6690
+669100,0,'British Properties',6691
+669101,0,'Vancouver',6691
+669200,0,'Capilano U',6692
+669201,0,'Dundarave',6692
+669301,0,'Horseshoe Bay',6693
+669300,0,'Vancouver',6693
+669401,0,'UBC',6694
+669400,0,'West Vancouver',6694
+669801,0,'Brighouse Sta',6698
+669800,0,'Newton Exch',6698
+669900,0,'Bridgeport Sta',6699
+669901,0,'Scottsdale',6699
+670000,0,'Scott Rd Sta',6700
+670001,0,'Scottsdale',6700
+670100,0,'Sry Ctrl Sta',6701
+670101,0,'Sunbury',6701
+670201,0,'Scottsdale',6702
+670200,0,'Sry Ctrl Sta',6702
+670301,0,'Newton Exch',6703
+670300,0,'Scott Rd Sta',6703
+670400,0,'Langley Ctr',6704
+670401,0,'Sry Ctrl Sta',6704
+670500,0,'New West Sta',6705
+670501,0,'White Rock',6705
+670601,0,'Newton Exch',6706
+670600,0,'Sry Ctrl Sta',6706
+670701,0,'Newton Exch',6707
+670700,0,'Sry Ctrl Sta',6707
+670801,0,'Newton Exch',6708
+670800,0,'Sry Ctrl Sta',6708
+670900,0,'Guildford',6709
+670901,0,'Sry Ctrl Sta',6709
+671001,0,'Scottsdale',6710
+671000,0,'Sry Ctrl Sta',6710
+671200,0,'Newton Exch',6712
+671201,0,'Sry Ctrl Sta',6712
+671301,0,'22nd St Sta',6713
+671300,0,'Scottsdale',6713
+671400,0,'King George Sta',6714
+671401,0,'White Rock Ctr',6714
+671500,0,'Bridgeport Sta',6715
+671501,0,'Cr Beach',6715
+671600,0,'Bridgeport Sta',6716
+671601,0,'Ocean Pk',6716
+671700,0,'Bridgeport Sta',6717
+671701,0,'White Rock South',6717
+671800,0,'Scott Rd Sta',6718
+671801,0,'Scottsdale',6718
+671901,0,'Newton Exch',6719
+671900,0,'Sry Ctrl Sta',6719
+672000,0,'King George Sta',6720
+672001,0,'White Rock Ctr',6720
+672101,0,'King George Sta',6721
+672100,0,'Langley Ctr',6721
+672200,0,'Brighouse Sta',6722
+672201,0,'One Rd',6722
+672300,0,'Brighouse Sta',6723
+672301,0,'Two Rd',6723
+672400,0,'Bridgeport Sta',6724
+672401,0,'Three Rd',6724
+672501,0,'Brighouse Sta',6725
+672500,0,'Four Rd',6725
+672600,0,'Cambie',6726
+672601,0,'Five Rd',6726
+672700,0,'Bridgeport',6727
+672701,0,'Gilbert',6727
+672800,0,'22nd St Sta',6728
+672801,0,'Brighouse Sta',6728
+673001,0,'Brighouse Sta',6730
+673000,0,'Metrotown Sta',6730
+673100,0,'Bridgeport Sta',6731
+673101,0,'UBC',6731
+673701,0,'Langley Ctr',6737
+673700,0,'Sry Ctrl Sta',6737
+673800,0,'Langley Ctr',6738
+673801,0,'Sry Ctrl Sta',6738
+673901,0,'Sry Ctrl Sta',6739
+673900,0,'Walnut Grv',6739
+674100,0,'Bridgeport Sta',6741
+674101,0,'South Delta',6741
+674200,0,'Bridgeport Sta',6742
+674201,0,'Tsaww Hts',6742
+674301,0,'Beach Grv',6743
+674300,0,'Bridgeport Sta',6743
+674400,0,'Bridgeport Sta',6744
+674401,0,'English Bluff',6744
+674700,0,'Bridgeport Sta',6747
+674701,0,'Tsaww Ferry',6747
+674801,0,'Ladner Exch',6748
+674800,0,'Scott Rd Sta',6748
+674901,0,'Coq Ctrl Sta',6749
+674900,0,'Mission City Sta',6749
+677600,0,'Hastings @ Gilmore',6776
+677601,0,'Kootenay Loop',6776
+677701,0,'Bluewater',6777
+677700,0,'Snug Cv',6777
+677800,0,'Eaglecliff',6778
+677801,0,'Snug Cv',6778
+677901,0,'Caulfeild',6779
+677900,0,'Lions Bay- Brunswick',6779
+678000,0,'Indian River',6780
+678001,0,'Phibbs Exch',6780
+679001,0,'Quayside',6790
+679000,0,'Victoria Hl',6790
+679601,0,'New West Sta',6796
+679600,0,'Uptown',6796
+679900,0,'Haney Pl',6799
+679901,0,'Meadowtown',6799
+680000,0,'Haney Pl',6800
+680001,0,'Meadowtown',6800
+680401,0,'Haney Pl',6804
+680400,0,'Thornhill',6804
+680501,0,'Haney Pl',6805
+680500,0,'Ruskin',6805
+680600,0,'Edmonds Sta',6806
+680601,0,'Royal Oak Sta',6806
+681100,0,'Metrotown Sta',6811
+681101,0,'Suncrest',6811
+681401,0,'Langley Ctr',6814
+681400,0,'Walnut Grv',6814
+681501,0,'Fernridge',6815
+681500,0,'Langley Ctr',6815
+681601,0,'Langley Ctr',6816
+681600,0,'Willowbrook',6816
+681700,0,'Edmonds Sta',6817
+681701,0,'Metrotown Sta',6817
+681801,0,'Scott Rd Sta',6818
+681800,0,'Sry Ctrl Sta',6818
+681900,0,'Guildford',6819
+681901,0,'Sry Ctrl Sta',6819
+682100,0,'Newton Exch',6821
+682101,0,'Scottsdale',6821
+682201,0,'Ladner Exch',6822
+682200,0,'Scottsdale',6822
+682300,0,'Ladner Exch',6823
+682301,0,'Ladner South',6823
+682400,0,'East Ladner',6824
+682401,0,'Ladner Exch',6824
+682501,0,'Ladner Exch',6825
+682500,0,'Ladner North',6825
+682700,0,'Bridgeport Sta',6827
+682701,0,'Sea Isl South',6827
+682800,0,'Riverport',6828
+682801,0,'Steveston',6828
+682901,0,'Brighouse Sta',6829
+682900,0,'East Cambie',6829
+683001,0,'Brighouse Sta',6830
+683000,0,'Downtown',6830
+683101,0,'Cambie',6831
+683100,0,'Downtown',6831
+683300,0,'Downtown',6833
+683301,0,'UBC',6833
+683401,0,'Downtown',6834
+683400,0,'Sry Ctrl Sta',6834
+683500,0,'Downtown',6835
+683501,0,'Victoria',6835
+683600,0,'Downtown',6836
+683601,0,'Macdonald',6836
+683701,0,'Downtown',6837
+683700,0,'Lynn Vly',6837
+683801,0,'Downtown',6838
+683800,0,'SFU',6838
+684001,0,'Downtown',6840
+684000,0,'Fraser',6840
+684100,0,'Coq Ctrl Sta',6841
+684101,0,'Downtown',6841
+684301,0,'English Bluff',6843
+684300,0,'South Delta Exch',6843
+684401,0,'Boundary Bay',6844
+684400,0,'South Delta Exch',6844
+722401,0,'Braid Sta',7224
+722400,0,'Haney Pl',7224
+732100,0,'Guildford',7321
+732101,0,'White Rock S',7321
+732200,0,'Capitol Hl',7322
+732201,0,'Hastings @ Gilmore',7322
+828601,0,'Cloverdale',8286
+828600,0,'Willowbrook',8286
+829000,0,'Guildford',8290
+829001,0,'Newton Exch',8290
+974500,0,'22nd St Sta',9745
+974501,0,'Kingswood',9745
+1023201,0,'Pk Royal',10232
+1023200,0,'Whitby Ests',10232
+1120100,0,'29th Ave Sta',11201
+1120101,0,'UBC',11201
+1169200,0,'Langley Ctr',11692
+1169201,0,'Scottsdale',11692
+1169301,0,'22nd St Sta',11693
+1169300,0,'Carvolth Exch',11693
+1169500,0,'B C I T',11695
+1169501,0,'Patterson Sta',11695
+1169600,0,'South Delta Exch',11696
+1169601,0,'Tsawwassen 1st Nation',11696
+1294001,0,'Langley Ctr',12940
+1294000,0,'Maple Mdws Sta',12940
+1368400,0,'Brighouse Sta',13684
+1368401,0,'Richmond Oval',13684
+1671700,0,'Upper Lynn Vly',16717
+1671701,0,'Vancouver',16717
+1671800,0,'Hastings',16718
+1671801,0,'UBC',16718
+1671900,0,'Lougheed Sta',16719
+1671901,0,'New West Sta',16719
+1770700,0,'Fraser Hts',17707
+1770701,0,'Sry Ctrl Sta',17707
+1821301,0,'Harbourside',18213
+1821300,0,'Lonsdale Quay',18213
+1870501,0,'White Rock Ctr',18705
+1870500,0,'Willowbrook',18705
+2214300,0,'Guildford',22143
+2214301,0,'Newton Exch',22143
+2263801,0,'Coq Ctrl Sta',22638
+2263800,0,'Pt Coq Sta',22638
+2338400,0,'Aldergrove',23384
+2338401,0,'Sry Ctrl Sta',23384
+2903800,0,'Langley Ctr',29038
+2903801,0,'Newton Exch',29038
+2903901,0,'Special',29039
+2904001,0,'Special',29040
+3003601,0,'Pt Coq South',30036
+3003600,0,'Pt Coq Sta',30036
+3003701,0,'Coq Ctrl Sta',30037
+3003700,0,'Fremont',30037
+3003801,0,'Coq Ctrl Sta',30038
+3003800,0,'Riverside',30038
+3003900,0,'Cedar',30039
+3003901,0,'Coq Ctrl Sta',30039
+3004001,0,'Coq Ctrl Sta',30040
+3004000,0,'Rocklin',30040
+3004101,0,'Coq Ctrl Sta',30041
+3004100,0,'Meridian',30041
+3004301,0,'Lougheed Sta',30043
+3004300,0,'Moody Ctr Sta',30043
+3004400,0,'Belcarra',30044
+3004401,0,'Moody Ctr Sta',30044
+3004500,0,'Belcarra',30045
+3004501,0,'Moody Ctr Sta',30045
+3004600,0,'Coq Ctrl Sta',30046
+3004601,0,'Moody Ctr Sta',30046
+3004701,0,'Moody Ctr Sta',30047
+3004700,0,'Noons Crk',30047
+3004801,0,'Coq Ctrl Sta',30048
+3004800,0,'Lansdowne',30048
+3004901,0,'Coq Ctrl Sta',30049
+3004900,0,'Hampton Pk',30049
+3005001,0,'Coq Ctrl Sta',30050
+3005000,0,'Pkwy',30050
+3005101,0,'Coq Ctrl Sta',30051
+3005100,0,'Lafarge',30051
+3005501,0,'Beach',30055
+3005500,0,'Main St Sta',30055
+3058401,0,'Coq Ctrl Sta',30584
+3058400,0,'Princeton',30584
+3181601,0,'Ocean Pk',31816
+3181600,0,'Peace Arch Hosp',31816
+3181701,0,'Ocean Pk',31817
+3181700,0,'White Rock Ctr',31817
+3181801,0,'Seaside',31818
+3181800,0,'White Rock Ctr',31818
+3181901,0,'Peace Arch Hosp',31819
+3181900,0,'Southpoint',31819
+3182001,0,'Clayton Hts',31820
+3182000,0,'Langley Ctr',31820
+3182101,0,'Pt Haney Sta',31821
+3182100,0,'Rock Rdg',31821
+3182200,0,'Anderson Crk',31822
+3182201,0,'Pt Haney Sta',31822
+3279900,0,'Edmonds Sta',32799
+3279901,0,'Metrotown Sta',32799
+3329200,0,'Edmonds Sta',33292
+3329201,0,'Holdom Sta',33292
+3353801,0,'Lower Mall',33538
+3353800,0,'UBC Exch',33538
+3353900,0,'UBC Exch',33539
+3353901,0,'Wesbrook Mall',33539
+3404200,0,'Cottonwood',34042
+3404201,0,'Haney Pl',34042
+3404300,0,'Albion',34043
+3404301,0,'Haney Pl',34043
+3404401,0,'Langley Ctr',34044
+3404400,0,'Murrayville',34044
+3404500,0,'Brookswood',34045
+3404501,0,'Langley Ctr',34045
+3454001,0,'Fraser Way',34540
+3454000,0,'Meadowtown',34540
+3454101,0,'Bonson',34541
+3454100,0,'Meadowtown',34541
+3454200,0,'Brighouse Sta',34542
+3454201,0,'Steveston',34542
+3454301,0,'Brighouse Sta',34543
+3454300,0,'Riverport',34543
+3454400,0,'Mt Gardner',34544
+3454401,0,'Snug Gove',34544
+3679900,0,'Delbrook',36799
+3679901,0,'Lonsdale Quay',36799
