@@ -42,8 +42,6 @@
 663201,0,'Dunbar',6632
 663300,0,'Joyce Sta',6633
 663301,0,'UBC',6633
-663400,0,'Joyce Sta',6634
-663401,0,'UBC',6634
 663500,0,'Downtown',6635
 663501,0,'UBC',6635
 663600,0,'Metrotown Sta',6636
@@ -76,8 +74,6 @@
 665100,0,'Phibbs Exch',6651
 665201,0,'Brentwood Sta',6652
 665200,0,'Lk City Sta',6652
-665301,0,'Burrard Sta',6653
-665300,0,'SFU',6653
 665401,0,'Brentwood Sta',6654
 665400,0,'Lougheed Sta',6654
 665600,0,'Burquitlam Sta',6656
@@ -240,8 +236,6 @@
 674800,0,'Scott Rd Sta',6748
 674901,0,'Coq Ctrl Sta',6749
 674900,0,'Mission City Sta',6749
-675101,0,'Langley Ctr',6751
-675100,0,'Walnut Grv',6751
 675301,0,'Special',6753
 675401,1,'E',6754
 675402,1,'W',6754
@@ -341,8 +335,6 @@
 828901,0,'Special',8289
 829000,0,'Guildford',8290
 829001,0,'Newton Exch',8290
-829101,1,'E',8291
-829102,1,'W',8291
 974500,0,'22nd St Sta',9745
 974501,0,'Kingswood',9745
 1023201,0,'Pk Royal',10232
@@ -358,7 +350,7 @@
 1169600,0,'South Delta Exch',11696
 1169601,0,'Tsawwassen 1st Nation',11696
 1294001,0,'Langley Ctr',12940
-1294000,0,'Maple Mdws Sta',12940
+1294000,0,'Rdg Mdws',12940
 1368400,0,'Brighouse Sta',13684
 1368401,0,'Richmond Oval',13684
 1671700,0,'Upper Lynn Vly',16717
@@ -375,8 +367,6 @@
 1870500,0,'Willowbrook',18705
 2066700,0,'Carvolth Exch',20667
 2066701,0,'Lougheed Sta',20667
-2214300,0,'Guildford',22143
-2214301,0,'Newton Exch',22143
 2263801,0,'Coq Ctrl Sta',22638
 2263800,0,'Pt Coq Sta',22638
 2263900,0,'Lynn Vly Ctr',22639
@@ -439,10 +429,8 @@
 3279901,0,'Metrotown Sta',32799
 3329200,0,'Edmonds Sta',33292
 3329201,0,'Holdom Sta',33292
-3353801,0,'Lower Mall',33538
 3353800,0,'UBC Exch',33538
-3353900,0,'UBC Exch',33539
-3353901,0,'Wesbrook Mall',33539
+3353801,0,'Wesbrook Vlg',33538
 3404200,0,'Cottonwood',34042
 3404201,0,'Haney Pl',34042
 3404300,0,'Albion',34043
@@ -463,3 +451,11 @@
 3454401,0,'Snug Gove',34544
 3679900,0,'Delbrook',36799
 3679901,0,'Lonsdale Quay',36799
+3780701,0,'Burrard Sta',37807
+3780700,0,'SFU',37807
+3780800,0,'Guildford Exch',37808
+3780801,0,'Newton Exch',37808
+3780901,0,'Coq Ctrl',37809
+3780900,0,'Haney Pl',37809
+3781000,0,'Joyce Sta',37810
+3781001,0,'UBC',37810
