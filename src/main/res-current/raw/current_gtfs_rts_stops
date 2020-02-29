@@ -6785,8 +6785,6 @@
 9326,'58856','WB Panorama Dr @ Greenstone Court',49.299,-122.818864
 9327,'58866','WB Panorama Dr @ Eagle Mtn Dr',49.300229,-122.820359
 9328,'58853','EB Panorama Dr @ Stoneridge Ln',49.301023,-122.822467
-9329,'58855','EB Panorama Dr @ Eagle Mtn Dr',49.299631,-122.819822
-9330,'58857','EB Panorama Dr @ Greenstone Court',49.298537,-122.818478
 9336,'58888','WB David Ave @ 1300 Block',49.297443,-122.840415
 9337,'58889','EB David Ave @ 1300 Block',49.297032,-122.839788
 9338,'58756','NB Aspenwood Dr @ Forest Pk Way',49.298541,-122.833696
@@ -8695,7 +8693,7 @@
 12634,'60389','NB 202A St @ 76 Ave',49.140984,-122.661347
 12635,'61304','EB Lougheed Hwy @ Harris Rd',49.230552,-122.688442
 12636,'60372','EB Lougheed Hwy @ 203 St',49.218858,-122.655981
-12637,'60370','EB Lougheed Hwy @ Laity St',49.216989,-122.630541
+12637,'60370','EB Lougheed Hwy @ Laity St',49.216989,-122.630123
 12638,'60371','WB Lougheed Hwy @ Laity St',49.217259,-122.633119
 12639,'60373','WB Lougheed Hwy @ 203 St',49.219587,-122.658729
 12640,'59823','WB Lougheed Hwy @ Harris Rd',49.23164,-122.690471
@@ -8734,3 +8732,5 @@
 12679,'60433','WB Kingsway @ Gladstone',49.24353,-123.061464
 12680,'60445','WB W Georgia St @ Thurlow St',49.28612,-123.123546
 12681,'53312','NB Burrard St @ W Pender St',49.28616,-123.118293
+12689,'60462','EB Panorama Dr @ Sandstone Cres',49.299145,-122.819247
+12692,'59261','EB Marine Dr @ Fell Ave',49.321749,-123.09659
