@@ -3414,7 +3414,7 @@
 4488,'54438','WB Marine Dr @ Bowser Ave',49.324013,-123.116614
 4489,'54439','WB Marine Dr @ McGuire Ave',49.324043,-123.120746
 4491,'54441','WB Marine Dr @ Pk Royal North',49.327118,-123.138911
-4494,'54444','WB W Georgia St @ Homer St',49.281193,-123.115918
+4494,'54444','WB W Georgia St @ Richards St',49.281193,-123.115918
 4495,'58504','WB W Georgia St @ Granville St',49.28232,-123.117661
 4497,'54447','WB W Georgia St @ Bute St',49.287432,-123.125567
 4500,'54450','EB W Keith Rd @ Bewicke Ave',49.319929,-123.090448
@@ -8700,8 +8700,9 @@
 12687,'60406','WB W 3rd St @ Lonsdale Ave',49.313704,-123.077479
 12688,'60437','Phibbs Exch @ Bay 12',49.305381,-123.029105
 12689,'60462','EB Panorama Dr @ Sandstone Cres',49.299145,-122.819247
-12690,'','NB Matheson Cres @ SE Marine Dr',49.208301,-123.030733
+12690,'51839','NB Matheson Cres @ SE Marine Dr',49.208301,-123.030733
 12691,'51793','SB Matheson Cres @ Champlain Cres',49.210359,-123.027535
 12692,'59261','EB Marine Dr @ Fell Ave',49.321749,-123.09659
 12693,'60473','Lonsdale Quay @ Bay 16',49.311537,-123.082514
 12694,'60474','Lonsdale Quay @ Bay 17',49.311385,-123.082636
+12695,'60480','King George Sta @ Bay 5',49.183693,-122.845706

@@ -3415,7 +3415,7 @@
 4488,'54438','WB Marine Dr @ Bowser Ave',49.324013,-123.116614
 4489,'54439','WB Marine Dr @ McGuire Ave',49.324043,-123.120746
 4491,'54441','WB Marine Dr @ Pk Royal North',49.327118,-123.138911
-4494,'54444','WB W Georgia St @ Homer St',49.281193,-123.115918
+4494,'54444','WB W Georgia St @ Richards St',49.281193,-123.115918
 4495,'58504','WB W Georgia St @ Granville St',49.28232,-123.117661
 4497,'54447','WB W Georgia St @ Bute St',49.287432,-123.125567
 4500,'54450','EB W Keith Rd @ Bewicke Ave',49.319929,-123.090448
@@ -8733,3 +8733,4 @@
 12681,'53312','NB Burrard St @ W Pender St',49.28616,-123.118293
 12689,'60462','EB Panorama Dr @ Sandstone Cres',49.299145,-122.819247
 12692,'59261','EB Marine Dr @ Fell Ave',49.321749,-123.09659
+12695,'60480','King George Sta @ Bay 5',49.183693,-122.845706
