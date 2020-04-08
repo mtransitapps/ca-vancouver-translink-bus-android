@@ -34,8 +34,8 @@
 662800,0,'Joyce Sta',6628
 662901,0,'Joyce Sta',6629
 662900,0,'Kootenay Loop',6629
-663000,0,'Capilano U',6630
 663001,0,'Joyce Sta',6630
+663000,0,'Phibbs Exch',6630
 663100,0,'29th Ave Sta',6631
 663101,0,'Elliott',6631
 663200,0,'Downtown',6632
@@ -102,14 +102,14 @@
 666700,0,'Pt Coq Sta',6667
 666801,0,'Braid Sta',6668
 666800,0,'Coq Ctrl Sta',6668
+667201,0,'Burrard Sta',6672
 667200,0,'Upper Lynn Vly',6672
-667201,0,'Vancouver',6672
+667301,0,'Burrard Sta',6673
 667300,0,'Seymour',6673
-667301,0,'Vancouver',6673
 667400,0,'Deep Cv',6674
 667401,0,'Phibbs Exch',6674
 667500,0,'Blueridge',6675
-667501,0,'Vancouver',6675
+667501,0,'Burrard Sta',6675
 667601,0,'Lonsdale Quay',6676
 667600,0,'Lynn Vly',6676
 667701,0,'Lonsdale Quay',6677
@@ -120,18 +120,14 @@
 667900,0,'Phibbs Exch',6679
 668000,0,'Grouse Mtn',6680
 668001,0,'Lonsdale Quay',6680
-668100,0,'Capilano U',6681
-668101,0,'Pk Royal',6681
-668200,0,'15th St',6682
-668201,0,'Vancouver',6682
+668201,0,'Downtown',6682
+668200,0,'Lynn Vly',6682
+668301,0,'Downtown',6683
 668300,0,'Upper Lonsdale',6683
-668301,0,'Vancouver',6683
-668400,0,'Lynn Vly',6684
-668401,0,'Vancouver',6684
 668501,0,'Downtown',6685
 668500,0,'Highland',6685
+668601,0,'Downtown',6686
 668600,0,'Grouse Mtn',6686
-668601,0,'Vancouver',6686
 668701,0,'Horseshoe Bay',6687
 668700,0,'Vancouver',6687
 668800,0,'Pk Royal',6688
@@ -234,16 +230,6 @@
 674800,0,'Scott Rd Sta',6748
 674901,0,'Coq Ctrl Sta',6749
 674900,0,'Mission City Sta',6749
-675301,0,'Special',6753
-675401,1,'E',6754
-675402,1,'W',6754
-675503,1,'N',6755
-675504,1,'S',6755
-675700,0,'Special',6757
-676101,1,'E',6761
-676102,1,'W',6761
-676201,1,'E',6762
-676202,1,'W',6762
 677600,0,'Hastings @ Gilmore',6776
 677601,0,'Kootenay Loop',6776
 677701,0,'Bluewater',6777
@@ -330,7 +316,6 @@
 732201,0,'Hastings @ Gilmore',7322
 828601,0,'Cloverdale',8286
 828600,0,'Willowbrook',8286
-828901,0,'Special',8289
 829000,0,'Guildford',8290
 829001,0,'Newton Exch',8290
 974500,0,'22nd St Sta',9745
@@ -343,16 +328,14 @@
 1169201,0,'Scottsdale',11692
 1169301,0,'22nd St Sta',11693
 1169300,0,'Carvolth Exch',11693
-1169500,0,'B C I T',11695
-1169501,0,'Patterson Sta',11695
 1169600,0,'South Delta Exch',11696
 1169601,0,'Tsawwassen 1st Nation',11696
 1294001,0,'Langley Ctr',12940
 1294000,0,'Rdg Mdws',12940
 1368400,0,'Brighouse Sta',13684
 1368401,0,'Richmond Oval',13684
+1671701,0,'Burrard Sta',16717
 1671700,0,'Upper Lynn Vly',16717
-1671701,0,'Vancouver',16717
 1671800,0,'Hastings',16718
 1671801,0,'UBC',16718
 1671900,0,'Lougheed Sta',16719
@@ -373,7 +356,6 @@
 2338401,0,'Sry Ctrl Sta',23384
 2903800,0,'Langley Ctr',29038
 2903801,0,'Newton Exch',29038
-2903901,0,'Special',29039
 2904001,0,'Special',29040
 3003601,0,'Pt Coq South',30036
 3003600,0,'Pt Coq Sta',30036
@@ -457,3 +439,11 @@
 3780900,0,'Haney Pl',37809
 3781000,0,'Joyce Sta',37810
 3781001,0,'UBC',37810
+3831100,0,'Phibbs Exch',38311
+3831101,0,'Pk Royal',38311
+3930400,0,'Metrotown Sta',39304
+3930401,0,'River District',39304
+3930501,0,'Metrotown Sta',39305
+3930500,0,'Phibbs Exch',39305
+3930700,0,'Capilano U',39307
+3930701,0,'Phibbs Exch',39307
