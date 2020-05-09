@@ -216,12 +216,6 @@
 674800,0,'Scott Rd Sta',6748
 674901,0,'Coq Ctrl Sta',6749
 674900,0,'Mission City Sta',6749
-677701,0,'Bluewater',6777
-677700,0,'Snug Cv',6777
-677800,0,'Eaglecliff',6778
-677801,0,'Snug Cv',6778
-677901,0,'Caulfeild',6779
-677900,0,'Lions Bay- Brunswick',6779
 678000,0,'Indian River',6780
 678001,0,'Phibbs Exch',6780
 679001,0,'Quayside',6790
@@ -322,7 +316,6 @@
 2338401,0,'Sry Ctrl Sta',23384
 2903800,0,'Langley Ctr',29038
 2903801,0,'Newton Exch',29038
-2904001,0,'Special',29040
 3003601,0,'Pt Coq South',30036
 3003600,0,'Pt Coq Sta',30036
 3003701,0,'Coq Ctrl Sta',30037
@@ -391,8 +384,6 @@
 3454201,0,'Steveston',34542
 3454301,0,'Brighouse Sta',34543
 3454300,0,'Riverport',34543
-3454400,0,'Mt Gardner',34544
-3454401,0,'Snug Gove',34544
 3679900,0,'Delbrook',36799
 3679901,0,'Lonsdale Quay',36799
 3780701,0,'Burrard Sta',37807
