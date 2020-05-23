@@ -308,6 +308,8 @@
 732101,0,'White Rock S',7321
 732200,0,'Capitol Hl',7322
 732201,0,'Hastings @ Gilmore',7322
+750901,0,'Coq Ctrl Sta',7509
+750900,0,'White Pine Beach',7509
 828601,0,'Cloverdale',8286
 828600,0,'Willowbrook',8286
 829000,0,'Guildford',8290
@@ -364,6 +366,8 @@
 3004000,0,'Rocklin',30040
 3004101,0,'Coq Ctrl Sta',30041
 3004100,0,'Meridian',30041
+3004200,0,'Buntzen Lk',30042
+3004201,0,'Coq Ctrl Sta',30042
 3004301,0,'Lougheed Sta',30043
 3004300,0,'Moody Ctr Sta',30043
 3004400,0,'Belcarra',30044
