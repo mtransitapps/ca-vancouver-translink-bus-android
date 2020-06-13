@@ -38,8 +38,6 @@
 663000,0,'Phibbs Exch',6630
 663100,0,'29th Ave Sta',6631
 663101,0,'Elliott',6631
-663200,0,'Downtown',6632
-663201,0,'Dunbar',6632
 663300,0,'Joyce Sta',6633
 663301,0,'UBC',6633
 663500,0,'Downtown',6635
@@ -76,8 +74,6 @@
 665200,0,'Lk City Sta',6652
 665401,0,'Brentwood Sta',6654
 665400,0,'Lougheed Sta',6654
-665600,0,'Burquitlam Sta',6656
-665601,0,'SFU',6656
 665701,0,'Metrotown Sta',6657
 665700,0,'SFU',6657
 665801,0,'Production Sta',6658
@@ -204,8 +200,6 @@
 672801,0,'Brighouse Sta',6728
 673001,0,'Brighouse Sta',6730
 673000,0,'Metrotown Sta',6730
-673100,0,'Bridgeport Sta',6731
-673101,0,'UBC',6731
 673701,0,'Langley Ctr',6737
 673700,0,'Sry Ctrl Sta',6737
 673800,0,'Langley Ctr',6738
@@ -314,6 +308,8 @@
 732101,0,'White Rock S',7321
 732200,0,'Capitol Hl',7322
 732201,0,'Hastings @ Gilmore',7322
+750901,0,'Coq Ctrl Sta',7509
+750900,0,'White Pine Beach',7509
 828601,0,'Cloverdale',8286
 828600,0,'Willowbrook',8286
 829000,0,'Guildford',8290
@@ -370,6 +366,8 @@
 3004000,0,'Rocklin',30040
 3004101,0,'Coq Ctrl Sta',30041
 3004100,0,'Meridian',30041
+3004200,0,'Buntzen Lk',30042
+3004201,0,'Coq Ctrl Sta',30042
 3004301,0,'Lougheed Sta',30043
 3004300,0,'Moody Ctr Sta',30043
 3004400,0,'Belcarra',30044
