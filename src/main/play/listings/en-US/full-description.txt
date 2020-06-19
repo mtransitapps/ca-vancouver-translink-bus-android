@@ -1,8 +1,8 @@
-This app adds Vancouver buses information to MonTransit.
+This app adds Vancouver TransLink buses information to MonTransit.
 
 This app provides the buses schedule (offline and real-time) and news from www.translink.ca, YouTube and @TransLink and @TransLinkMedia on Twitter.
 
-Vancouver buses serves the Metro Vancouver region in British Columbia, Canada.
+TransLink buses serves the Metro Vancouver region in British Columbia, Canada.
 
 Once this application is installed, the MonTransit app will display buses information (schedule...).
 

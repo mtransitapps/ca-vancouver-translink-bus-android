@@ -1,2 +1,2 @@
-Vancouver buses for MonTransit.
+Vancouver TransLink buses for MonTransit.
 Schedule. Real-Time. Alerts. News.
