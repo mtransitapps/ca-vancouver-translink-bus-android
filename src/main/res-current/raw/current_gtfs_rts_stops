@@ -120,6 +120,7 @@
 186,'50186','WB W Hastings St @ Carrall St',49.281733,-123.105366
 188,'50188','WB W Hastings St @ Hamilton St',49.283085,-123.110279
 189,'50189','SB Richards St @ W Hastings St',49.283796,-123.11242
+190,'50190','SB Richards St @ Dunsmuir St',49.282177,-123.114877
 193,'59040','WB Robson St @ Granville St',49.28128,-123.119551
 195,'50195','WB W 41 Ave @ Oak St',49.234081,-123.128633
 196,'50196','WB W 41 Ave @ Selkirk St',49.234201,-123.132951
@@ -223,10 +224,11 @@
 325,'50322','EB W Broadway @ Vine St',49.263809,-123.157195
 326,'50323','EB W Broadway @ Arbutus St',49.263733,-123.153286
 328,'50325','EB W Broadway @ Burrard St',49.263611,-123.145163
-329,'50871','EB W Broadway @ Fir St',49.263517,-123.140408
+329,'50871','EB W Broadway @ Fir St',49.263525,-123.140516
 331,'50327','EB W Broadway @ Hemlock St',49.26347,-123.13554
 332,'50328','EB W Broadway @ Alder St',49.263381,-123.130979
 333,'59440','EB W Broadway @ Oak St',49.263284,-123.125866
+335,'50331','SB Oak St @ W 12 Ave',49.260251,-123.126842
 336,'50332','SB Oak St @ W 14 Ave',49.258518,-123.126896
 337,'50333','SB Oak St @ W 16 Ave',49.256751,-123.127351
 339,'50335','SB Oak St @ Douglas Cres',49.254123,-123.127471
@@ -730,7 +732,6 @@
 982,'50973','EB W Georgia St @ Broughton St',49.288694,-123.127919
 983,'50974','EB W Georgia St @ Bute St',49.286717,-123.124885
 984,'50975','EB W Georgia St @ Burrard St',49.284132,-123.120872
-985,'50976','EB W Georgia St @ Granville St',49.28264,-123.118529
 989,'50980','Lonsdale Quay @ Bay 5',49.311218,-123.082407
 992,'50983','SB Cambie St @ W 45 Ave',49.229514,-123.116588
 994,'50985','Langara-49th Sta @ Bay 4',49.225846,-123.116731
@@ -833,6 +834,7 @@
 1116,'51107','SB West Blvd @ W 41 Ave',49.234303,-123.155677
 1117,'51108','SB West Blvd @ W 43 Ave',49.232443,-123.155746
 1118,'51109','SB West Blvd @ W 45 Ave',49.230611,-123.155813
+1119,'51110','SB W Blvd @ W 47 Ave',49.228691,-123.155874
 1120,'51111','SB Arbutus St @ W 49 Ave',49.226773,-123.155273
 1121,'51112','EB W 51 Ave @ Arbutus St',49.224918,-123.154675
 1122,'51113','SB West Blvd @ W 53 Ave',49.222481,-123.1524
@@ -1152,6 +1154,7 @@
 1484,'51472','WB W Pender St @ Bute St',49.288565,-123.123694
 1487,'51475','WB W Georgia St @ Denman St',49.292951,-123.134018
 1488,'51476','WB W Georgia St @ Gilford St',49.294006,-123.13563
+1491,'51479','SB Wesbrook Mall @ Agronomy Rd',49.264,-123.243748
 1493,'51483','SB Wesbrook Mall @ Hampton Pl',49.257295,-123.237949
 1497,'51485','EB W 16 Ave @ Pacific Spirit Pk',49.258318,-123.221642
 1498,'51486','EB W 16 Ave @ Blanca St',49.258259,-123.214903
@@ -2370,6 +2373,7 @@
 3128,'53095','WB Dover St @ Royal Oak Ave',49.229977,-122.989632
 3129,'53096','SFU Transit Exch @ Bay 2',49.278484,-122.91279
 3133,'53100','SB E Columbia St @ Braid St',49.231132,-122.89282
+3134,'53101','SB E Columbia St @ Sherbrooke St',49.227569,-122.892923
 3135,'53102','WB E Columbia St @ McBride Blvd',49.212727,-122.89612
 3139,'53106','NB E Columbia St @ Sherbrooke St',49.228133,-122.892716
 3140,'53107','NB E Columbia St @ Braid St',49.231905,-122.892608
@@ -2452,7 +2456,6 @@
 3249,'53215','SB North Rd @ Rochester St',49.244275,-122.892772
 3250,'53216','SB North Rd @ Delestre Ave',49.242795,-122.892775
 3251,'53217','SB E Columbia St @ Holmes St',49.235386,-122.892694
-3252,'53218','SB E Columbia St @ Keary St',49.225301,-122.892976
 3253,'53219','SB E Columbia St @ Alberta St',49.223325,-122.893032
 3255,'53221','SB E Columbia St @ Richmond St',49.216185,-122.894078
 3261,'53227','WB Ungless Way @ Guildford Way',49.283995,-122.824236
@@ -2721,6 +2724,8 @@
 3632,'53593','EB E 6th Ave @ Glenbrook Dr',49.220926,-122.905741
 3633,'53594','NB Richmond St @ Cumberland St',49.220933,-122.898687
 3634,'53595','NB Richmond St @ Alberta St',49.224029,-122.898616
+3635,'53596','EB Hosp St @ Richmond St',49.226461,-122.898006
+3636,'53597','EB Hosp St @ E Columbia St',49.226413,-122.893957
 3637,'53598','NB Lebleu St @ Brunette Ave',49.238202,-122.867437
 3638,'53599','EB Alderson Ave @ Lebleu St',49.239664,-122.866325
 3639,'53600','EB Alderson Ave @ Nelson St',49.239688,-122.86469
@@ -2733,6 +2738,8 @@
 3647,'53608','WB Rochester Ave @ Laval St',49.24504,-122.857932
 3649,'53610','SB Marmont St @ Delestre Ave',49.241402,-122.862327
 3651,'53612','WB Alderson Ave @ Nelson St',49.239769,-122.865624
+3652,'53613','WB Hosp St @ E Columbia St',49.226514,-122.893384
+3653,'53614','WB Hosp St @ Blair Ave',49.226559,-122.897813
 3654,'53615','SB Richmond St @ Shiles St',49.225339,-122.898715
 3655,'53616','SB Richmond St @ Alberta St',49.22304,-122.898799
 3656,'53617','WB Cumberland St @ Glenbrook Dr',49.220614,-122.899969
@@ -3065,7 +3072,7 @@
 4105,'54064','WB Mt Seymour Pkwy @ 3900 Block',49.315965,-122.961557
 4106,'54065','WB Mt Seymour Pkwy @ 3800 Block',49.315988,-122.964656
 4107,'54066','WB Mt Seymour Pkwy @ Mt Seymour Rd',49.316049,-122.969788
-4108,'54067','WB Mt Seymour Pkwy @ Parkgate Ave',49.31586,-122.975041
+4108,'54067','WB Mt Seymour Pkwy @ Parkgate Ave',49.315833,-122.976011
 4109,'54068','WB Mt Seymour Pkwy @ Apex Ave',49.315715,-122.980948
 4110,'54069','WB Mt Seymour Pkwy @ Strathaven Dr',49.315765,-122.984288
 4111,'54070','WB Mt Seymour Pkwy @ Northlands Dr',49.315855,-122.989475
@@ -3289,7 +3296,7 @@
 4370,'54322','EB E Keith Rd @ Moody Ave',49.313474,-123.059739
 4371,'59226','EB E Keith Rd @ Grand Blvd East',49.313425,-123.056138
 4372,'54324','EB E Keith Rd @ Sutherland Ave',49.313392,-123.053995
-4373,'54325','EB E Keith Rd @ Hendry Ave',49.313365,-123.05138
+4373,'54325','EB E Keith Rd @ Hendry Ave',49.313372,-123.051554
 4374,'54326','EB E Keith Rd @ Adderley St',49.313317,-123.048554
 4375,'54327','EB E Keith Rd @ Cloverley St',49.313273,-123.04582
 4381,'54333','Phibbs Exch @ Bay 11',49.30514,-123.028313
@@ -4110,7 +4117,6 @@
 5377,'55324','WB Fraser Hwy @ Production Way',49.11001,-122.670995
 5378,'55325','WB Fraser Hwy @ Langley Bypass',49.111568,-122.674447
 5379,'55326','NB Willowbrook Dr @ 19600 Block',49.11512,-122.678529
-5380,'55327','NB 197 St @ Willowbrook Dr',49.117257,-122.67695
 5381,'55328','WB 64 Ave @ 197 St',49.119129,-122.677839
 5382,'55329','WB 64 Ave @ 194 St',49.119214,-122.686002
 5385,'55332','WB 60 Ave @ 192 St',49.11139,-122.692137
@@ -5016,7 +5022,6 @@
 6512,'56451','EB Cook Rd @ No. 3 Rd',49.166453,-123.135795
 6519,'56458','EB Alderbridge Way @ Kwantlen St',49.177223,-123.128124
 6523,'56462','EB Bridgeport Rd @ Sexsmith Rd',49.191911,-123.12663
-6525,'56464','EB Bridgeport Rd @ Gage Rd',49.19194,-123.119918
 6526,'56465','EB Bridgeport Rd @ No. 4 Rd',49.191877,-123.114305
 6531,'56470','SB Gdn City Rd @ Capstan Way',49.188049,-123.125007
 6532,'56471','SB Gdn City Rd @ Cambie Rd',49.183992,-123.124786
@@ -5086,7 +5091,6 @@
 6603,'56542','NB No. 3 Rd @ Blundell Rd',49.156131,-123.136484
 6604,'56543','NB No. 3 Rd @ General Currie Rd',49.159604,-123.136477
 6605,'56544','NB No. 3 Rd @ Bennett Rd',49.161739,-123.136437
-6607,'56546','Richmond-Brighouse Sta @ Bay 1',49.167053,-123.1364
 6608,'56547','EB Granville Ave @ No. 3 Rd',49.162607,-123.136003
 6610,'56549','Richmond-Brighouse Sta @ Bay 7',49.16571,-123.136714
 6615,'56554','EB Cambie Rd @ Brown Rd',49.184616,-123.130404
@@ -6799,7 +6803,7 @@
 9483,'58978','WB Bedwell Bay Rd @ Midden Rd',49.313511,-122.922967
 9486,'58728','Stanley Pk Loop @ Bay 2',49.300672,-123.13403
 9487,'58722','EB W Georgia St @ Gilford St',49.293655,-123.135601
-9492,'58961','Mall Access Rd @ Willowbrook Mall',49.115168,-122.677038
+9492,'58961','Mall Access Rd @ Willowbrook Mall',49.115568,-122.674599
 9494,'58959','EB Mall Access Rd @ Shaughnessy St',49.265229,-122.775585
 9500,'58990','WB Ioco Rd @ Alderside Rd',49.292872,-122.853379
 9502,'50090','WB W 41 Ave @ 900 Block',49.233984,-123.126031
@@ -7072,7 +7076,6 @@
 10204,'51876','WB Hastings St @ Springer Ave',49.280441,-122.988354
 10205,'51875','WB Hastings St @ Howard Ave',49.28043,-122.984501
 10208,'59044','SB Tower Rd @ University High St',49.277133,-122.909375
-10209,'59704','EB Bridgeport Rd @ Great Canadian Way',49.191931,-123.123173
 10212,'59698','SB 240 St @ Kanaka Way',49.205433,-122.556703
 10213,'59720','WB Holly Pk Dr @ 62 St',49.087941,-123.050768
 10221,'59721','WB North Fraser Way @ Glenlyon Pkwy West',49.200252,-123.010666
@@ -7814,7 +7817,6 @@
 11458,'61482','SB 54 St @ 2nd Ave',49.006584,-123.074177
 11470,'56450','SB No. 3 Rd @ Westminster Hwy',49.169765,-123.136665
 11471,'56454','Lansdowne Sta @ Bay 2',49.173763,-123.135822
-11474,'50533','SB Granville St @ Nelson St',49.278877,-123.123712
 11475,'50536','SB Granville St @ Drake St',49.275854,-123.128375
 11477,'50611','EB Robson St @ Bidwell St',49.29023,-123.133644
 11480,'50614','EB Robson St @ Bute St',49.285774,-123.126771
@@ -8392,7 +8394,6 @@
 12348,'60116','EB Davie St @ Granville St',49.276918,-123.125976
 12349,'60115','WB E Keith Rd @ Sutherland Ave',49.31355,-123.055162
 12350,'60110','WB W Queens Rd @ Del Rio Dr',49.336652,-123.093379
-12351,'61918','SB Richards St @ Robson St',49.280299,-123.117674
 12352,'61986','WB North Fraser Way @ Byrne Rd',49.195504,-122.995601
 12353,'61987','EB North Fraser Way @ Byrne Rd',49.194396,-122.994459
 12356,'58052','NB Russ Baker Way @ Miller Rd',49.191858,-123.141973
@@ -8518,7 +8519,6 @@
 12521,'61298','SB Brunette Ave @ Hillside Ave',49.233083,-122.841895
 12522,'60247','SB 184 St @ 71 Ave',49.130861,-122.712624
 12523,'50235','SB Main St @ E 3rd Ave',49.267991,-123.100925
-12524,'60270','SB Highland Blvd @ Canfield Cres',49.338483,-123.100348
 12525,'60252','SB 80 St @ 4500 Block',49.085464,-123.001829
 12530,'61784','EB Westminster Hwy @ No. 8 Rd',49.169828,-123.023789
 12531,'60276','SB 15 St @ Ottawa Ave',49.340163,-123.156999
@@ -8590,6 +8590,7 @@
 12647,'60390','Coquitlam Ctrl Sta @ Bay 14',49.275276,-122.799074
 12650,'61956','EB 105 Ave Lincoln Dr @ Lincoln Dr',49.19317,-122.803013
 12651,'60420','NB King George Blvd @ 6700 Block',49.123732,-122.845337
+12652,'60383','SB Wesbrook Mall @ Agronomy Rd',49.26369,-123.243491
 12653,'60384','NB Wesbrook Mall @ Agronomy Rd',49.262728,-123.242289
 12654,'60430','EB Westminster Hwy @ Gilley Rd',49.176733,-122.968634
 12655,'58592','Haney Pl @ Bay 9',49.219122,-122.596382
@@ -8644,10 +8645,11 @@
 12715,'52411','EB Edmonds St @ Linden Ave',49.219331,-122.949758
 12720,'60492','EB W Cordova St @ Carrall St',49.282442,-123.104634
 12721,'60494','EB W Broadway @ Granville St',49.263498,-123.139067
-12722,'50532','SB Granville St @ Smithe St',49.279986,-123.122033
+12722,'50532','SB Granville St @ Nelson St',49.27941,-123.12295
 12723,'60305','WB Blundell Rd @ Zylmans Way',49.155421,-123.050284
 12724,'58339','SB Shaughnessy St @ Patricia Ave',49.276561,-122.773723
 12725,'60496','NB Clark Dr @ E 6th Ave',49.265491,-123.077299
-12726,'60499','WB Keary St @ E Columbia St',49.225608,-122.893302
 12727,'60308','WB Sherbrooke St @ E Columbia St',49.227958,-122.893384
 12730,'60502','NB Denman St @ Comox St',49.288812,-123.139345
+12731,'60503','EB W Georgia St @ Seymour St',49.281514,-123.116813
+12732,'60504','EB Robson St @ Broughton St',49.287679,-123.129709
