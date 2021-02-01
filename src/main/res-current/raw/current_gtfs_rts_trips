@@ -18,8 +18,8 @@
 662000,0,'Waterfront Sta',6620
 662101,0,'Cambie',6621
 662100,0,'Olympic Vlg Sta',6621
-662200,0,'29th Ave Sta',6622
 662201,0,'Arbutus',6622
+662200,0,'Kingsway',6622
 662301,0,'Downtown',6623
 662300,0,'Oak',6623
 662400,0,'Metrotown Sta',6624
@@ -38,8 +38,8 @@
 663000,0,'Phibbs Exch',6630
 663100,0,'29th Ave Sta',6631
 663101,0,'Elliott',6631
+663301,0,'Crown',6633
 663300,0,'Joyce Sta',6633
-663301,0,'UBC',6633
 663600,0,'Metrotown Sta',6636
 663601,0,'UBC',6636
 663701,0,'S False Crk',6637
@@ -132,8 +132,8 @@
 669000,0,'Vancouver',6690
 669100,0,'British Properties',6691
 669101,0,'Vancouver',6691
+669201,0,'25th & Marine',6692
 669200,0,'Capilano U',6692
-669201,0,'Dundarave',6692
 669301,0,'Horseshoe Bay',6693
 669300,0,'Vancouver',6693
 669801,0,'Brighouse Sta',6698
@@ -151,13 +151,13 @@
 670400,0,'Langley Ctr',6704
 670401,0,'Sry Ctrl Sta',6704
 670500,0,'New West Sta',6705
-670501,0,'White Rock',6705
+670501,0,'White Rock Ctr',6705
 670601,0,'Newton Exch',6706
 670600,0,'Sry Ctrl Sta',6706
 670701,0,'Newton Exch',6707
 670700,0,'Sry Ctrl Sta',6707
+670800,0,'140 St Sry Ctrl Sta',6708
 670801,0,'Newton Exch',6708
-670800,0,'St Sry Ctrl Sta',6708
 670900,0,'Guildford',6709
 670901,0,'Sry Ctrl Sta',6709
 671001,0,'Scottsdale',6710
@@ -202,35 +202,35 @@
 673700,0,'Sry Ctrl Sta',6737
 673800,0,'Langley Ctr',6738
 673801,0,'Sry Ctrl Sta',6738
+673900,0,'Langley Ctr',6739
 673901,0,'Sry Ctrl Sta',6739
-673900,0,'Walnut Grv',6739
+674101,0,'Boundary Bay',6741
 674100,0,'Bridgeport Sta',6741
-674101,0,'South Delta',6741
 674200,0,'Bridgeport Sta',6742
 674201,0,'Tsaww Hts',6742
 674301,0,'Beach Grv',6743
 674300,0,'Bridgeport Sta',6743
 674400,0,'Bridgeport Sta',6744
 674401,0,'English Bluff',6744
-674501,1,'E',6745
-674502,1,'W',6745
-674601,1,'E',6746
-674602,1,'W',6746
+674501,0,'46A St / River Rd W',6745
+674500,0,'Ladner Exch',6745
+674601,0,'46A St / River Rd W',6746
+674600,0,'Ladner Exch',6746
 674700,0,'Bridgeport',6747
 674701,0,'Tsaww Ferry',6747
 674801,0,'Ladner Exch',6748
 674800,0,'Scott Rd Sta',6748
 674901,0,'Coq Ctrl Sta',6749
-674900,0,'Mission City Sta',6749
+674900,0,'Maple Rdg East',6749
 675301,0,'Special',6753
-675401,1,'E',6754
-675402,1,'W',6754
-675503,1,'N',6755
-675504,1,'S',6755
+675401,0,'AM',6754
+675400,0,'PM',6754
+675500,0,'Shaughnessy St / McAllister Ave',6755
+675501,0,'Western Dr / Eastern Dr',6755
 675700,0,'Special',6757
-676102,1,'W',6761
-676201,1,'E',6762
-676202,1,'W',6762
+676101,0,'Special',6761
+676200,0,'AM',6762
+676201,0,'PM',6762
 677600,0,'Hastings @ Gilmore',6776
 677601,0,'Kootenay Loop',6776
 677701,0,'Bluewater',6777
@@ -238,7 +238,7 @@
 677800,0,'Eaglecliff',6778
 677801,0,'Snug Cv',6778
 677901,0,'Caulfeild',6779
-677900,0,'Lions Bay-Brunswick',6779
+677900,0,'Lions Bay- Brunswick',6779
 678000,0,'Indian River',6780
 678001,0,'Phibbs Exch',6780
 679001,0,'Quayside',6790
