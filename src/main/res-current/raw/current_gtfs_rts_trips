@@ -204,18 +204,18 @@
 673801,0,'Sry Ctrl Sta',6738
 673900,0,'Langley Ctr',6739
 673901,0,'Sry Ctrl Sta',6739
-674101,0,'Boundary Bay / Tsaww Hts',6741
 674100,0,'Bridgeport Sta',6741
+674101,0,'South Delta',6741
 674200,0,'Bridgeport Sta',6742
 674201,0,'Tsaww Hts',6742
 674301,0,'Beach Grv',6743
 674300,0,'Bridgeport Sta',6743
 674400,0,'Bridgeport Sta',6744
 674401,0,'English Bluff',6744
-674501,0,'46A St / River Rd W',6745
-674500,0,'Ladner Exch',6745
-674601,0,'46A St / River Rd W',6746
-674600,0,'Ladner Exch',6746
+674501,0,'46A St @ River Rd W',6745
+674500,0,'Ladner Exch @',6745
+674601,0,'46A St @ River Rd W',6746
+674600,0,'Ladner Exch @',6746
 674700,0,'Bridgeport',6747
 674701,0,'Tsaww Ferry',6747
 674801,0,'Ladner Exch',6748
@@ -225,8 +225,8 @@
 675301,0,'Special',6753
 675401,0,'AM',6754
 675400,0,'PM',6754
-675500,0,'Shaughnessy St / McAllister Ave',6755
-675501,0,'Western Dr / Eastern Dr',6755
+675500,0,'Shaughnessy St @ McAllister Ave',6755
+675501,0,'Western Dr @ Eastern Dr',6755
 675700,0,'Special',6757
 676101,0,'Special',6761
 676200,0,'AM',6762
