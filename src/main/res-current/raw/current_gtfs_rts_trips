@@ -151,7 +151,7 @@
 670400,0,'Langley Ctr',6704
 670401,0,'Sry Ctrl Sta',6704
 670500,0,'New West Sta',6705
-670501,0,'White Rock Ctr',6705
+670501,0,'White Rock South',6705
 670601,0,'Newton Exch',6706
 670600,0,'Sry Ctrl Sta',6706
 670701,0,'Newton Exch',6707
@@ -204,8 +204,8 @@
 673801,0,'Sry Ctrl Sta',6738
 673900,0,'Langley Ctr',6739
 673901,0,'Sry Ctrl Sta',6739
+674101,0,'Boundary Bay / Tsaww Hts',6741
 674100,0,'Bridgeport Sta',6741
-674101,0,'South Delta',6741
 674200,0,'Bridgeport Sta',6742
 674201,0,'Tsaww Hts',6742
 674301,0,'Beach Grv',6743
@@ -315,6 +315,8 @@
 732101,0,'White Rock S',7321
 732200,0,'Capitol Hl',7322
 732201,0,'Hastings @ Gilmore',7322
+750901,0,'Coq Ctrl Sta',7509
+750900,0,'White Pine Beach',7509
 828601,0,'Cloverdale',8286
 828600,0,'Willowbrook',8286
 828901,0,'Special',8289
@@ -326,6 +328,8 @@
 1023200,0,'Whitby Ests',10232
 1120100,0,'29th Ave Sta',11201
 1120101,0,'UBC',11201
+1120200,0,'Alma',11202
+1120201,0,'Spanish Banks',11202
 1169200,0,'Langley Ctr',11692
 1169201,0,'Scottsdale',11692
 1169301,0,'22nd St Sta',11693
@@ -372,6 +376,8 @@
 3004000,0,'Rocklin',30040
 3004101,0,'Coq Ctrl Sta',30041
 3004100,0,'Meridian',30041
+3004200,0,'Buntzen Lk',30042
+3004201,0,'Coq Ctrl Sta',30042
 3004301,0,'Lougheed Sta',30043
 3004300,0,'Moody Ctr Sta',30043
 3004400,0,'Belcarra',30044
