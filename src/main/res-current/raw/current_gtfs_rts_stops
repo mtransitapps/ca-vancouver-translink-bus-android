@@ -867,7 +867,6 @@
 1196,'51187','WB Kingsway @ Fairmont St',49.23693,-123.04694
 1198,'51189','WB Kingsway @ Victoria Dr',49.24554,-123.06567
 1199,'51190','WB Kingsway @ Miller St',49.24713,-123.06911
-1201,'51192','WB Kingsway @ Dumfries St',49.24889,-123.07289
 1202,'51193','WB Kingsway @ Knight St',49.25051,-123.07658
 1203,'51194','WB Kingsway @ Inverness St',49.25236,-123.08025
 1204,'51195','WB Kingsway @ Windsor St',49.25414,-123.08407
@@ -1667,6 +1666,7 @@
 2287,'52265','NB Cariboo Rd @ 7100 Block',49.24416,-122.91001
 2288,'52266','NB Cariboo Rd @ Stormont Ave',49.24538,-122.91112
 2289,'52267','NB Cariboo Rd @ Avalon Ave',49.24795,-122.91354
+2291,'52269','EB Gov St @ 8700 Block',49.25013,-122.91008
 2296,'52274','WB Gov St @ Cardston Court',49.24755,-122.8993
 2298,'59815','WB Gov St @ Halston Court',49.24833,-122.90687
 2299,'52277','WB Gov St @ Horne St',49.24934,-122.90792
@@ -2082,6 +2082,7 @@
 2861,'52832','SB Duthie Ave @ Camarillo Pl',49.26513,-122.95346
 2862,'52833','SB Duthie Ave @ Gibson St',49.26303,-122.95348
 2863,'52834','SB Duthie Ave @ Broadway',49.26155,-122.95351
+2868,'52839','EB Broadway @ Lk City Way',49.26085,-122.93639
 2869,'52840','WB Lougheed Hwy @ Gaglardi Way',49.25262,-122.91335
 2871,'52842','NB Underhill Ave @ Broadway',49.26126,-122.92793
 2872,'52843','EB Forest Grv Dr @ Underhill Ave',49.26457,-122.92631
@@ -2117,6 +2118,7 @@
 2906,'52876','WB Forest Grv Dr @ Hillside Pl',49.2648,-122.9204
 2907,'52877','WB Forest Grv Dr @ Meridian Pl',49.26447,-122.92352
 2908,'52878','WB Forest Grv Dr @ Underhill Ave',49.26467,-122.92672
+2909,'52879','SB Underhill Ave @ Broadway',49.26117,-122.9281
 2914,'52883','NB Duthie Ave @ Broadway',49.2616,-122.95335
 2915,'52884','NB Duthie Ave @ Montecito Dr',49.26455,-122.95332
 2916,'52885','NB Duthie Ave @ Sutliff St',49.26658,-122.95331
@@ -3254,7 +3256,6 @@
 4425,'54376','WB W Esplanade Ave @ Semisch Ave',49.31327,-123.08435
 4426,'54377','NB Forbes Ave @ W 1st St',49.31532,-123.08577
 4427,'54378','WB Marine Dr @ Bewicke Ave',49.3208,-123.09324
-4429,'54380','WB Marine Dr @ Fell Ave',49.32151,-123.09526
 4430,'54381','WB Marine Dr @ Hanes Ave',49.32227,-123.09742
 4432,'54383','NB MacKay Ave @ Marine Dr',49.32392,-123.10101
 4433,'54384','NB MacKay Ave @ W 19 St',49.32675,-123.10051
@@ -6352,8 +6353,6 @@
 8696,'58226','EB Guildford Way @ Ungless Way',49.28375,-122.82269
 8697,'58343','SB Holdom Ave @ Lougheed Hwy',49.26448,-122.98131
 8699,'58381','SB Holdom Ave @ Halifax St',49.26772,-122.98124
-8703,'58363','NB Lk City Way @ Enterprise St',49.25584,-122.93783
-8704,'58364','NB Lk City Way @ Venture St',49.25812,-122.93781
 8710,'58352','SB Production Way @ Eastlake Dr',49.25729,-122.91694
 8714,'58347','WB Lougheed Hwy @ Bell Ave',49.25147,-122.90511
 8721,'58359','WB Enterprise St @ Underhill Ave',49.25639,-122.92824
@@ -6419,6 +6418,7 @@
 8910,'58496','Brentwood Sta @ B:6',49.26578,-123.00299
 8912,'58487','SB 124 St @ 21A Ave',49.04134,-122.87851
 8913,'58402','SB Commercial Dr @ N Grandview Hwy',49.26323,-123.0699
+8915,'52880','WB Broadway @ 7900 Block',49.26097,-122.93447
 8916,'58491','NB Commercial Dr @ N Grandview Hwy',49.26342,-123.06959
 8917,'58515','WB 91 Ave @ 152 St',49.16834,-122.80051
 8920,'58534','NB Mundy St @ Gale Ave',49.2446,-122.83415
@@ -6978,7 +6978,6 @@
 10101,'59500','WB Murray St @ 2900 Block',49.27891,-122.8456
 10105,'59481','SB Broadway St @ Cameron Ave',49.24778,-122.76246
 10106,'59503','SB Broadway St @ Mary Hl Bypass',49.24247,-122.76249
-10110,'59486','SB Underhill Ave @ 2700 Block',49.2593,-122.9278
 10112,'59509','SB Horseshoe Way @ Blacksmith Pl',49.12797,-123.09603
 10113,'59502','SB 116 St @ 82 Ave',49.15287,-122.90164
 10128,'59487','NB Glover Rd @ Springbrook Rd',49.13576,-122.61102
@@ -8618,7 +8617,6 @@
 12753,'60523','SB Griffiths Ave @ Elwell St',49.22113,-122.96102
 12754,'60524','NB Griffiths Ave @ Elwell St',49.22139,-122.96095
 12755,'60519','WB Cornwall Ave @ Maple St',49.27257,-123.14996
-12756,'58367','SB Lk City Way @ Broadway',49.26073,-122.93731
 12757,'60295','NB 152 St @ 7900 Block',49.14788,-122.80104
 12759,'60531','EB Great Northern Way @ Carolina St',49.26668,-123.09123
 12760,'60532','WB SE Marine Dr FS Main St',49.21153,-123.10309
@@ -8633,3 +8631,4 @@
 12771,'60525','EB Pacific St @ Thurlow St',49.27836,-123.13467
 12772,'60526','Wesbound Beach Ave @ Bidwell St',49.28431,-123.1426
 12773,'60538','NB Main St @ E 10 Ave',49.26233,-123.10085
+12775,'60540','EB Kingsway @ Dumfries St',49.24926,-123.07377
