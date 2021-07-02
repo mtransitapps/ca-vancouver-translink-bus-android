@@ -210,6 +210,7 @@
 335,'50331','SB Oak St @ W 12 Ave',49.260251,-123.126842
 337,'50333','SB Oak St @ W 16 Ave',49.256751,-123.127351
 339,'50335','SB Oak St @ Douglas Cres',49.254123,-123.127471
+340,'50336','SB Oak St @ Balfour Ave',49.251423,-123.12759
 341,'50337','SB Oak St @ W King Edward Ave',49.248653,-123.127716
 342,'50338','SB Oak St @ Nanton Ave',49.245988,-123.127793
 343,'50339','SB Oak St @ Devonshire Cres',49.244095,-123.127861
@@ -298,7 +299,6 @@
 451,'50447','Phibbs Exch @ B:3',49.305485,-123.028862
 452,'50448','Phibbs Exch @ B:8',49.30563,-123.028727
 453,'50449','WB McGill St @ N Renfrew St',49.288825,-123.044601
-454,'50450','NB Oak St @ W 41 Ave',49.234318,-123.127903
 455,'50451','NB Oak St @ W 38 Ave',49.237021,-123.12785
 457,'50453','NB Oak St @ W 33 Ave',49.241748,-123.12769
 458,'50454','NB Oak St @ Devonshire Cres',49.244894,-123.127493
@@ -511,6 +511,8 @@
 755,'50748','NB Oak St @ W 54 Ave',49.221798,-123.128353
 758,'50751','NB Oak St @ W 49 Ave',49.226867,-123.128159
 759,'50752','NB Oak St @ W 46 Ave',49.229544,-123.128098
+760,'50753','NB Oak St @ W 43 Ave',49.232346,-123.128003
+761,'50754','NB Oak St @ W 41 Ave',49.23366,-123.127934
 762,'50755','WB SW Marine Dr @ Montcalm St',49.204167,-123.137246
 763,'50756','WB SW Marine Dr @ Granville St',49.205047,-123.139869
 765,'50758','NB Granville St @ W 70 Ave',49.208885,-123.14035
@@ -559,6 +561,7 @@
 810,'50803','WB SE Marine Dr @ Fraser St',49.21113,-123.091938
 811,'50804','EB W 41 Ave @ Oak St',49.2338,-123.126888
 812,'50805','SB Oak St @ W 41 Ave',49.233541,-123.128231
+813,'50806','SB Oak St @ W 43 Ave',49.231779,-123.128278
 814,'50807','SB Oak St @ W 46 Ave',49.229046,-123.128376
 815,'50808','SB Oak St @ W 49 Ave',49.22616,-123.128478
 817,'50810','SB Oak St @ W 54 Ave',49.221231,-123.128635
@@ -1123,6 +1126,7 @@
 1515,'51503','EB W King Edward Ave @ Maple Cres',49.250503,-123.151127
 1516,'51504','EB W King Edward Ave @ Cypress St',49.249462,-123.148494
 1517,'51505','EB W King Edward Ave @ Marguerite St',49.249352,-123.144254
+1518,'51506','EB W King Edward Ave @ Alexandra St',49.249302,-123.141103
 1519,'51507','EB W King Edward Ave @ Granville St',49.249267,-123.138678
 1520,'51508','EB W King Edward Ave @ Hudson St',49.249192,-123.133894
 1522,'51510','EB W King Edward Ave @ Oak St',49.24909,-123.127001
@@ -1948,6 +1952,7 @@
 2687,'52662','SB Gilley Ave @ Keith St',49.207307,-122.974399
 2688,'52663','NB Gilley Ave @ Clinton St',49.213286,-122.971866
 2689,'52664','EB Rumble St @ Gilley Ave',49.214658,-122.971351
+2690,'52665','EB Rumble St @ Hedley Ave',49.214647,-122.96759
 2691,'52666','EB Rumble St @ 6800 Block',49.214611,-122.962821
 2692,'52667','Edmonds Sta @ B:6',49.212256,-122.958512
 2693,'52668','WB Rumble St @ 6800 Block',49.214716,-122.963544
@@ -2222,7 +2227,7 @@
 3056,'53024','SB Shaughnessy St @ Lions Way',49.266491,-122.77758
 3057,'53025','SB Shaughnessy St @ McAllister Ave',49.26239,-122.781673
 3058,'53026','EB Wilson Ave @ Shaughnessy St',49.260807,-122.781601
-3059,'53027','EB Wilson Ave @ Mary Hl Rd',49.260819,-122.779236
+3059,'53027','EB Wilson Ave @ Mary Hl Rd',49.260817,-122.777969
 3061,'53029','WB Wilson Ave @ Kingsway Ave',49.260944,-122.776176
 3062,'53030','WB Wilson Ave @ Shaughnessy St',49.260924,-122.781672
 3064,'53032','NB Shaughnessy St @ Lions Way',49.265899,-122.777782
@@ -2663,6 +2668,8 @@
 3667,'53628','NB Linton St @ Foster Ave',49.256547,-122.840817
 3668,'53629','NB Linton St @ Rideau Ave',49.259387,-122.840777
 3669,'53630','NB Linton St @ Grover Ave',49.26262,-122.840736
+3673,'53634','EB United Blvd @ 1300 Block',49.229459,-122.854513
+3674,'53635','EB United Blvd @ Clipper St',49.229195,-122.851917
 3676,'53637','EB United Blvd @ Schooner St',49.227932,-122.839097
 3677,'53638','WB United Blvd @ Fawcett Rd',49.228627,-122.833611
 3678,'53639','EB United Blvd @ Leeder St',49.227385,-122.829442
@@ -2779,7 +2786,6 @@
 3850,'53811','SB Cedar Dr @ Lincoln Ave',49.278103,-122.738732
 3851,'53812','SB Cedar Dr @ Pinemont Ave',49.273631,-122.739269
 3852,'53813','WB Prairie Ave @ Cedar Dr',49.271301,-122.74027
-3853,'53814','WB Prairie Ave @ Finley St',49.2713,-122.743447
 3854,'53815','WB Prairie Ave @ Newberry St',49.271281,-122.748122
 3855,'53816','WB Prairie Ave @ Toronto St',49.271272,-122.753631
 3856,'53817','WB Prairie Ave @ Sefton St',49.271253,-122.757414
@@ -2798,7 +2804,6 @@
 3876,'53836','EB Prairie Ave @ York St',49.271102,-122.764009
 3877,'53837','EB Prairie Ave @ Wellington St',49.271109,-122.761201
 3878,'53838','EB Prairie Ave @ Coast Meridian Rd',49.271107,-122.755186
-3881,'53841','EB Prairie Ave @ Cedar Dr',49.271165,-122.740787
 3882,'53842','NB Cedar Dr @ Pinemont Ave',49.274238,-122.739036
 3883,'53843','NB Cedar Dr @ Lincoln Ave',49.278726,-122.738527
 3884,'53844','NB Cedar Dr @ Chelsea Ave',49.282431,-122.73836
@@ -2962,7 +2967,6 @@
 4090,'54049','NB Deep Cv Rd @ Strathcona Rd',49.317998,-122.953487
 4091,'54050','NB Deep Cv Rd @ 1600 Block',49.320987,-122.953467
 4092,'54051','NB Deep Cv Rd @ Cliffmont Rd',49.323288,-122.953443
-4093,'54052','NB Deep Cv Rd @ Badger Rd',49.32551,-122.952917
 4094,'54053','SB Panorama Dr @ Naughton Ave',49.326063,-122.950816
 4096,'54055','SB Deep Cv Rd @ Badger Rd',49.324838,-122.953563
 4097,'54056','SB Deep Cv Rd @ Strathcona Rd',49.318363,-122.953684
@@ -3239,6 +3243,7 @@
 4425,'54376','WB W Esplanade Ave @ Semisch Ave',49.31327,-123.084338
 4426,'54377','NB Forbes Ave @ W 1st St',49.315326,-123.085773
 4427,'54378','WB Marine Dr @ Bewicke Ave',49.32061,-123.092706
+4429,'54380','WB Marine Dr @ Fell Ave',49.32151,-123.095264
 4430,'54381','WB Marine Dr @ Hanes Ave',49.322273,-123.097423
 4432,'54383','NB MacKay Ave @ Marine Dr',49.323926,-123.101015
 4433,'54384','NB MacKay Ave @ W 19 St',49.326757,-123.10052
@@ -6628,7 +6633,7 @@
 9347,'58687','WB Riverside Dr @ Nechako Cres',49.267206,-122.739999
 9348,'58688','SB Riverside Dr @ Parana Dr',49.266002,-122.742272
 9349,'58683','EB Prairie Ave @ Skeena St',49.271205,-122.737216
-9350,'58681','EB Prairie Ave @ Fremont St',49.271212,-122.734269
+9350,'58681','SB Fremont St @ Prairie Ave',49.271212,-122.734269
 9352,'58697','SB Fremont St @ Riverside Dr',49.267662,-122.73389
 9354,'58691','WB Riverside Dr @ Skeena St',49.267321,-122.737235
 9355,'58987','SB Riverside Dr @ Riverwood Gt',49.264273,-122.742347
@@ -6638,7 +6643,6 @@
 9360,'58689','NB Riverside Dr @ Riverwood Gt',49.264247,-122.742182
 9361,'58685','EB Riverside Dr @ Elbow Pl',49.267115,-122.73932
 9362,'58690','EB Riverside Dr @ Skeena St',49.267192,-122.73647
-9363,'58684','WB Prairie Ave @ Skeena St',49.271331,-122.737667
 9365,'58785','EB David Ave @ Oxford St',49.292972,-122.763659
 9366,'51006','NB Seymour St @ Nelson St',49.278835,-123.121579
 9369,'58788','SB Oxford St @ Lincoln Ave',49.27807,-122.767306
@@ -6858,6 +6862,7 @@
 9932,'55433','WB King George Blvd @ 128 St',49.206598,-122.865846
 9933,'59286','EB Kindersley Dr @ Grosvenor Rd',49.20675,-122.831541
 9943,'58991','EB Ioco Rd @ Alderside Rd',49.292467,-122.852841
+9944,'54408','EB Marine Dr @ Fell Ave',49.321178,-123.094959
 9945,'59260','SB Mariner Way @ Austin Ave',49.248665,-122.815775
 9947,'58946','WB Fraser Hwy @ 159 St',49.159039,-122.78296
 9948,'59848','EB Carnarvon St @ Quayside Dr',49.200769,-122.914936
@@ -7831,6 +7836,7 @@
 11638,'50094','WB W Pender St @ Hamilton St',49.282472,-123.11137
 11639,'61510','NB Capilano Rd @ Curling Rd',49.325441,-123.121059
 11641,'59990','NB Capilano Rd @ Fullerton Ave',49.326787,-123.119438
+11642,'53636','EB United Blvd @ Brigantine Dr',49.22879,-122.847955
 11643,'51473','WB W Pender St @ Broughton St',49.289741,-123.12775
 11644,'58154','SB No 3 Rd @ Browngate Rd',49.182379,-123.136778
 11645,'61563','WB Marine Dr @ Capilano Rd',49.324577,-123.122926
@@ -8520,7 +8526,6 @@
 12689,'60462','EB Panorama Dr @ Sandstone Cres',49.299145,-122.819247
 12690,'51839','NB Matheson Cres @ SE Marine Dr',49.208301,-123.030733
 12691,'51793','SB Matheson Cres @ Champlain Cres',49.210359,-123.027535
-12692,'59261','EB Marine Dr @ Fell Ave',49.321749,-123.09659
 12695,'60480','King George Sta @ B:5',49.183693,-122.845706
 12696,'60477','NB Grand Blvd E @ E 15 St',49.322113,-123.056272
 12697,'60476','NB Grand Blvd E @ E 13 St',49.320103,-123.056323
