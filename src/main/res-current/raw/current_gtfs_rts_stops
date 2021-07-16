@@ -239,7 +239,6 @@
 374,'50370','SB Dunbar St @ W 33 Ave',49.242056,-123.185368
 375,'50371','SB Dunbar St @ W 35 Ave',49.240149,-123.185397
 376,'50372','SB Dunbar St @ W 37 Ave',49.238349,-123.185425
-377,'50373','SB Dunbar St @ W 39 Ave',49.236105,-123.18543
 378,'50374','EB W 41 Ave @ Collingwood St',49.234687,-123.181639
 379,'50375','EB W 41 Ave @ Blenheim St',49.234696,-123.178303
 381,'50377','EB W 41 Ave @ Carnarvon St',49.234677,-123.172505
@@ -2786,7 +2785,6 @@
 3850,'53811','SB Cedar Dr @ Lincoln Ave',49.278103,-122.738732
 3851,'53812','SB Cedar Dr @ Pinemont Ave',49.273631,-122.739269
 3852,'53813','WB Prairie Ave @ Cedar Dr',49.271301,-122.74027
-3854,'53815','WB Prairie Ave @ Newberry St',49.271281,-122.748122
 3855,'53816','WB Prairie Ave @ Toronto St',49.271272,-122.753631
 3856,'53817','WB Prairie Ave @ Sefton St',49.271253,-122.757414
 3857,'53818','WB Prairie Ave @ Wellington St',49.271237,-122.76211
@@ -2967,6 +2965,7 @@
 4090,'54049','NB Deep Cv Rd @ Strathcona Rd',49.317998,-122.953487
 4091,'54050','NB Deep Cv Rd @ 1600 Block',49.320987,-122.953467
 4092,'54051','NB Deep Cv Rd @ Cliffmont Rd',49.323288,-122.953443
+4093,'54052','NB Deep Cv Rd @ Badger Rd',49.32551,-122.952917
 4094,'54053','SB Panorama Dr @ Naughton Ave',49.326063,-122.950816
 4096,'54055','SB Deep Cv Rd @ Badger Rd',49.324838,-122.953563
 4097,'54056','SB Deep Cv Rd @ Strathcona Rd',49.318363,-122.953684
@@ -6632,7 +6631,6 @@
 9344,'58858','NB Forest Pk Way @ Aspenwood Dr S',49.298354,-122.833187
 9347,'58687','WB Riverside Dr @ Nechako Cres',49.267206,-122.739999
 9348,'58688','SB Riverside Dr @ Parana Dr',49.266002,-122.742272
-9349,'58683','EB Prairie Ave @ Skeena St',49.271205,-122.737216
 9350,'58681','SB Fremont St @ Prairie Ave',49.271212,-122.734269
 9352,'58697','SB Fremont St @ Riverside Dr',49.267662,-122.73389
 9354,'58691','WB Riverside Dr @ Skeena St',49.267321,-122.737235
@@ -8545,7 +8543,7 @@
 12715,'52411','EB Edmonds St @ Linden Ave',49.219331,-122.949758
 12716,'60483','Richmond-Brighouse Sta @ B:1',49.167722,-123.136073
 12717,'60482','Richmond-Brighouse Sta @ B:2',49.167576,-123.135746
-12721,'60494','EB W Broadway @ Granville St',49.263498,-123.139067
+12721,'60494','EB W Broadway @ Fir St',49.26351,-123.139676
 12722,'50532','SB Granville St @ Nelson St',49.27941,-123.12295
 12723,'60305','WB Blundell Rd @ Zylmans Way',49.155421,-123.050284
 12724,'58339','SB Shaughnessy St @ Patricia Ave',49.276561,-122.773723
