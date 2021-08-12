@@ -672,7 +672,7 @@
 960,'50952','EB E Hastings St @ Lillooet St',49.281041,-123.038301
 961,'50953','EB E Hastings St @ Windermere St',49.281027,-123.035464
 962,'50954','EB E Hastings St @ Cassiar St',49.281014,-123.029969
-963,'50955','Kootenay Loop @ B:5',49.281382,-123.026348
+963,'50955','Kootenay Loop @ B:5',49.281385,-123.026363
 965,'50956','WB E Hastings St @ Skeena St',49.281215,-123.028984
 966,'50957','WB E Hastings St @ Cassiar St',49.281267,-123.032823
 967,'50958','WB E Hastings St @ Windermere St',49.281219,-123.036936
@@ -1283,7 +1283,7 @@
 1706,'51692','EB Adanac St @ Skeena St',49.277384,-123.029097
 1707,'51693','EB Adanac St @ Kootenay St',49.277369,-123.024867
 1708,'51694','NB Boundary Rd @ Georgia St',49.278725,-123.023311
-1709,'51695','Kootenay Loop @ B:3',49.28148,-123.026282
+1709,'51695','Kootenay Loop @ B:3',49.281408,-123.026254
 1710,'51696','SB Boundary Rd @ E Pender St',49.279904,-123.023768
 1711,'51697','SB Boundary Rd @ E Georgia St',49.277916,-123.023773
 1712,'51698','WB Adanac St @ Skeena St',49.277492,-123.028787
@@ -6117,8 +6117,8 @@
 8096,'58020','EB Scarborough Rd @ Eagle Clf Rd (Flag)',49.39293,-123.328199
 8127,'54666','WB Queens Ave @ 15 St',49.341882,-123.157301
 8128,'54694','WB Inglewood Ave @ 15 St',49.334624,-123.157371
-8139,'58042','Kootenay Loop @ B:2',49.281562,-123.026025
-8140,'58043','Kootenay Loop @ B:4',49.281385,-123.025946
+8139,'58042','Kootenay Loop @ B:2',49.281495,-123.026062
+8140,'58043','Kootenay Loop @ B:4',49.281365,-123.025918
 8277,'58044','WB E Broadway @ Lillooet St',49.262004,-123.039504
 8280,'58045','WB Steveston Hwy @ Seaward Gt',49.133464,-123.100078
 8281,'58046','EB Steveston Hwy @ Seaward Gt',49.133327,-123.100556
@@ -6353,7 +6353,6 @@
 8831,'58408','SB Mariner Way @ Chilko Dr',49.255292,-122.815833
 8832,'58271','NB Mariner Way @ Austin Ave',49.249319,-122.815519
 8833,'58407','NB Mariner Way @ Chilko Dr',49.256168,-122.815519
-8834,'59881','SB 6th St @ Agnes St',49.204961,-122.910141
 8838,'58290','SB Nanaimo St @ Grandview Hwy',49.257321,-123.056751
 8839,'58477','NB Fir St @ Buena Vista Ave',49.023773,-122.798562
 8840,'58478','EB Buena Vista Ave @ Dolphin St',49.023834,-122.794407
@@ -6627,7 +6626,7 @@
 9344,'58858','NB Forest Pk Way @ Aspenwood Dr S',49.298354,-122.833187
 9347,'58687','WB Riverside Dr @ Nechako Cres',49.267206,-122.739999
 9348,'58688','SB Riverside Dr @ Parana Dr',49.266002,-122.742272
-9350,'58681','SB Fremont St @ Prairie Ave',49.271212,-122.734269
+9350,'58681','SB Fremont St @ Prairie Ave',49.270985,-122.73386
 9352,'58697','SB Fremont St @ Riverside Dr',49.267662,-122.73389
 9354,'58691','WB Riverside Dr @ Skeena St',49.267321,-122.737235
 9355,'58987','SB Riverside Dr @ Riverwood Gt',49.264273,-122.742347
@@ -7138,6 +7137,7 @@
 10470,'58169','EB Keefer Pl @ Taylor St',49.279326,-123.105758
 10471,'59914','WB Pacific Blvd @ Cambie St',49.274606,-123.119683
 10478,'59926','EB National Ave @ Quebec St',49.27487,-123.101464
+10479,'59884','WB Southridge Dr @ 6600 Block',49.204888,-122.95922
 10480,'59925','NB Quebec St @ Term Ave',49.273359,-123.101521
 10481,'51913','WB W 4th Ave @ Blanca St',49.269195,-123.215565
 10482,'59927','NB Quebec St @ National Ave',49.275246,-123.101804
@@ -7348,6 +7348,7 @@
 10863,'50996','NB Cambie St @ W 57 Ave',49.219328,-123.116528
 10864,'60204','WB Oxford Connector @ 1900 Block',49.265203,-122.771539
 10865,'58724','Lonsdale Quay @ B:3',49.310917,-123.08258
+10866,'58725','Lonsdale Quay @ B:4',49.3111,-123.082393
 10867,'54134','Lonsdale Quay @ B:6',49.311066,-123.082557
 10869,'60841','WB Blundell Rd @ Nelson Rd',49.159559,-123.014165
 10871,'59856','EB Fraser Hwy @ 182 St',49.130262,-122.717088
@@ -7870,6 +7871,7 @@
 11708,'54406','SB Lloyd Ave @ W 17 St',49.32437,-123.105025
 11710,'61657','New Westminster Sta @ Bay 10',49.201085,-122.914339
 11712,'61656','New Westminster Sta @ B:9',49.201472,-122.911997
+11713,'61650','New Westminster Sta @ B:3',49.200804,-122.912513
 11714,'61649','New Westminster Sta @ B:2',49.201037,-122.912095
 11715,'61651','New Westminster Sta @ B:4',49.20088,-122.912854
 11716,'61652','New Westminster Sta @ B:5',49.20106,-122.913116
@@ -8587,4 +8589,4 @@
 12785,'60546','WB Victoria Ave @ Martin St',49.022257,-122.806187
 12787,'60547','SB W Blvd @ W 46th Ave',49.229631,-123.155866
 12788,'60495','SB Arbutus St @ 4200 Block',49.248095,-123.153504
-12789,'','EB W Broadway @ Spruce St',49.263296,-123.128317
+12789,'59431','EB W Broadway @ Spruce St',49.263296,-123.128317
