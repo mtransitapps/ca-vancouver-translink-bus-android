@@ -12,8 +12,8 @@
 661700,0,'Nanaimo Sta',6617
 661801,0,'Downtown',6618
 661800,0,'Fraser',6618
-661901,0,'Alma',6619
 661900,0,'Boundary',6619
+661901,0,'UBC',6619
 662001,0,'Marine Dr Sta',6620
 662000,0,'Waterfront Sta',6620
 662101,0,'Cambie',6621
@@ -40,6 +40,8 @@
 663101,0,'Elliott',6631
 663301,0,'Crown',6633
 663300,0,'Joyce Sta',6633
+663500,0,'Downtown',6635
+663501,0,'UBC',6635
 663600,0,'Metrotown Sta',6636
 663601,0,'UBC',6636
 663701,0,'S False Crk',6637
@@ -72,6 +74,8 @@
 665200,0,'Lk City Sta',6652
 665401,0,'Brentwood Sta',6654
 665400,0,'Lougheed Sta',6654
+665600,0,'Burquitlam Sta',6656
+665601,0,'SFU',6656
 665701,0,'Metrotown Sta',6657
 665700,0,'SFU',6657
 665801,0,'Production Sta',6658
@@ -202,8 +206,8 @@
 673700,0,'Sry Ctrl Sta',6737
 673800,0,'Langley Ctr',6738
 673801,0,'Sry Ctrl Sta',6738
+673900,0,'Langley Ctr',6739
 673901,0,'Sry Ctrl Sta',6739
-673900,0,'Walnut Grv',6739
 674100,0,'Bridgeport Sta',6741
 674101,0,'South Delta',6741
 674200,0,'Bridgeport Sta',6742
@@ -222,6 +226,15 @@
 674800,0,'Scott Rd Sta',6748
 674901,0,'Coq Ctrl Sta',6749
 674900,0,'Maple Rdg East',6749
+675301,0,'Special',6753
+675401,0,'AM',6754
+675400,0,'PM',6754
+675500,0,'Shaughnessy St @ McAllister Ave',6755
+675501,0,'Western Dr @ Eastern Dr',6755
+675700,0,'Special',6757
+676101,0,'Special',6761
+676200,0,'AM',6762
+676201,0,'PM',6762
 677600,0,'Hastings @ Gilmore',6776
 677601,0,'Kootenay Loop',6776
 677701,0,'Bluewater',6777
@@ -262,12 +275,10 @@
 681901,0,'Sry Ctrl Sta',6819
 682100,0,'Newton Exch',6821
 682101,0,'Scottsdale',6821
-682201,0,'Ladner Exch',6822
+682201,0,'Ladner',6822
 682200,0,'Scottsdale',6822
 682300,0,'Ladner Exch',6823
 682301,0,'Ladner South',6823
-682400,0,'East Ladner',6824
-682401,0,'Ladner Exch',6824
 682501,0,'Ladner Exch',6825
 682500,0,'Ladner North',6825
 682700,0,'Bridgeport Sta',6827
@@ -310,6 +321,7 @@
 750900,0,'White Pine Beach',7509
 828601,0,'Cloverdale',8286
 828600,0,'Willowbrook',8286
+828901,0,'Special',8289
 829000,0,'Guildford',8290
 829001,0,'Newton Exch',8290
 974500,0,'22nd St Sta',9745
@@ -318,8 +330,6 @@
 1023200,0,'Whitby Ests',10232
 1120100,0,'29th Ave Sta',11201
 1120101,0,'UBC',11201
-1120200,0,'Alma',11202
-1120201,0,'Spanish Banks',11202
 1169200,0,'Langley Ctr',11692
 1169201,0,'Scottsdale',11692
 1169301,0,'22nd St Sta',11693
@@ -352,6 +362,8 @@
 2338401,0,'Sry Ctrl Sta',23384
 2903800,0,'Langley Ctr',29038
 2903801,0,'Newton Exch',29038
+2903901,0,'Special',29039
+2904001,0,'Special',29040
 3003601,0,'Pt Coq South',30036
 3003600,0,'Pt Coq Sta',30036
 3003701,0,'Coq Ctrl Sta',30037
