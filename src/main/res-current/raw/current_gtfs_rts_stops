@@ -20,7 +20,7 @@
 49,'50049','WB Davie St @ Thurlow St',49.280756,-123.131638
 51,'50051','WB Davie St @ Jervis St',49.283006,-123.135121
 52,'50052','WB Davie St @ Broughton St',49.283898,-123.136507
-53,'50053','WB Davie St @ Cardero St',49.285161,-123.138416
+53,'50053','WB Davie St @ Cardero St',49.28546,-123.138909
 54,'50054','EB W 16 Ave @ Trutch St',49.257636,-123.175459
 55,'50055','EB W 16 Ave @ Carnarvon St',49.257583,-123.17185
 56,'50056','NB MacDonald St @ W 16 Ave',49.258079,-123.168299
@@ -203,7 +203,7 @@
 322,'50319','EB W Broadway @ MacDonald St',49.263995,-123.167357
 323,'50320','EB W Broadway @ Trafalgar St',49.263906,-123.164293
 325,'50322','EB W Broadway @ Vine St',49.263809,-123.157195
-326,'50323','EB W Broadway @ Arbutus St',49.263733,-123.153286
+326,'50323','EB W Broadway @ Arbutus St',49.263736,-123.15326
 328,'50325','EB W Broadway @ Burrard St',49.263611,-123.145163
 329,'50871','EB W Broadway @ Fir St',49.263525,-123.140516
 331,'50327','EB W Broadway @ Hemlock St',49.26347,-123.13554
@@ -339,7 +339,7 @@
 524,'50520','EB E Pender St @ Main St',49.280329,-123.100047
 542,'50537','WB W Cloverleaf @ Granville St',49.266837,-123.139046
 544,'50539','SB Granville St @ W 7th Ave',49.26511,-123.138634
-545,'50540','WB W Broadway @ Granville St',49.263723,-123.139763
+545,'50540','WB W Broadway @ Granville St',49.263732,-123.140158
 547,'50542','SB Granville St @ W 11 Ave',49.261424,-123.138768
 548,'50543','SB Granville St @ W 13 Ave',49.259524,-123.138834
 549,'50544','SB Granville St @ W 15 Ave',49.257667,-123.138899
@@ -772,6 +772,7 @@
 1095,'51086','NB Renfrew St @ E 3rd Ave',49.26794,-123.044107
 1096,'51087','NB Renfrew St @ E 1st Ave',49.269832,-123.044037
 1097,'51088','NB Renfrew St @ Grant St',49.271682,-123.044039
+1098,'51089','NB Renfrew St @ Charles St',49.273636,-123.044011
 1100,'51091','NB Renfrew St @ E Georgia St',49.278605,-123.043931
 1101,'51092','NB Renfrew St @ E Pender St',49.280484,-123.043939
 1103,'51094','SB Arbutus St @ W 12 Ave',49.260673,-123.153185
@@ -1534,6 +1535,7 @@
 2100,'52083','NB Gdn City Rd @ Odlin Rd',49.182144,-123.124337
 2101,'52084','NB Gdn City Rd @ Cambie Rd',49.185063,-123.124325
 2102,'52085','NB Gdn City Rd @ Capstan Way',49.18825,-123.124548
+2107,'52089','WB Lougheed Hwy @ Austin Rd',49.249413,-122.898833
 2110,'52092','WB Lougheed Hwy @ Boundary Loop',49.265243,-123.02541
 2118,'52099','EB W Broadway @ Heather St',49.263212,-123.120173
 2123,'52103','EB Lougheed Hwy @ Boundary Rd',49.265602,-123.022312
@@ -2804,6 +2806,7 @@
 3883,'53843','NB Cedar Dr @ Lincoln Ave',49.278726,-122.738527
 3884,'53844','NB Cedar Dr @ Chelsea Ave',49.282431,-122.73836
 3885,'53845','WB Victoria Dr @ Rocklin St',49.285827,-122.737672
+3886,'53846','WB Victoria Dr @ 3500 Block',49.285812,-122.741303
 3887,'53847','WB Victoria Dr @ Burke Mtn St',49.285776,-122.745481
 3889,'53849','WB Victoria Dr @ Toronto St',49.285793,-122.752581
 3890,'53850','SB Coast Meridian Rd @ Victoria Dr',49.284881,-122.756103
@@ -3273,14 +3276,10 @@
 4466,'54416','EB Marine Dr @ Bridgman Ave',49.323788,-123.109947
 4467,'54417','EB Marine Dr @ Pemberton Ave',49.323778,-123.107244
 4468,'54418','EB Marine Dr @ Lloyd Ave',49.32375,-123.105298
-4469,'54419','SB Chesterfield Ave @ W 3rd St',49.314494,-123.080587
-4470,'54420','SB Chesterfield Ave @ W 1st St',49.31297,-123.082166
 4471,'54421','Lonsdale Quay @ B:1',49.310597,-123.082918
 4472,'54422','NB Lillooet Rd @ Mt Seymour Pkwy',49.313087,-123.024687
 4473,'54423','WB Purcell Way @ Capilano U',49.317678,-123.020749
 4474,'54424','Phibbs Exch @ Bay 10',49.305313,-123.02846
-4476,'54426','NB Chesterfield Ave @ W 1st St',49.313517,-123.081348
-4477,'54427','NB Chesterfield Ave @ W 2nd St',49.314235,-123.080618
 4478,'54428','WB Marine Dr @ MacKay Ave',49.323913,-123.103303
 4485,'54435','WB Marine Dr @ Pemberton Ave',49.323956,-123.108455
 4487,'54437','WB Marine Dr @ Philip Ave',49.323999,-123.11389
@@ -6294,7 +6293,7 @@
 8636,'60894','WB Marine Dr @ 27 St',49.336638,-123.189224
 8637,'51225','NB Commercial Dr @ E 3rd Ave',49.268043,-123.06953
 8638,'60885','WB Marine Dr @ Nelson Ave',49.370244,-123.279363
-8640,'58239','WB W Broadway @ Granville St',49.263724,-123.139158
+8640,'58239','WB W Broadway @ Granville St',49.26373,-123.139771
 8642,'52005','WB Imperial St @ Mandy Ave',49.22201,-123.018511
 8643,'51474','WB W Georgia St @ Cardero St',49.290935,-123.130883
 8644,'58282','EB Edmonds St @ Canada Way',49.224262,-122.940465
@@ -8555,7 +8554,7 @@
 12716,'60483','Richmond-Brighouse Sta @ B:1',49.167722,-123.136073
 12717,'60482','Richmond-Brighouse Sta @ B:2',49.167576,-123.135746
 12720,'60492','EB W Cordova St @ Carrall St',49.282442,-123.104634
-12721,'60494','EB W Broadway @ Fir St',49.26351,-123.139676
+12721,'60494','EB W Broadway @ Granville St',49.263505,-123.139857
 12722,'50532','SB Granville St @ Nelson St',49.27941,-123.12295
 12723,'60305','WB Blundell Rd @ Zylmans Way',49.155421,-123.050284
 12724,'58339','SB Shaughnessy St @ Patricia Ave',49.276561,-122.773723
@@ -8603,5 +8602,5 @@
 12791,'60552','WB W Broadway @ Hemlock St',49.263652,-123.134884
 12794,'59864','SB Scott Rd @ 96 Ave',49.176453,-122.890315
 12795,'60550','EB 92 Ave @ 116 St',49.170503,-122.900402
-12796,'60556','SB Renfrew St @ Adanac St',49.277245,-123.044237
 12797,'60557','NB Renfrew St @ Adanac St',49.277733,-123.043962
+12798,'59010','NB 6th St @ Carnarvon St',49.204255,-122.908982
