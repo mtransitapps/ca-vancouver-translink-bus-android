@@ -126,7 +126,7 @@
 212,'50211','NB Granville St @ Matthews Ave',49.253467,-123.138804
 213,'50212','NB Granville St @ W 16 Ave',49.257367,-123.138663
 214,'50213','NB Granville St @ W 14 Ave',49.25921,-123.138595
-215,'50214','NB Granville St @ W 12 Ave',49.261086,-123.138524
+215,'50214','NB Granville St @ W 12 Ave',49.261157,-123.13852
 218,'50217','NB Granville St @ W 7th Ave',49.265651,-123.138349
 230,'50228','EB E Cordova St @ Main St',49.282229,-123.099988
 231,'50229','SB Main St @ E Hastings St',49.28081,-123.099812
@@ -1476,7 +1476,6 @@
 2015,'51998','NB Willingdon Ave @ Maywood St',49.224864,-123.010415
 2016,'51999','Metrotown Sta @ B:3',49.226002,-123.002615
 2020,'52003','WB Imperial St @ McKay Ave',49.222002,-123.00948
-2021,'52004','WB Imperial St @ Patterson Ave',49.222012,-123.013345
 2023,'52006','SB Tyne St @ E 49 Ave',49.224305,-123.032353
 2024,'52007','SB Tyne St @ E 52 Ave',49.221997,-123.032422
 2028,'52011','WB E 49 Ave @ Kerr St',49.224818,-123.041573
@@ -2795,7 +2794,6 @@
 3867,'53828','SB Shaughnessy St @ Dorset Ave',49.274164,-122.775046
 3868,'53829','SB Shaughnessy St @ Prairie Ave',49.27075,-122.77538
 3869,'53830','SB Shaughnessy St @ Fraser Ave',49.268912,-122.775442
-3872,'53832','NB Shaughnessy St @ Fraser Ave',49.269579,-122.775187
 3875,'53835','EB Prairie Ave @ Oxford St',49.271089,-122.766778
 3876,'53836','EB Prairie Ave @ York St',49.271102,-122.764009
 3877,'53837','EB Prairie Ave @ Wellington St',49.271109,-122.761201
@@ -7779,7 +7777,6 @@
 11551,'53390','WB Lougheed Hwy @ 500 Block',49.243693,-122.888382
 11552,'53388','WB Lougheed Hwy @ 700 Block',49.23835,-122.878382
 11553,'54828','SB Howe St @ W Pender St',49.284791,-123.116768
-11555,'58103','NB 6th St @ Columbia St',49.203601,-122.908168
 11556,'61294','EB David Ave @ Genest Way',49.292774,-122.785177
 11557,'61361','WB David Ave @ Genest Way',49.292973,-122.785615
 11559,'59796','Pitt Mdws Sta @ B:1',49.225691,-122.688711
