@@ -1,12 +1,12 @@
 This app adds Vancouver TransLink buses information to MonTransit.
 
-This app provides the buses schedule (offline and real-time) and news from www.translink.ca, YouTube and @TransLink and @TransLinkMedia on Twitter.
+This app provides the buses schedule (offline and real-time) and news from www.translink.ca and @TransLink and @TransLinkMedia on Twitter.
 
 TransLink buses serves the Metro Vancouver region in British Columbia, Canada.
 
 Once this application is installed, the MonTransit app will display buses information (schedule...).
 
-This application only has a temporary icon: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+This application only has a temporary icon: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link https://goo.gl/pCk5mV
 
 You can install this application on the SD card but it is not recommended.
 
@@ -19,4 +19,4 @@ https://github.com/mtransitapps/ca-vancouver-translink-bus-android
 This app is not related with TransLink (South Coast British Columbia Transportation Authority) and CMBC (Coast Mountain Bus Company).
 
 Permissions:
-- Other: required to read real-time stop estimates from api.translink.ca and to read news from www.translink.ca, YouTube and Twitter
+- Other: required to read real-time stop estimates from api.translink.ca and to read news from www.translink.ca and Twitter
