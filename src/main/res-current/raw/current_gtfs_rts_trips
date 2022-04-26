@@ -44,7 +44,7 @@
 663501,0,'UBC',6635
 663600,0,'Metrotown Sta',6636
 663601,0,'UBC',6636
-663701,0,'S False Crk',6637
+663701,0,'South False Crk',6637
 663700,0,'Waterfront Sta',6637
 663801,0,'UBC',6638
 663800,0,'VCC-Clark Sta',6638
@@ -97,7 +97,7 @@
 666601,0,'Braid Sta',6666
 666600,0,'Coq Ctrl Sta',6666
 666701,0,'Kootenay Loop',6667
-666700,0,'Pt Coq Sta',6667
+666700,0,'PoCo Sta',6667
 666801,0,'Braid Sta',6668
 666800,0,'Coq Ctrl Sta',6668
 667201,0,'Burrard Sta',6672
@@ -160,8 +160,8 @@
 670600,0,'Sry Ctrl',6706
 670701,0,'Newton Exch',6707
 670700,0,'Sry Ctrl Sta',6707
-670800,0,'140 St Sry Ctrl Sta',6708
 670801,0,'Newton Exch',6708
+670800,0,'Sry Ctrl Sta',6708
 670900,0,'Guildford',6709
 670901,0,'Sry Ctrl Sta',6709
 671001,0,'Scottsdale',6710
@@ -211,7 +211,7 @@
 674100,0,'Bridgeport Sta',6741
 674101,0,'South Delta',6741
 674200,0,'Bridgeport Sta',6742
-674201,0,'Tsaww Hts',6742
+674201,0,'Tsawwassen Hts',6742
 674301,0,'Beach Grv',6743
 674300,0,'Bridgeport Sta',6743
 674400,0,'Bridgeport Sta',6744
@@ -221,7 +221,7 @@
 674601,0,'46A St @ River Rd W',6746
 674600,0,'Ladner Exch @',6746
 674700,0,'Bridgeport',6747
-674701,0,'Tsaww Ferry',6747
+674701,0,'Tsawwassen Ferry',6747
 674801,0,'Ladner Exch',6748
 674800,0,'Scott Rd Sta',6748
 674901,0,'Coq Ctrl Sta',6749
@@ -314,7 +314,7 @@
 722401,0,'Braid Sta',7224
 722400,0,'Haney Pl',7224
 732100,0,'Guildford',7321
-732101,0,'White Rock S',7321
+732101,0,'White Rock South',7321
 732200,0,'Capitol Hl',7322
 732201,0,'Hastings @ Gilmore',7322
 750901,0,'Coq Ctrl Sta',7509
@@ -357,7 +357,7 @@
 2066700,0,'Carvolth Exch',20667
 2066701,0,'Lougheed Sta',20667
 2263801,0,'Coq Ctrl Sta',22638
-2263800,0,'Pt Coq Sta',22638
+2263800,0,'PoCo Sta',22638
 2263900,0,'Lynn Vly Ctr',22639
 2263901,0,'Phibbs Exch',22639
 2338400,0,'Aldergrove',23384
@@ -366,8 +366,8 @@
 2903801,0,'Newton Exch',29038
 2903901,0,'Special',29039
 2904001,0,'Special',29040
-3003601,0,'Pt Coq South',30036
-3003600,0,'Pt Coq Sta',30036
+3003601,0,'PoCo South',30036
+3003600,0,'PoCo Sta',30036
 3003701,0,'Coq Ctrl Sta',30037
 3003700,0,'Fremont',30037
 3003801,0,'Coq Ctrl Sta',30038

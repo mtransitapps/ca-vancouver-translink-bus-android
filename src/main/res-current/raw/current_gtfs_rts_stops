@@ -1498,6 +1498,7 @@
 2107,'52089','WB Lougheed Hwy @ Austin Rd',49.249413,-122.898833
 2110,'52092','WB Lougheed Hwy @ Boundary Loop',49.265243,-123.02541
 2118,'52099','EB W Broadway @ Heather St',49.263212,-123.120173
+2120,'52101','EB E Broadway @ Main St',49.262801,-123.10042
 2123,'52103','EB Lougheed Hwy @ Boundary Rd',49.265602,-123.022312
 2126,'52106','EB Gov St @ Manchester Dr',49.247258,-122.899151
 2128,'52108','EB Miller Rd @ Airport Access Rd',49.191338,-123.174769
@@ -2056,9 +2057,6 @@
 2907,'52877','WB Forest Grv Dr @ Meridian Pl',49.264479,-122.923526
 2908,'52878','WB Forest Grv Dr @ Underhill Ave',49.264678,-122.926726
 2909,'52879','SB Underhill Ave @ Broadway',49.261171,-122.928104
-2914,'52883','NB Duthie Ave @ Broadway',49.261603,-122.953352
-2915,'52884','NB Duthie Ave @ Montecito Dr',49.264556,-122.95332
-2916,'52885','NB Duthie Ave @ Sutliff St',49.26658,-122.953295
 2917,'52886','EB Halifax St @ Pepperidge Court',49.267916,-122.951663
 2918,'52887','NB Burnwood Dr @ Halifax St',49.268799,-122.946063
 2921,'52890','NB Duthie Ave @ Greystone Dr',49.273013,-122.953411
@@ -2730,7 +2728,7 @@
 3844,'53805','EB Victoria Dr @ Toronto St',49.285675,-122.752628
 3845,'53806','EB Victoria Dr @ Apel Dr',49.285676,-122.749593
 3846,'53807','EB Victoria Dr @ Burke Mtn St',49.28568,-122.744835
-3847,'53808','EB Victoria Dr @ 900 Block',49.285696,-122.740476
+3847,'53808','EB Victoria Dr @ 900 Block',49.285705,-122.74013
 3848,'53809','EB Victoria Dr @ Rocklin St',49.285709,-122.737936
 3849,'61246','SB Cedar Dr @ Inverness St',49.282866,-122.738141
 3850,'53811','SB Cedar Dr @ Lincoln Ave',49.278103,-122.738732
@@ -7306,7 +7304,7 @@
 10865,'58724','Lonsdale Quay @ B:3',49.310917,-123.08258
 10866,'58725','Lonsdale Quay @ B:4',49.3111,-123.082393
 10867,'54134','Lonsdale Quay @ B:6',49.311066,-123.082557
-10869,'60841','WB Blundell Rd @ Nelson Rd',49.159582,-123.014668
+10869,'60841','WB Blundell Rd @ Nelson Rd',49.159567,-123.01418
 10871,'59856','EB Fraser Hwy @ 182 St',49.130262,-122.717088
 10872,'50990','SB Cambie St @ W 62 Ave',49.213825,-123.117204
 10873,'61011','Phibbs Exch @ B:6',49.30587,-123.029009
@@ -8196,7 +8194,7 @@
 12262,'59879','SB 175 St @ 58A Ave',49.108014,-122.737717
 12263,'53942','EB Robson Dr @ Waterford Pl',49.300037,-122.78984
 12264,'59506','SB Pinetree Way @ Robson Dr',49.298477,-122.787901
-12266,'59807','NB Falcon Dr @ Runnel Dr',49.279154,-122.818284
+12266,'59807','NB Falcon Dr @ Runnel Dr',49.279245,-122.818289
 12267,'53892','NB Falcon Dr @ Guildford Way',49.284853,-122.818092
 12270,'58989','EB Falcon Dr @ Noons Crk Dr',49.287222,-122.823931
 12271,'58126','EB Falcon Dr @ Peregrine Pl',49.286431,-122.819854
@@ -8415,6 +8413,7 @@
 12585,'50137','EB W 41 Ave @ Cambie St',49.233415,-123.115623
 12588,'60328','SB Lk City Way @ Enterprise St',49.254743,-122.938112
 12589,'60352','WB Granville Ave @ Moffatt Rd',49.162848,-123.145425
+12591,'60343','SB Orchid Dr @ Holly Dr',49.256017,-122.800781
 12592,'60344','NB Orchid Dr @ Palm Ter',49.255729,-122.800598
 12593,'60345','SB Holly Dr @ Campion Way',49.25414,-122.802491
 12596,'60348','EB W Georgia St @ Homer St',49.280236,-123.114837
@@ -8554,7 +8553,6 @@
 12806,'59000','NB Orchid Dr @ 2700 Block',49.258499,-122.800196
 12807,'60568','Waterfront Sta @ B:1',49.286252,-123.113075
 12808,'60569','WB River Rd @ Hwy 17 Offramp',49.152343,-122.952697
-12809,'60141','WB Holly Dr @ Orchid Dr',49.256608,-122.800198
 12810,'59133','WB Kincaid St @ Ingleton Ave',49.248874,-123.01717
 12811,'60570','EB W 4th Ave @ Blenheim St',49.268415,-123.177316
 12812,'60571','EB W 4th Ave @ Balaclava St',49.268359,-123.173351
@@ -8572,3 +8570,4 @@
 12826,'60586','WB Hastings St @ Willingdon Ave',49.281121,-123.003852
 12827,'60587','WB Hastings St @ Willingdon Ave',49.281129,-123.002663
 12828,'61982','SB 168 St @ 66 Ave',49.122255,-122.756625
+12829,'60588','SB White Pine Beach Rd @ Bedwell Bay Rd',49.314325,-122.884767
