@@ -1085,7 +1085,6 @@
 1515,'51503','EB W King Edward Ave @ Maple Cres',49.250503,-123.151127
 1516,'51504','EB W King Edward Ave @ Cypress St',49.249462,-123.148494
 1517,'51505','EB W King Edward Ave @ Marguerite St',49.249352,-123.144254
-1518,'51506','EB W King Edward Ave @ Alexandra St',49.249302,-123.141103
 1519,'51507','EB W King Edward Ave @ Granville St',49.249267,-123.138678
 1520,'51508','EB W King Edward Ave @ Hudson St',49.249192,-123.133894
 1522,'51510','EB W King Edward Ave @ Oak St',49.24909,-123.127001
@@ -1806,6 +1805,7 @@
 2556,'52531','EB Sprott St @ Norland Ave E',49.24985,-122.970225
 2557,'58720','EB Sprott St @ Kensington Ave',49.249864,-122.967763
 2558,'52533','EB Broadway @ Kensington Ave',49.261699,-122.966987
+2559,'52534','EB Broadway @ Sperling Ave',49.261458,-122.963811
 2571,'52546','EB Gov Rd @ Lozells Ave',49.250869,-122.941691
 2572,'52547','EB Gov Rd @ Jensen Pl',49.250852,-122.938264
 2573,'52548','EB Gov Rd @ Piper Ave',49.250826,-122.934862
@@ -1820,6 +1820,8 @@
 2584,'52559','WB Gov Rd @ 7500 Block',49.251001,-122.944637
 2585,'52560','SB Phillips Ave @ Gov Rd',49.250673,-122.948844
 2586,'52561','WB Winston St @ 7200 Block',49.250043,-122.953046
+2591,'52566','WB Broadway @ Bainbridge Ave',49.261514,-122.956521
+2592,'52567','WB Broadway @ Clf Ave',49.261966,-122.959556
 2593,'52568','WB Broadway @ Sperling Ave',49.261791,-122.965817
 2594,'52569','WB Sprott St @ Kensington Ave',49.24999,-122.967656
 2595,'52570','WB Sprott St @ Norland Ave E',49.250017,-122.969368
@@ -2013,6 +2015,10 @@
 2857,'52828','SB Burnwood Dr @ Greystone Dr',49.269603,-122.945685
 2858,'52829','WB Halifax St @ Phillips Ave',49.267956,-122.947707
 2859,'52830','WB Halifax St @ Augusta Ave',49.268014,-122.95117
+2860,'52831','SB Duthie Ave @ Halifax St',49.267617,-122.953438
+2861,'52832','SB Duthie Ave @ Camarillo Pl',49.26513,-122.953467
+2862,'52833','SB Duthie Ave @ Gibson St',49.263035,-122.953487
+2863,'52834','SB Duthie Ave @ Broadway',49.261553,-122.953511
 2868,'52839','EB Broadway @ Lk City Way',49.260851,-122.936395
 2869,'52840','WB Lougheed Hwy @ Gaglardi Way',49.252623,-122.913354
 2871,'52842','NB Underhill Ave @ Broadway',49.26126,-122.927932
@@ -2050,6 +2056,9 @@
 2907,'52877','WB Forest Grv Dr @ Meridian Pl',49.264479,-122.923526
 2908,'52878','WB Forest Grv Dr @ Underhill Ave',49.264678,-122.926726
 2909,'52879','SB Underhill Ave @ Broadway',49.261171,-122.928104
+2914,'52883','NB Duthie Ave @ Broadway',49.261603,-122.953352
+2915,'52884','NB Duthie Ave @ Montecito Dr',49.264556,-122.95332
+2916,'52885','NB Duthie Ave @ Sutliff St',49.26658,-122.953295
 2917,'52886','EB Halifax St @ Pepperidge Court',49.267916,-122.951663
 2918,'52887','NB Burnwood Dr @ Halifax St',49.268799,-122.946063
 2921,'52890','NB Duthie Ave @ Greystone Dr',49.273013,-122.953411
@@ -2518,7 +2527,7 @@
 3549,'53511','EB Braid St @ Fader St',49.231518,-122.889692
 3552,'53514','EB Brunette Ave @ Bernatchey St',49.23556,-122.875056
 3554,'53516','EB Brunette Ave @ Laurentian Cres',49.239676,-122.849021
-3555,'53517','EB Brunette Ave @ Cayer St',49.238641,-122.847022
+3555,'53517','EB Brunette Ave @ Cayer St',49.23828,-122.846051
 3556,'53518','EB Brunette Ave @ Pare Court',49.237705,-122.843829
 3557,'53519','EB Brunette Ave @ Peterson Ave',49.235511,-122.84308
 3559,'53521','NB Mundy St @ Cape Horn Ave',49.231173,-122.836796
@@ -6441,6 +6450,7 @@
 9067,'58510','SB Main St @ E 5th Ave',49.266106,-123.100973
 9069,'58202','Waterfront Sta @ B:2',49.285898,-123.112474
 9075,'54820','WB River Rd @ McDonald Rd',49.135291,-123.034826
+9081,'58264','EB Broadway @ Ellerslie Ave',49.261675,-122.960766
 9082,'58270','EB Como Lk Ave @ Baker Dr',49.263081,-122.824307
 9083,'58274','NB King George Blvd @ 2900 Block',49.056058,-122.806412
 9085,'58281','WB E 49 Ave @ Frontenac St',49.222475,-123.026533
@@ -6798,7 +6808,7 @@
 9781,'59215','SB 128 St @ 82 Ave',49.149868,-122.868156
 9848,'58966','EB Hwy 91 Offramp @ Westminster Hwy',49.168661,-122.975463
 9849,'58967','WB Hwy 91 Onramp @ Westminster Hwy',49.169794,-122.973822
-9851,'58964','WB 84 Ave @ 108 St',49.156177,-122.923788
+9851,'58964','WB 84 Ave @ 108 St',49.156301,-122.924193
 9854,'59187','EB Dewdney Trunk Rd @ 238B St',49.220278,-122.560773
 9900,'60748','WB On Dewdney Trunk Rd @ Garibaldi St (Flag)',49.220087,-122.461347
 9901,'60749','EB On Dewdney Trunk Rd @ Garibaldi St (Flag)',49.219972,-122.461335
@@ -7374,6 +7384,7 @@
 10997,'61162','NB Eagle Clf Rd @ Upland Trl (Flag)',49.399891,-123.320499
 10998,'61078','EB Oxford Connector @ 1900 Block',49.265107,-122.771589
 10999,'61083','SB Endswell Farm @ Smith Rd (Flag)',49.401676,-123.365576
+11001,'52535','EB Broadway @ E Ellerslie Ave',49.26148,-122.956905
 11002,'61143','Bus Stop @ Spanish Banks Loop',49.276328,-123.215494
 11003,'61219','EB 84 Ave @ 108 St',49.155985,-122.922785
 11007,'61106','EB E 33 Ave @ Knight St',49.240146,-123.075958
@@ -7438,7 +7449,7 @@
 11077,'61197','WB 88 Ave @ King George Blvd',49.162839,-122.846907
 11078,'61198','EB 88 Ave @ King George Blvd',49.162673,-122.844815
 11085,'59776','NB 227 St @ 122 Ave',49.225156,-122.593812
-11088,'58501','Broadway-City Hall Sta @ B:4',49.263338,-123.115714
+11088,'58501','Broadway-City Hall Sta @ B:4',49.263349,-123.116526
 11089,'61244','EB MacHrina Way @ Horseshoe Way',49.124879,-123.095713
 11090,'60122','EB W 2nd St @ Bewicke Ave',49.318958,-123.091092
 11091,'60121','WB W 2nd St @ Bewicke Ave',49.319125,-123.091999
@@ -8522,7 +8533,7 @@
 12761,'60472','EB Sawmill Cres @ River District Xing',49.205803,-123.030484
 12762,'60533','NB Blanca St @ W 5th Ave',49.268423,-123.214932
 12763,'60534','Broadway-City Hall Sta @ B:6',49.263159,-123.116938
-12764,'60535','Broadway-City Hall Sta @ B:1',49.263131,-123.116003
+12764,'60535','Broadway-City Hall Sta @ B:1',49.26315,-123.116587
 12766,'60537','SB No 3rd Rd @ Sea Isl Way',49.190376,-123.131138
 12767,'60527','EB Beach Ave @ Bidwell St',49.284744,-123.142826
 12768,'60529','WB Beach Ave @ Cardero St',49.283023,-123.1416
