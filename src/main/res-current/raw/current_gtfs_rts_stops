@@ -1582,7 +1582,7 @@
 2231,'52209','WB SE Marine Dr @ Chester St',49.211147,-123.089925
 2232,'52210','WB SE Marine Dr @ Buscombe St',49.211151,-123.095708
 2233,'52211','WB SE Marine Dr @ Prince Edward St',49.211024,-123.097713
-2234,'52212','WB SE Marine Dr @ Main St',49.211354,-123.102616
+2234,'52212','WB SE Marine Dr @ Main St',49.211554,-123.103214
 2235,'52213','WB SW Marine Dr @ Ontario St',49.212459,-123.107012
 2236,'52214','WB SW Marine Dr @ Manitoba St',49.212212,-123.110409
 2239,'52217','WB SW Marine Dr @ Ash St',49.209141,-123.119749
@@ -2069,7 +2069,7 @@
 2907,'52877','WB Forest Grv Dr @ Meridian Pl',49.264479,-122.923526
 2908,'52878','WB Forest Grv Dr @ Underhill Ave',49.264678,-122.926726
 2909,'52879','SB Underhill Ave @ Broadway',49.261171,-122.928104
-2911,'52881','WB Broadway @ Lawrence Dr',49.260968,-122.941908
+2911,'52881','WB Broadway @ Lawrence Dr',49.260966,-122.942128
 2912,'52882','WB Broadway @ Phillips Ave',49.261263,-122.948952
 2914,'52883','NB Duthie Ave @ Broadway',49.261603,-122.953352
 2915,'52884','NB Duthie Ave @ Montecito Dr',49.264556,-122.95332
@@ -3208,7 +3208,6 @@
 4420,'54371','NB Nancy Greene Way @ Prospect Ave',49.359305,-123.105745
 4422,'54373','NB Nancy Greene Way @ S Grousewoods Dr',49.366285,-123.101734
 4423,'54374','NB Nancy Greene Way @ N Grousewoods Dr',49.368777,-123.099816
-4424,'54375','WB W Esplanade Ave @ Rogers Ave',49.312,-123.081387
 4425,'54376','WB W Esplanade Ave @ Semisch Ave',49.31327,-123.084338
 4427,'54378','WB Marine Dr @ Bewicke Ave',49.32061,-123.092706
 4429,'54380','WB Marine Dr @ Fell Ave',49.32151,-123.095264
@@ -5096,6 +5095,8 @@
 6743,'56679','NB No 4 Rd @ Amethyst Ave',49.145219,-123.114071
 6744,'56680','NB No 4 Rd @ Francis Rd',49.148273,-123.114069
 6745,'56681','NB No 4 Rd @ Dayton Ave',49.152004,-123.114034
+6746,'56682','NB No 4 Rd @ Blundell Rd',49.155946,-123.113997
+6747,'56683','NB No 4 Rd @ 7400 Block',49.158668,-123.113981
 6748,'56684','WB Granville Ave @ 9700 Block',49.162892,-123.115481
 6749,'56685','WB Granville Ave @ Ash St',49.162879,-123.120387
 6750,'56686','WB Granville Ave @ Gdn City Rd',49.162889,-123.124316
@@ -6301,7 +6302,6 @@
 8696,'58226','EB Guildford Way @ Ungless Way',49.283751,-122.822697
 8697,'58343','SB Holdom Ave @ Lougheed Hwy',49.264489,-122.981313
 8699,'58381','SB Holdom Ave @ Halifax St',49.267723,-122.981243
-8701,'58384','WB Goring St @ Douglas Rd',49.263133,-122.98604
 8703,'58363','NB Lk City Way @ Enterprise St',49.255848,-122.937831
 8704,'58364','NB Lk City Way @ Venture St',49.258128,-122.937815
 8710,'58352','SB Production Way @ Eastlake Dr',49.257296,-122.916944
@@ -6368,7 +6368,6 @@
 8907,'58401','Renfrew Sta @ B:1',49.25903,-123.044439
 8908,'58217','WB Bridgeport Rd @ Viking Way',49.192075,-123.073928
 8909,'58468','SB 124 St @ Seacrest Dr',49.04724,-122.878486
-8910,'58496','Brentwood Sta @ B:6',49.26579,-123.002999
 8912,'58487','SB 124 St @ 21A Ave',49.041349,-122.878512
 8913,'58402','SB Commercial Dr @ N Grandview Hwy',49.263232,-123.069903
 8915,'52880','WB Broadway @ 7900 Block',49.260979,-122.934473
@@ -7573,7 +7572,6 @@
 11199,'61071','Capilano U @ B:3',49.31939,-123.018631
 11200,'61239','NB Lillooet Rd @ Purcell Way',49.31787,-123.023891
 11202,'56034','NB King George Blvd @ 156 St',49.043519,-122.790761
-11203,'50420','SB Cambie St @ W 27 Ave',49.246788,-123.115814
 11204,'52487','EB 6th Ave @ 6th St',49.213373,-122.919768
 11205,'56165','WB Bayview St @ Beecher St',49.053934,-122.877081
 11206,'61285','NB 52 St @ 12 Ave',49.025614,-123.079669
@@ -8554,7 +8552,7 @@
 12757,'60295','NB 152 St @ 7900 Block',49.145969,-122.800967
 12761,'60472','EB Sawmill Cres @ River District Xing',49.205803,-123.030484
 12762,'60533','NB Blanca St @ W 5th Ave',49.268423,-123.214932
-12763,'60534','Broadway-City Hall Sta @ B:6',49.263159,-123.116938
+12763,'60534','Broadway-City Hall Sta @ B:6',49.263181,-123.117852
 12764,'60535','Broadway-City Hall Sta @ B:1',49.26315,-123.116587
 12766,'60537','SB No 3rd Rd @ Sea Isl Way',49.190376,-123.131138
 12767,'60527','EB Beach Ave @ Bidwell St',49.284744,-123.142826
