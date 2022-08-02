@@ -3339,7 +3339,6 @@
 4594,'54542','SB Highland Blvd @ Ridgewood Dr',49.338931,-123.099642
 4595,'54543','WB Ridgewood Dr @ Brookridge Dr',49.339431,-123.106892
 4596,'54544','SB Capilano Rd @ Hwy One Overpass',49.331579,-123.117403
-4598,'54546','SB Gdn Ave @ Hope Rd',49.326376,-123.119007
 4599,'54547','NB Capilano Rd @ Ridgewood Dr',49.339994,-123.114328
 4601,'54549','NB Cliffridge Ave @ Sonora Dr S',49.360008,-123.100328
 4602,'54550','NB Cliffridge Ave @ Sonora Dr N',49.362467,-123.098087
@@ -3643,6 +3642,7 @@
 4957,'54905','NB 114 St @ 95 Ave',49.175673,-122.90672
 4958,'54906','EB 96 Ave @ 114 St',49.177055,-122.906137
 4959,'54907','EB 96 Ave @ 116 St',49.177061,-122.900724
+4960,'54908','EB 96 Ave @ 118 St',49.177071,-122.895023
 4961,'54909','EB 96 Ave @ Scott Rd',49.177023,-122.889399
 4962,'54910','NB Scott Rd @ 96 Ave',49.177856,-122.889974
 4963,'54911','NB Scott Rd @ 98 Ave',49.181018,-122.890044
@@ -3653,6 +3653,7 @@
 4969,'54917','SB Scott Rd @ Old Yale Rd',49.198469,-122.883545
 4971,'54919','SB Scott Rd @ 99 Ave',49.181778,-122.890406
 4972,'54920','WB 96 Ave @ Scott Rd',49.177231,-122.890965
+4973,'54921','WB 96 Ave @ 117B St',49.177194,-122.896846
 4974,'54922','WB 96 Ave @ 116 St',49.177186,-122.901673
 4975,'54923','SB 114 St @ 95A Ave',49.176531,-122.906879
 4976,'54924','SB 114 St @ Dawson Cres',49.173425,-122.906874
@@ -6169,31 +6170,28 @@
 8501,'60959','SB St Andrews Rd @ St Andrews Pl',49.358244,-123.130436
 8502,'60960','SB St Andrews Rd @ Greenwood Rd',49.355619,-123.132189
 8503,'60961','SB St Andrews Rd @ Hawstead Pl',49.354424,-123.132895
-8504,'60962','EB Kenwood Rd @ Robin Hood Rd (Flag)',49.354856,-123.13043
-8505,'60963','SB Robin Hood Rd @ King Georges Way (Flag)',49.352408,-123.130573
-8507,'60951','SB Southborough Dr @ Knockmaroon Rd (Flag)',49.348866,-123.130126
-8508,'60950','WB Fairmile Rd @ Southborough Dr (Flag)',49.346594,-123.131799
-8509,'60949','NB Eyremount Dr @ Fairmile Rd (Flag)',49.346966,-123.137884
-8510,'60947','NB Eyremount Dr @ King Georges Way (Flag)',49.348089,-123.135607
-8511,'60946','WB Eyremount Dr @ Kenwood Rd',49.352154,-123.133699
-8512,'60945','SB Eyremount Dr @ 1000 Block (Flag)',49.350234,-123.137633
-8513,'60944','NB Eyremount Dr @ Elveden Row (Flag)',49.353447,-123.138032
-8514,'60943','WB Eyremount Dr @ Hillside Rd (Flag)',49.354272,-123.139352
-8515,'60941','SB Crestwell Rd @ Eyremount Dr (Flag)',49.353987,-123.146411
-8516,'60940','SB Chartwell Dr @ Burnside Rd (Flag)',49.348313,-123.151171
-8517,'60939','EB Chartwell Dr @ Cammeray Rd (Flag)',49.346846,-123.153313
-8519,'60938','SB Chartwell Dr @ 1200 Block (Flag)',49.346194,-123.147999
-8520,'60937','EB Cross Crk Rd @ Highland Dr (Flag)',49.346081,-123.143949
-8521,'60934','SB Eyremount Rd @ 700 Block (Flag)',49.344405,-123.136213
-8522,'60933','WB Southborough Dr @ Biddesden Pl',49.343326,-123.138538
-8525,'60932','EB Southborough Dr @ Westcot Rd (Flag)',49.341062,-123.136538
-8526,'60927','WB Inglewood Ave @ Taylor Way (Flag)',49.334507,-123.135564
-8527,'60926','WB Burley Dr @ 800 Block (Flag)',49.336407,-123.139317
+8504,'60962','SB Robin Hood Rd @ Kenwood Rd',49.354856,-123.13043
+8505,'60963','SB Robin Hood Rd @ King Georges Way',49.352408,-123.130573
+8507,'60951','SB Southborough Dr @ Knockmaroon Rd',49.348866,-123.130126
+8508,'60950','WB Fairmile Rd @ Southborough Dr',49.346594,-123.131799
+8509,'60949','NB Eyremount Dr @ Fairmile Rd',49.346966,-123.137884
+8510,'60947','NB Eyremount Dr @ King Georges Way',49.348089,-123.135607
+8511,'60946','NB Eyremount Dr @ Farmleigh Rd',49.352154,-123.133699
+8512,'60945','WB Eyremount Dr @ Kenwood Rd',49.350234,-123.137633
+8513,'60944','NB Eyremount Dr @ Elveden Row',49.353447,-123.138032
+8514,'60943','WB Eyremount Dr @ Hillside Rd',49.354272,-123.139352
+8515,'60941','WB Eyremount Dr @ Crestline Rd',49.353987,-123.146411
+8516,'60940','SB Chartwell Dr @ Bramwell Rd',49.348313,-123.151171
+8517,'60939','EB Chartwell Dr @ 1300 Block',49.346846,-123.153313
+8519,'60938','EB Chartwell Dr @ 1200 Block',49.346194,-123.147999
+8520,'60937','EB Cross Crk Rd @ Highland Dr',49.346081,-123.143949
+8522,'60933','SB Southborough Dr @ Highland Dr',49.343326,-123.138538
+8525,'60932','EB Southborough Dr @ Westcot Rd',49.341062,-123.136538
 8529,'60923','SB 11 St @ Fulton Ave',49.336132,-123.14595
 8530,'60924','SB 11 St @ Haywood Ave',49.333196,-123.145985
 8531,'60918','WB Fulton Ave @ 12 St',49.331502,-123.14947
 8535,'50043','Burrard Sta @ B:1',49.285306,-123.119982
-8536,'60942','WB Eyremount Dr @ Highland Dr (Flag)',49.35377,-123.142536
+8536,'60942','WB Eyremount Dr @ Highland Dr',49.35377,-123.142536
 8537,'50970','SB Victoria Dr @ E 22 Ave',49.249893,-123.065127
 8542,'58238','NB 116 St @ Nordel Way',49.162091,-122.90202
 8552,'58082','Braid Sta @ B:2',49.23303,-122.88308
@@ -8565,3 +8563,4 @@
 12841,'59150','SB Merivale St @ Royal Ave',49.207914,-122.906029
 12842,'60589','WB SE Marine Dr @ Prince Edward St',49.210898,-123.098986
 12843,'60551','NB Fraser St @ E 56 Ave',49.219428,-123.090815
+12844,'60217','SB Capilano Rd @ Curling Rd',49.325437,-123.12138
