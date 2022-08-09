@@ -310,8 +310,6 @@
 505,'50501','WB E Hastings St @ Clark Dr',49.281445,-123.077888
 506,'50502','WB E Hastings St @ Gln Dr',49.281111,-123.081789
 507,'50503','WB E Hastings St @ Campbell Ave',49.281155,-123.085249
-508,'50504','WB E Hastings St @ Hawks Ave',49.2812,-123.087667
-509,'50505','WB E Hastings St @ Princess Ave',49.281282,-123.092019
 510,'50506','WB E Hastings St @ Jackson Ave',49.281321,-123.093904
 511,'50507','WB E Hastings St @ Dunlevy Ave',49.281356,-123.095847
 512,'50508','WB Powell St @ Commercial Dr',49.283837,-123.070862
@@ -3064,6 +3062,7 @@
 4254,'54208','EB E 29 St @ Tempe Gln Dr',49.335508,-123.0542
 4255,'54209','EB E 29 St @ William Ave',49.335461,-123.049508
 4256,'54210','EB E 29 St @ St Christophers Rd',49.335422,-123.045671
+4257,'54211','EB E 29 St @ Fromme Rd',49.335409,-123.043403
 4260,'54214','EB Peters Rd @ Henderson Ave',49.341638,-123.026314
 4261,'54215','EB Peters Rd @ Duval Rd',49.341566,-123.022331
 4262,'54216','SB Duval Rd @ Westover Rd',49.338824,-123.022337
@@ -3445,6 +3444,7 @@
 4708,'54656','NB Royal Ave @ Argyle Ave',49.372015,-123.276448
 4709,'54657','EB Bruce St @ Royal Ave',49.3735,-123.274588
 4711,'54659','NB 11 St @ Inglewood Ave',49.334333,-123.145795
+4712,'54660','NB 11 St @ Kings Ave',49.33647,-123.145779
 4713,'54661','WB Mathers Ave @ 11 St',49.338188,-123.146257
 4714,'54662','WB Mathers Ave @ 13 St',49.338227,-123.151642
 4715,'54663','WB Mathers Ave @ 14 St',49.33818,-123.15407
@@ -6187,6 +6187,7 @@
 8520,'60937','EB Cross Crk Rd @ Highland Dr',49.346081,-123.143949
 8522,'60933','SB Southborough Dr @ Highland Dr',49.343326,-123.138538
 8525,'60932','EB Southborough Dr @ Westcot Rd',49.341062,-123.136538
+8528,'60925','WB Mathers Ave @ Braeside St',49.338146,-123.143517
 8529,'60923','SB 11 St @ Fulton Ave',49.336132,-123.14595
 8530,'60924','SB 11 St @ Haywood Ave',49.333196,-123.145985
 8531,'60918','WB Fulton Ave @ 12 St',49.331502,-123.14947
@@ -8564,3 +8565,4 @@
 12842,'60589','WB SE Marine Dr @ Prince Edward St',49.210898,-123.098986
 12843,'60551','NB Fraser St @ E 56 Ave',49.219428,-123.090815
 12844,'60217','SB Capilano Rd @ Curling Rd',49.325437,-123.12138
+12851,'60498','WB E Hastings St @ Heatley Ave',49.28126,-123.090022
