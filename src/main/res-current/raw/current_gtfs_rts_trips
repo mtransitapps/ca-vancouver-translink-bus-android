@@ -12,8 +12,8 @@
 661700,0,'Nanaimo Sta',6617
 661801,0,'Downtown',6618
 661800,0,'Fraser',6618
-661901,0,'Alma',6619
 661900,0,'Boundary',6619
+661901,0,'UBC',6619
 662001,0,'Marine Dr Sta',6620
 662000,0,'Waterfront Sta',6620
 662101,0,'Cambie',6621
@@ -206,8 +206,8 @@
 673700,0,'Sry Ctrl Sta',6737
 673800,0,'Langley Ctr',6738
 673801,0,'Sry Ctrl Sta',6738
+673900,0,'Langley Ctr',6739
 673901,0,'Sry Ctrl Sta',6739
-673900,0,'Walnut Grv',6739
 674100,0,'Bridgeport Sta',6741
 674101,0,'South Delta',6741
 674200,0,'Bridgeport Sta',6742
@@ -226,6 +226,15 @@
 674800,0,'Scott Rd Sta',6748
 674901,0,'Coq Ctrl Sta',6749
 674900,0,'Maple Rdg East',6749
+675301,0,'Special',6753
+675401,0,'AM',6754
+675400,0,'PM',6754
+675500,0,'PoCo Sta @',6755
+675501,0,'Western Dr @ Eastern Dr',6755
+675700,0,'Special',6757
+676101,0,'Special',6761
+676200,0,'AM',6762
+676201,0,'PM',6762
 677600,0,'Hastings @ Gilmore',6776
 677601,0,'Kootenay Loop',6776
 677701,0,'Bluewater',6777
@@ -308,10 +317,9 @@
 732101,0,'White Rock South',7321
 732200,0,'Capitol Hl',7322
 732201,0,'Hastings @ Gilmore',7322
-750901,0,'Coq Ctrl Sta',7509
-750900,0,'White Pine Beach',7509
 828601,0,'Cloverdale',8286
 828600,0,'Willowbrook',8286
+828901,0,'Special',8289
 829000,0,'Guildford',8290
 829001,0,'Newton Exch',8290
 974500,0,'22nd St Sta',9745
@@ -320,8 +328,6 @@
 1023200,0,'Whitby Ests',10232
 1120100,0,'29th Ave Sta',11201
 1120101,0,'UBC',11201
-1120200,0,'Alma',11202
-1120201,0,'Spanish Banks',11202
 1169200,0,'Langley Ctr',11692
 1169201,0,'Scottsdale',11692
 1169301,0,'22nd St Sta',11693
@@ -354,6 +360,8 @@
 2338401,0,'Sry Ctrl Sta',23384
 2903800,0,'Langley Ctr',29038
 2903801,0,'Newton Exch',29038
+2903901,0,'Special',29039
+2904001,0,'Special',29040
 3003601,0,'PoCo South',30036
 3003600,0,'PoCo Sta',30036
 3003701,0,'Coq Ctrl Sta',30037
@@ -366,8 +374,6 @@
 3004000,0,'Rocklin',30040
 3004101,0,'Coq Ctrl Sta',30041
 3004100,0,'Meridian',30041
-3004200,0,'Buntzen Lk',30042
-3004201,0,'Coq Ctrl Sta',30042
 3004301,0,'Lougheed Sta',30043
 3004300,0,'Moody Ctr Sta',30043
 3004400,0,'Belcarra',30044
@@ -448,7 +454,5 @@
 3930701,0,'Phibbs Exch',39307
 4085501,0,'Cr Beach',40855
 4085500,0,'White Rock Ctr',40855
-4459500,0,'Lynn Canyon Pk',44595
-4459501,0,'Lynn Vly',44595
 4484500,0,'To Bridgeport Sta',44845
 4484501,0,'To Tsawwassen Ferry',44845
