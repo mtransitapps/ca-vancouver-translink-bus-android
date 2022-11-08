@@ -1072,14 +1072,14 @@
 1503,'51491','EB W 16 Ave @ Crown St',49.257917,-123.193063
 1504,'51492','EB W 16 Ave @ Highbury St',49.257833,-123.187544
 1505,'51493','EB W King Edward Ave @ Dunbar St',49.249918,-123.184491
-1507,'51495','EB W King Edward Ave @ Blenheim St',49.249892,-123.178128
+1507,'51495','EB W King Edward Ave @ Blenheim St',49.250104,-123.178332
 1510,'51498','EB W King Edward Ave @ Puget Dr',49.247954,-123.167306
 1511,'51499','EB W King Edward Ave @ Brakenridge St',49.248553,-123.162016
 1512,'51500','EB W King Edward Ave @ Vly Dr',49.249818,-123.158783
 1513,'51501','EB W King Edward Ave @ Yew St',49.251217,-123.155187
 1514,'51502','EB W King Edward Ave @ Arbutus St',49.251448,-123.153365
 1515,'51503','EB W King Edward Ave @ Maple Cres',49.250503,-123.151127
-1516,'51504','EB W King Edward Ave @ Cypress St',49.249462,-123.148494
+1516,'51504','EB W King Edward Ave @ Cypress St',49.249446,-123.148387
 1517,'51505','EB W King Edward Ave @ Marguerite St',49.249352,-123.144254
 1518,'51506','EB W King Edward Ave @ Alexandra St',49.249302,-123.141103
 1519,'51507','EB W King Edward Ave @ Granville St',49.249267,-123.138678
@@ -1143,7 +1143,6 @@
 1593,'51581','WB W King Edward Ave @ Marguerite St',49.249651,-123.145097
 1594,'51582','WB W King Edward Ave @ Pine Cres',49.249695,-123.14792
 1595,'51583','WB W King Edward Ave @ Maple Cres',49.251211,-123.151677
-1596,'51584','WB W King Edward Ave @ Arbutus St',49.251741,-123.153726
 1597,'51585','WB W King Edward Ave @ Yew St',49.251149,-123.156163
 1598,'51586','WB W King Edward Ave @ Vly Dr',49.249723,-123.159848
 1600,'51588','WB W King Edward Ave @ Trafalgar St',49.248213,-123.165826
@@ -1457,7 +1456,7 @@
 2047,'52030','WB E 49 Ave @ Main St',49.225733,-123.102131
 2050,'52033','WB W 49 Ave @ Alberta St',49.226074,-123.113387
 2051,'61218','Langara-49th Sta @ B:2',49.226178,-123.116035
-2052,'52035','WB W 49 Ave @ Tisdall St',49.226382,-123.121438
+2052,'52035','WB W 49 Ave @ Ash St',49.226291,-123.118715
 2053,'52036','WB W 49 Ave @ Laurel St',49.226538,-123.125587
 2054,'52037','WB W 49 Ave @ Oak St',49.226658,-123.128988
 2055,'52038','WB W 49 Ave @ Montgomery St',49.226761,-123.13243
@@ -2882,7 +2881,6 @@
 4043,'54002','SB Mtn Hwy @ Lynn Vly Rd',49.337763,-123.038298
 4045,'54004','SB Mtn Hwy @ E 27 St',49.333879,-123.037969
 4046,'54005','SB Mtn Hwy @ Emery Pl',49.330105,-123.038147
-4047,'54006','SB Mtn Hwy @ Kirkstone Rd',49.326875,-123.038326
 4048,'54007','SB Mtn Hwy @ E 17 St',49.323482,-123.038465
 4049,'54008','SB Mtn Hwy @ E 15 St',49.321387,-123.038566
 4050,'54009','SB Mtn Hwy @ Arborlynn Dr',49.317811,-123.036309
@@ -4910,6 +4908,7 @@
 6535,'56474','SB Gdn City Rd @ Lansdowne Rd',49.173272,-123.124766
 6537,'56476','SB Gdn City Rd @ Ferndale Rd',49.168354,-123.124808
 6540,'56479','WB Cook Rd @ Cooney Rd',49.16655,-123.132013
+6541,'56480','WB Cook Rd @ No 3rd Rd',49.166575,-123.135287
 6543,'56482','WB Westminster Hwy @ Minoru Blvd',49.170293,-123.141096
 6544,'56483','WB Westminster Hwy @ Alderbridge Way',49.170277,-123.145078
 6545,'56484','WB Westminster Hwy @ Gilbert Rd',49.17026,-123.148472
@@ -6542,13 +6541,13 @@
 9239,'58673','NB Coast Meridian Rd @ Riverwood Gt',49.263076,-122.755979
 9240,'58806','WB Oxford Connector @ Oxford St',49.263833,-122.768302
 9241,'58787','NB Coast Meridian Rd @ Patricia Ave',49.276772,-122.756005
-9243,'58851','NB Paddock Dr @ Plateau Blvd',49.307822,-122.78704
+9243,'58851','NB Paddock Dr @ Plateau Blvd',49.307863,-122.787132
 9244,'58850','NB Paddock Dr @ 1700 Block',49.311487,-122.787478
 9245,'58846','WB Pkwy Blvd @ Plateau Blvd',49.320671,-122.79293
 9246,'58865','NB Plateau Blvd @ 3300 Block',49.319499,-122.791705
-9247,'58852','NB Plateau Blvd @ Chartwell Grn',49.317361,-122.79085
+9247,'58852','NB Plateau Blvd @ Chartwell Grn',49.317407,-122.79088
 9248,'58886','NB Plateau Blvd @ Camelback Ln',49.314113,-122.788227
-9249,'58845','SB Pkwy Blvd @ Braeside Pl',49.31619,-122.795546
+9249,'58845','SB Pkwy Blvd @ Braeside Pl',49.316176,-122.795574
 9250,'58844','SB Pkwy Blvd @ Turnberry Ln',49.313679,-122.799063
 9251,'58843','SB Pkwy Blvd @ 1600 Block',49.305415,-122.8064
 9252,'58842','SB Pkwy Blvd @ Salal Cres N',49.303747,-122.806915
@@ -8107,7 +8106,7 @@
 12103,'61210','NB 168 St @ 88 Ave',49.163302,-122.756466
 12104,'57652','SB Maple Mdws Way @ 200 St',49.220333,-122.666916
 12108,'60721','WB Dunn Ave @ Maple Mdws Way',49.218024,-122.668853
-12110,'61990','EB Kingsway @ Gladstone St',49.243338,-123.061585
+12110,'61990','EB Kingsway @ Gladstone St',49.243302,-123.061513
 12115,'59536','SB Main St @ E 28 Ave',49.245403,-123.101378
 12116,'51948','WB SW Marine Dr @ Heather St',49.207414,-123.123941
 12122,'53643','NB Nancy Greene Way @ Woodchuck Pl',49.364696,-123.102814
@@ -8594,3 +8593,4 @@
 12858,'60464','WB Burley Dr @ Kings Ave',49.336337,-123.140729
 12859,'60602','SB Richards St @ Dunsmuir St',49.28299,-123.113676
 12860,'60604','EB E Hastings St @ Dunlevy Ave',49.281162,-123.094918
+12861,'60603','SB Mtn Hwy @ Barlynn Cres',49.327809,-123.038284
