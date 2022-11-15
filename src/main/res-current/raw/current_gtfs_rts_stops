@@ -1073,6 +1073,7 @@
 1504,'51492','EB W 16 Ave @ Highbury St',49.257833,-123.187544
 1505,'51493','EB W King Edward Ave @ Dunbar St',49.249918,-123.184491
 1507,'51495','EB W King Edward Ave @ Blenheim St',49.250104,-123.178332
+1509,'51497','EB W King Edward Ave @ Quesnel Dr',49.250075,-123.172403
 1510,'51498','EB W King Edward Ave @ Puget Dr',49.247954,-123.167306
 1511,'51499','EB W King Edward Ave @ Brakenridge St',49.248553,-123.162016
 1512,'51500','EB W King Edward Ave @ Vly Dr',49.249818,-123.158783
@@ -4908,7 +4909,7 @@
 6535,'56474','SB Gdn City Rd @ Lansdowne Rd',49.173272,-123.124766
 6537,'56476','SB Gdn City Rd @ Ferndale Rd',49.168354,-123.124808
 6540,'56479','WB Cook Rd @ Cooney Rd',49.16655,-123.132013
-6541,'56480','WB Cook Rd @ No 3rd Rd',49.166575,-123.135287
+6541,'56480','WB Cook Rd @ No 3 Rd',49.166575,-123.135287
 6543,'56482','WB Westminster Hwy @ Minoru Blvd',49.170293,-123.141096
 6544,'56483','WB Westminster Hwy @ Alderbridge Way',49.170277,-123.145078
 6545,'56484','WB Westminster Hwy @ Gilbert Rd',49.17026,-123.148472
@@ -6249,7 +6250,6 @@
 8636,'60894','WB Marine Dr @ 27 St',49.336638,-123.189224
 8637,'51225','NB Commercial Dr @ E 3rd Ave',49.268043,-123.06953
 8638,'60885','WB Marine Dr @ Nelson Ave',49.370244,-123.279363
-8640,'58239','WB W Broadway @ Granville St',49.26373,-123.139771
 8642,'52005','WB Imperial St @ Mandy Ave',49.22201,-123.018511
 8643,'51474','WB W Georgia St @ Cardero St',49.290935,-123.130883
 8644,'58282','EB Edmonds St @ Canada Way',49.224262,-122.940465
@@ -7808,7 +7808,7 @@
 11681,'61612','SB Howes St @ Hwy 91A Offramp',49.187052,-122.947624
 11682,'61599','WB Sixth Ave @ Eighth St',49.211448,-122.923688
 11683,'58244','SB No 4 Rd @ Odlin Rd',49.181509,-123.11413
-11684,'61617','WB United Blvd @ King Edward St',49.230563,-122.859574
+11684,'61617','WB United Blvd @ King Edward St',49.230582,-122.860776
 11685,'61613','EB Lougheed Hwy @ Woolridge Connector',49.234857,-122.864253
 11686,'61619','EB 96 Ave @ 168 St',49.176937,-122.755946
 11687,'61620','EB 96 Ave @ 172 St',49.176935,-122.745267
