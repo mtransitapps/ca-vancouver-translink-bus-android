@@ -1143,6 +1143,8 @@
 1594,'51582','WB W King Edward Ave @ Pine Cres',49.249695,-123.14792,0
 1595,'51583','WB W King Edward Ave @ Maple Cres',49.251211,-123.151677,0
 1596,'51584','WB W King Edward Ave @ Arbutus St',49.251741,-123.153726,0
+1597,'51585','WB W King Edward Ave @ Yew St',49.251149,-123.156163,0
+1598,'51586','WB W King Edward Ave @ Vly Dr',49.249723,-123.159848,0
 1600,'51588','WB W King Edward Ave @ Trafalgar St',49.248213,-123.165826,0
 1601,'51589','WB W King Edward Ave @ Balaclava St',49.250163,-123.176132,0
 1602,'51590','WB W King Edward Ave @ Blenheim St',49.250183,-123.179077,0
@@ -2484,6 +2486,7 @@
 3475,'53437','EB Chilko Dr @ Tatla Pl',49.261664,-122.799949,0
 3476,'53438','NB Lougheed Hwy @ Como Lk Ave',49.26384,-122.798109,0
 3478,'53440','Port Coquitlam Sta @ B:2',49.261178,-122.773908,0
+3479,'53441','WB Wilson Ave @ Mary Hl Rd',49.260938,-122.779124,0
 3483,'53445','WB Kingsway Ave @ Jane St',49.265581,-122.787862,0
 3486,'53448','SB Lougheed Hwy @ Dewdney Trunk Rd',49.268103,-122.798889,0
 3487,'53449','SB Lougheed Hwy @ Como Lk Ave',49.262254,-122.798186,0
@@ -5493,7 +5496,6 @@
 7229,'57158','EB Fraser Hwy @ 256 St',49.063534,-122.51215,0
 7242,'57171','WB Fraser Hwy @ 264 St',49.05979,-122.493763,0
 7243,'57172','WB Fraser Hwy @ 256 St',49.063719,-122.512207,0
-7244,'57173','WB Fraser Hwy @ 248 St',49.069609,-122.537425,0
 7245,'57174','WB Fraser Hwy @ 244 St',49.072008,-122.548571,0
 7246,'57175','WB Fraser Hwy @ 240 St',49.074772,-122.560083,0
 7247,'57176','WB Fraser Hwy @ 232 St',49.082529,-122.581931,0
@@ -6244,7 +6246,6 @@
 8626,'58108','EB Lougheed Hwy @ Woolridge St',49.235584,-122.867597,0
 8627,'54787','SB Horseshoe Bay Dr @ Pasco Rd',49.38599,-123.25885,0
 8629,'54558','SB Nelson Ave @ 6400 Block',49.372606,-123.277801,0
-8634,'58254','EB W Georgia St @ Bidwell St',49.291212,-123.131834,0
 8635,'60886','WB Hwy One Overpass @ Marine Dr',49.369566,-123.275581,0
 8636,'60894','WB Marine Dr @ 27 St',49.336638,-123.189224,0
 8637,'51225','NB Commercial Dr @ E 3rd Ave',49.268043,-123.06953,0
@@ -7833,7 +7834,6 @@
 11719,'61655','New Westminster Sta @ B:8',49.201571,-122.91343,0
 11720,'61659','SB University Dr @ 107A Ave',49.197107,-122.851009,0
 11721,'61658','NB University Dr @ 107A Ave',49.197675,-122.85073,0
-11722,'61567','EB Fraser Hwy @ 248 St',49.069471,-122.537577,0
 11723,'54436','WB Marine Dr @ Bridgman Ave',49.323979,-123.11116,0
 11724,'61660','EB W Broadway @ Yew St',49.263761,-123.154831,0
 11725,'55425','NB King George Blvd @ 94A Ave',49.175231,-122.845616,0
@@ -8497,7 +8497,7 @@
 12717,'60482','Richmond-Brighouse Sta @ B:2',49.167576,-123.135746,0
 12720,'60492','EB W Cordova St @ Carrall St',49.282442,-123.104634,0
 12721,'60494','EB W Broadway @ Granville St',49.263505,-123.139857,0
-12722,'50532','SB Granville St @ Smithe St',49.27941,-123.12295,0
+12722,'50532','SB Granville @ Nelson St',49.27941,-123.122949,0
 12723,'60305','WB Blundell Rd @ Zylmans Way',49.155421,-123.050284,0
 12724,'58339','SB Shaughnessy St @ Patricia Ave',49.276561,-122.773723,0
 12728,'60500','EB University Dr @ Mattson Ctr',49.141737,-122.599236,0
@@ -8603,3 +8603,4 @@
 12893,'59410','NB Douglas Rd @ Laurel St',49.253952,-122.981956,0
 12894,'60642','WB Telegraph Trl @ Glover Rd',49.150251,-122.594994,0
 12895,'60643','EB Telegraph Trl @ Glover Rd',49.150244,-122.595327,0
+12896,'60645','EB W Georgia St @ Cardero St',49.290268,-123.130384,0
