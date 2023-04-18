@@ -2,8 +2,8 @@
 661201,0,'MacDonald',6612
 661300,0,'Downtown',6613
 661301,0,'Main-Marine Dr Sta',6613
+661401,0,'Blanca',6614
 661400,0,'Powell',6614
-661401,0,'UBC',6614
 661500,0,'Downtown',6615
 661501,0,'Robson',6615
 661601,0,'Davie',6616
@@ -12,8 +12,8 @@
 661700,0,'Nanaimo Sta',6617
 661800,0,'Fraser',6618
 661801,0,'Waterfront Sta',6618
+661901,0,'Alma',6619
 661900,0,'Boundary',6619
-661901,0,'UBC',6619
 662001,0,'Marine Dr Sta',6620
 662000,0,'Waterfront Sta',6620
 662101,0,'Cambie',6621
@@ -29,7 +29,7 @@
 662601,0,'Downtown',6626
 662600,0,'Knight',6626
 662700,0,'Brentwood Sta',6627
-662701,0,'UBC',6627
+662701,0,'UBC Exch',6627
 662801,0,'29th Ave Sta',6628
 662800,0,'Joyce Sta',6628
 662901,0,'Joyce Sta',6629
@@ -317,6 +317,8 @@
 732101,0,'White Rock South',7321
 732200,0,'Capitol Hl',7322
 732201,0,'Hastings @ Gilmore',7322
+750901,0,'Coq Ctrl Sta',7509
+750900,0,'White Pine Beach',7509
 828601,0,'Cloverdale',8286
 828600,0,'Willowbrook',8286
 828901,0,'Special',8289
@@ -327,7 +329,9 @@
 1023201,0,'Pk Royal',10232
 1023200,0,'Whitby Ests',10232
 1120100,0,'29th Ave Sta',11201
-1120101,0,'UBC',11201
+1120101,0,'UBC Exch',11201
+1120200,0,'Alma',11202
+1120201,0,'Spanish Banks',11202
 1169200,0,'Langley Ctr',11692
 1169201,0,'Scottsdale',11692
 1169301,0,'22nd St Sta',11693
@@ -374,6 +378,8 @@
 3004000,0,'Rocklin',30040
 3004101,0,'Coq Ctrl Sta',30041
 3004100,0,'Meridian',30041
+3004200,0,'Buntzen Lk',30042
+3004201,0,'Coq Ctrl Sta',30042
 3004301,0,'Lougheed Sta',30043
 3004300,0,'Moody Ctr Sta',30043
 3004400,0,'Belcarra',30044
@@ -392,7 +398,7 @@
 3005000,0,'Pkwy',30050
 3005101,0,'Coq Ctrl Sta',30051
 3005100,0,'Lafarge',30051
-3005501,0,'Beach',30055
+3005501,0,'English Bay',30055
 3005500,0,'Main St Sta',30055
 3058401,0,'Coq Ctrl Sta',30584
 3058400,0,'Princeton',30584
@@ -454,3 +460,5 @@
 3930701,0,'Phibbs Exch',39307
 4085501,0,'Cr Beach',40855
 4085500,0,'White Rock Ctr',40855
+4559601,0,'Marine Dr Sta',45596
+4559600,0,'River District',45596
