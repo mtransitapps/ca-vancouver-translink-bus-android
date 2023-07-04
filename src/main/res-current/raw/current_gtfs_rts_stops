@@ -1834,7 +1834,6 @@
 2608,'52583','SB Patterson Ave @ Bond St',49.235217,-123.013571,0
 2609,'52584','SB Patterson Ave @ Sardis St',49.234071,-123.013572,0
 2610,'52585','SB Patterson Ave @ Kingsway',49.232183,-123.012742,0
-2612,'52587','EB Kemp St @ Kathleen Ave',49.229939,-123.007414,0
 2613,'52588','SB Willingdon Ave @ Moscrop St',49.242583,-123.003491,0
 2614,'52589','SB Willingdon Ave @ Wildwood Cres',49.239901,-123.003479,0
 2615,'52590','SB Willingdon Ave @ Price Cres',49.238369,-123.003467,0
@@ -1891,7 +1890,6 @@
 2684,'52659','SB Gilley Ave @ Portland St',49.211757,-122.971972,0
 2685,'52660','SB Gilley Ave @ Ewart St',49.209909,-122.972637,0
 2686,'52661','SB Gilley Ave @ Carson St',49.209017,-122.973063,0
-2687,'52662','SB Gilley Ave @ Keith St',49.207307,-122.974399,0
 2688,'52663','NB Gilley Ave @ Clinton St',49.213286,-122.971866,0
 2689,'52664','EB Rumble St @ Gilley Ave',49.214658,-122.971351,0
 2690,'52665','EB Rumble St @ Hedley Ave',49.214626,-122.967022,0
@@ -1959,6 +1957,7 @@
 2771,'52744','SB Gilmore Ave @ Venables St',49.276367,-123.014344,0
 2772,'52745','SB Gilmore Ave @ William St',49.273628,-123.014338,0
 2773,'52746','SB Gilmore Ave @ Kitchener St',49.271857,-123.014355,0
+2780,'52752','SB Douglas Rd @ 2200 Block',49.264308,-122.990696,0
 2782,'52754','SB Douglas Rd @ Still Crk Ave',49.260445,-122.984344,0
 2783,'52755','SB Douglas Rd @ Norland Ave',49.258915,-122.983303,0
 2784,'52756','SB Douglas Rd @ Dominion St',49.256304,-122.982634,0
@@ -3703,7 +3702,6 @@
 5045,'54993','Surrey Ctrl Sta @ B:8',49.188961,-122.848754,0
 5046,'54994','SB University Dr @ 10100 Block',49.187503,-122.851472,0
 5047,'54995','EB Old Yale Rd @ University Dr',49.185705,-122.851078,0
-5048,'54996','King George Sta @ B:1',49.183201,-122.845706,0
 5049,'54997','SB King George Blvd @ 98 Ave',49.179601,-122.845814,0
 5050,'54998','WB 96 Ave @ King George Blvd',49.177135,-122.847002,0
 5051,'54999','WB 96 Ave @ 134 St',49.177159,-122.851794,0
@@ -6583,6 +6581,7 @@
 9356,'58777','SB Ottawa St @ Riverside Dr',49.260389,-122.746578,0
 9357,'58763','EB Riverside Dr @ Ottawa St',49.260693,-122.745572,0
 9358,'58764','EB Riverside Dr @ Nile Gt',49.261037,-122.743262,0
+9359,'58030','Bus Stop @ Pne Coliseum Loop',49.285674,-123.043632,0
 9360,'58689','NB Riverside Dr @ Riverwood Gt',49.264247,-122.742182,0
 9361,'58685','EB Riverside Dr @ Elbow Pl',49.267115,-122.73932,0
 9362,'58690','EB Riverside Dr @ Skeena St',49.267192,-122.73647,0
@@ -6937,7 +6936,6 @@
 10232,'59677','SB Patterson Ave @ Victory St',49.218127,-123.012508,0
 10233,'59679','SB Patterson Ave @ Rumble St',49.214602,-123.012488,0
 10235,'59678','NB Patterson Ave @ Rumble St',49.215171,-123.0123,0
-10239,'59690','NB Gilley Ave @ Keith St',49.20769,-122.97389,0
 10240,'59689','NB Gilley Ave @ Brynlor Dr',49.209028,-122.972921,0
 10241,'59688','NB Gilley Ave @ Ewart St',49.210454,-122.972279,0
 10242,'59682','EB Rumble St @ Sussex Ave',49.214778,-123.004608,0
@@ -7438,6 +7436,7 @@
 11102,'59740','NB Byrne Rd @ Marine Way',49.202444,-122.980895,0
 11103,'50467','Oakridge-41st Ave Sta @ B:6',49.234279,-123.115953,0
 11107,'61051','WB Grace Rd @ 10200 Block',49.188432,-122.896174,0
+11108,'61013','NB Shaughnessy St @ McAllister Ave',49.262582,-122.781227,0
 11109,'59098','SB Laity St @ Rdg Mdws Hosp',49.214859,-122.631998,0
 11110,'57661','NB Harris Rd @ 119 Ave',49.219437,-122.689445,0
 11113,'52095','WB W Broadway @ MacDonald St',49.264156,-123.167544,0
@@ -7851,6 +7850,7 @@
 11758,'61581','SB Wesbrook Mall @ Triumf Ctr',49.247646,-123.232002,0
 11759,'61579','SB Wesbrook Mall @ Birney Ave',49.254064,-123.23498,0
 11760,'61580','NB Wesbrook Mall @ Birney Ave',49.254485,-123.235195,0
+11762,'61616','29th Ave Sta @ B:5',49.244392,-123.044987,0
 11763,'61430','Bridgeport Sta @ Bay 13',49.195649,-123.125757,0
 11764,'61677','Surrey Ctrl Sta @ Bay 5A',49.189461,-122.849708,0
 11765,'61678','New Westminster Sta @',49.200807,-122.912785,0
@@ -8572,7 +8572,6 @@
 12873,'60608','WB SE Marine Dr @ Knight St',49.211235,-123.077603,0
 12874,'60616','WB University Dr @ Glover Rd',49.14335,-122.604032,0
 12875,'60617','EB University Dr @ Glover Rd',49.143091,-122.603844,0
-12876,'53031','NB Shaughnessy St @ McAllster Ave',49.263317,-122.780534,0
 12877,'60613','EB W Broadway @ Ontario St',49.262929,-123.10514,0
 12878,'60630','EB Queens Ave @ 2500 Block',49.342252,-123.182682,0
 12879,'60631','EB Queens Ave @ 2400 Block',49.342194,-123.179048,0
@@ -8601,3 +8600,4 @@
 12913,'60649','SB Brighton Ave @ Lougheed Hwy',49.252785,-122.919089,0
 12914,'60650','NB Mtn Hwy @ St Stephens Pl',49.331851,-123.037874,0
 12915,'60653','EB Sawmill Cres @ River District Xing',49.205918,-123.031907,0
+12916,'60654','King George Sta @ B:1',49.182376,-122.845722,0
