@@ -385,7 +385,7 @@
 643,'50637','EB Davie St @ Bute St',49.28144,-123.132973,0
 644,'50638','EB Davie St @ Thurlow St',49.280147,-123.13096,0
 645,'50639','SB Richards St @ W Cordova St',49.2844,-123.111471,0
-646,'50640','Dunbar Loop @ B:2',49.234593,-123.18575,0
+646,'50640','Dunbar Loop @ B:2',49.234625,-123.185758,0
 648,'50642','EB E 41 Ave @ Sophia St',49.232934,-123.098854,0
 649,'50643','EB E 41 Ave @ St George St',49.23287,-123.094138,0
 650,'50644','EB E 41 Ave @ Fraser St',49.232769,-123.090022,0
@@ -433,7 +433,7 @@
 705,'50698','SB Victoria Dr @ E 31 Ave',49.24251,-123.065373,0
 706,'50699','SB Victoria Dr @ E 33 Ave',49.239661,-123.065469,0
 707,'50700','SB Victoria Dr @ E 36 Ave',49.237254,-123.065531,0
-709,'50702','WB E 41 Ave @ Victoria Dr',49.232771,-123.06615,0
+709,'50702','WB E 41 Ave @ Victoria Dr',49.232792,-123.066082,0
 710,'50703','WB E 41 Ave @ Commercial St',49.232719,-123.069244,0
 711,'59094','WB E 41 Ave @ Fleming St',49.232762,-123.07324,0
 713,'50706','WB E 41 Ave @ Knight St',49.232845,-123.077938,0
@@ -631,7 +631,7 @@
 967,'50958','WB E Hastings St @ Windermere St',49.281219,-123.036936,0
 968,'50959','WB E Hastings St @ Renfrew St',49.281229,-123.044631,0
 969,'50960','WB E Hastings St @ Kaslo St',49.281226,-123.047423,0
-970,'50961','WB E Hastings St @ Penticton St',49.281228,-123.052402,0
+970,'50961','WB E Hastings St @ Penticton St',49.281243,-123.053371,0
 972,'50963','Commercial-Broadway Sta @ B:2',49.261929,-123.069913,0
 973,'58092','SB Commercial Dr @ E 12 Ave',49.258848,-123.069971,0
 974,'58093','SB Commercial Dr @ E 14 Ave',49.257485,-123.069954,0
@@ -1135,8 +1135,7 @@
 1597,'51585','WB W King Edward Ave @ Yew St',49.251149,-123.156163,0
 1598,'51586','WB W King Edward Ave @ Vly Dr',49.249723,-123.159848,0
 1600,'51588','WB W King Edward Ave @ Trafalgar St',49.248213,-123.165826,0
-1601,'51589','WB W King Edward Ave @ Balaclava St',49.250163,-123.176132,0
-1602,'51590','WB W King Edward Ave @ Blenheim St',49.250186,-123.179095,0
+1602,'51590','WB W King Edward Ave @ Blenheim St',49.249979,-123.178887,0
 1604,'51592','WB W 16 Ave @ Alma St',49.258091,-123.18653,0
 1605,'51593','WB W 16 Ave @ Wallace St',49.258162,-123.191535,0
 1606,'51594','WB W 16 Ave @ Camosun St',49.258254,-123.197604,0
@@ -5203,7 +5202,6 @@
 6870,'56805','NB 4th Ave @ Pleasant St',49.131313,-123.1871,0
 6871,'56806','NB Gilbert Rd @ Kimberley Dr',49.134245,-123.147695,0
 6872,'56807','NB Gilbert Rd @ 10500 Block',49.136657,-123.14771,0
-6873,'56808','NB Gilbert Rd @ Bamberton Dr',49.139133,-123.147742,0
 6874,'56809','NB Gilbert Rd @ Williams Rd',49.141262,-123.147761,0
 6875,'56810','NB Gilbert Rd @ Gilhurst Gt',49.144183,-123.147745,0
 6876,'56811','NB Gilbert Rd @ Broadmoor Blvd',49.146292,-123.147743,0
@@ -5231,8 +5229,6 @@
 6899,'56834','SB Gilbert Rd @ Francis Rd',49.148009,-123.147947,0
 6900,'56835','SB Gilbert Rd @ Broadmoor Blvd',49.145755,-123.147961,0
 6901,'56836','SB Gilbert Rd @ Woodwards Rd',49.143488,-123.147971,0
-6902,'56837','SB Gilbert Rd @ Williams Rd',49.140645,-123.147996,0
-6903,'56838','SB Gilbert Rd @ Bamberton Dr',49.138498,-123.147951,0
 6904,'56839','SB Gilbert Rd @ Kimberley Dr',49.13515,-123.147912,0
 6905,'56840','WB Steveston Hwy @ Gilbert Rd',49.133572,-123.148504,0
 6906,'56841','WB Steveston Hwy @ Constable Gt',49.133577,-123.1522,0
@@ -5808,7 +5804,7 @@
 7635,'57562','Ladner Exch @ B:3',49.087654,-123.061833,0
 7636,'57563','EB River Rd @ 72 St',49.137172,-123.024713,0
 7637,'57564','EB River Rd @ Berg Rd',49.140651,-123.011886,0
-7638,'57565','EB River Rd @ E Mill Access Rd',49.155649,-122.942699,0
+7638,'57565','EB River Rd @ E Mill Access Rd',49.155491,-122.942489,0
 7639,'57566','Scott Rd Sta @ B:8',49.204154,-122.875283,0
 7641,'57568','WB River Rd @ Huston Rd',49.145481,-123.003294,0
 7642,'57569','WB River Rd @ Ross Rd',49.140399,-123.01324,0
@@ -7127,7 +7123,6 @@
 10554,'59983','WB Fraser Hwy @ 222 St',49.091951,-122.608976,0
 10557,'59708','EB Brown Ave @ 224 St',49.221507,-122.600945,0
 10558,'52226','WB Miller Rd @ Templeton St',49.192217,-123.149384,0
-10559,'59489','EB SW Marine Dr @ Wesbrook Mall',49.244611,-123.233387,0
 10564,'58084','Braid Sta @ B:4',49.233381,-122.882642,0
 10565,'53663','WB United Blvd @ Schooner St',49.228187,-122.840174,0
 10567,'59911','EB Mary Hl Bypass @ Broadway St',49.241462,-122.76024,0
@@ -8610,7 +8605,6 @@
 12906,'60260','Phibbs Exch @ Bay 11',49.305348,-123.029938,0
 12907,'60264','Phibbs Exch @ Bay 12',49.305003,-123.030202,0
 12908,'60647','NB Lonsdale Ave @ E 17 St',49.323923,-123.072194,0
-12910,'60648','SB Dunbar St @ W 24 Ave',49.25086,-123.185314,0
 12911,'60268','NB Oak St @ W 67th Ave',49.210429,-123.130057,0
 12914,'60650','NB Mtn Hwy @ St Stephens Pl',49.331851,-123.037874,0
 12915,'60653','EB Sawmill Cres @ River District Xing',49.205918,-123.031907,0
