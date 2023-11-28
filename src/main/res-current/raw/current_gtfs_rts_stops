@@ -27,9 +27,9 @@
 56,'50056','NB MacDonald St @ W 16 Ave',49.258079,-123.168299,0
 58,'50058','NB MacDonald St @ W 12 Ave',49.261778,-123.168164,0
 60,'50060','NB MacDonald St @ W Broadway',49.264484,-123.168205,0
-61,'50061','NB MacDonald St @ W 7th Ave',49.266074,-123.168302,0
+61,'50061','NB MacDonald St @ W 7th Ave',49.266101,-123.168316,0
 63,'50063','NB MacDonald St @ W 3rd Ave',49.269101,-123.168208,0
-64,'50064','NB MacDonald St @ W 2nd Ave',49.270381,-123.168148,0
+64,'50064','NB MacDonald St @ W 2nd Ave',49.270491,-123.168159,0
 69,'50069','EB Cornwall Ave @ Yew St',49.272507,-123.154568,0
 70,'50070','EB Cornwall Ave @ Arbutus St',49.272471,-123.152226,0
 72,'50072','EB Cornwall Ave @ Cypress St',49.272368,-123.14734,0
@@ -3067,7 +3067,7 @@
 4271,'54225','SB Arborlynn Dr @ Avonlynn Cres',49.321617,-123.032876,0
 4272,'54226','SB Arborlynn Dr @ Appin Rd',49.318698,-123.034873,0
 4274,'54227','NB Arborlynn Dr @ Mtn Hwy',49.317421,-123.035639,0
-4275,'54228','NB Arborlynn Dr @ Appin Rd',49.319201,-123.03457,0
+4275,'54228','NB Arborlynn Dr @ Appin Rd',49.31959,-123.034495,0
 4276,'54229','NB Arborlynn Dr @ Avonlynn Cres',49.321842,-123.032395,0
 4277,'54230','NB Arborlynn Dr @ Hoskins Rd',49.324884,-123.029904,0
 4278,'54231','NB Hoskins Rd @ Greenock Pl',49.326628,-123.028372,0
@@ -5152,6 +5152,7 @@
 6822,'56757','EB Williams Rd @ Freshwater Dr',49.140964,-123.171279,0
 6823,'56758','NB Railway Ave @ Williams Rd',49.141765,-123.169716,0
 6824,'56759','NB Railway Ave @ Woodwards Rd',49.144203,-123.169711,0
+6825,'56760','NB Railway Ave @ Maple Rd',49.14712,-123.169713,0
 6826,'56761','NB Railway Ave @ Francis Rd',49.148833,-123.169722,0
 6827,'56762','NB Railway Ave @ 8600 Block',49.150292,-123.169723,0
 6828,'56763','NB Railway Ave @ Colbeck Rd',49.15282,-123.169713,0
