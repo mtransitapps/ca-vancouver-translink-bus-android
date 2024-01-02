@@ -154,12 +154,12 @@
 670300,0,'Scott Rd Sta',6703
 670400,0,'Langley Ctr',6704
 670401,0,'Sry Ctrl Sta',6704
-670500,0,'New West Sta',6705
+670500,0,'New West Sta / Scott Rd Sta',6705
 670501,0,'White Rock South',6705
 670601,0,'Newton Exch',6706
 670600,0,'Sry Ctrl',6706
 670701,0,'Newton Exch',6707
-670700,0,'Sry Ctrl Sta',6707
+670700,0,'Sry Ctrl',6707
 670801,0,'Newton Exch',6708
 670800,0,'Sry Ctrl Sta',6708
 670900,0,'Guildford',6709
@@ -354,7 +354,7 @@
 2066701,0,'Lougheed Sta',20667
 2263801,0,'Coq Ctrl Sta',22638
 2263800,0,'PoCo Sta',22638
-2263900,0,'Lynn Vly Ctr',22639
+2263900,0,'Lynn Vly',22639
 2263901,0,'Phibbs Exch',22639
 2338400,0,'Aldergrove',23384
 2338401,0,'Sry Ctrl Sta',23384
@@ -458,3 +458,5 @@
 4559600,0,'River District',45596
 4609901,0,'New Westminster Sta',46099
 4609900,0,'Victoria Hl',46099
+4660401,0,'Newton Exch',46604
+4660400,0,'Scott Rd Sta',46604
