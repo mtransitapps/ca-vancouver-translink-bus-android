@@ -170,7 +170,7 @@
 671201,0,'Sry Ctrl Sta',6712
 671301,0,'22nd St Sta',6713
 671300,0,'Scottsdale',6713
-671400,0,'King George Sta',6714
+671400,0,'Sry Ctrl Sta',6714
 671401,0,'White Rock Ctr',6714
 671500,0,'Bridgeport Sta',6715
 671501,0,'White Rock Ctr',6715
@@ -182,10 +182,10 @@
 671801,0,'Scottsdale',6718
 671901,0,'Newton Exch',6719
 671900,0,'Sry Ctrl Sta',6719
-672000,0,'King George Sta',6720
+672000,0,'Sry Ctrl Sta',6720
 672001,0,'White Rock Ctr',6720
-672101,0,'King George Sta',6721
 672100,0,'Langley Ctr',6721
+672101,0,'Sry Ctrl Sta',6721
 672200,0,'Brighouse Sta',6722
 672201,0,'One Rd',6722
 672300,0,'Brighouse Sta',6723
@@ -235,6 +235,8 @@
 676101,0,'Special',6761
 676200,0,'AM',6762
 676201,0,'PM',6762
+676701,0,'King George Sta',6767
+676700,0,'Sry Ctrl Sta',6767
 677600,0,'Hastings @ Gilmore',6776
 677601,0,'Kootenay Loop',6776
 677701,0,'Bluewater',6777
