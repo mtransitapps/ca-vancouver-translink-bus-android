@@ -17,12 +17,7 @@ import java.util.List;
 import java.util.Locale;
 import java.util.regex.Pattern;
 
-// http://www.translink.ca/en/Schedules-and-Maps/Developer-Resources.aspx
-// http://www.translink.ca/en/Schedules-and-Maps/Developer-Resources/GTFS-Data.aspx
-// http://mapexport.translink.bc.ca/current/google_transit.zip
-// http://ns.translink.ca/gtfs/notifications.zip
-// http://ns.translink.ca/gtfs/google_transit.zip
-// http://gtfs.translink.ca/static/latest
+// https://www.translink.ca/about-us/doing-business-with-translink/app-developer-resources
 public class VancouverTransLinkBusAgencyTools extends DefaultAgencyTools {
 
 	public static void main(@NotNull String[] args) {
