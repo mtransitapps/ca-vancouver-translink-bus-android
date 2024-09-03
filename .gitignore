@@ -109,6 +109,8 @@ fabric.properties
 .idea/migrations.xml
 # others
 .idea/other.xml
+# caches
+.idea/caches/
 
 # Keystore files
 # Uncomment the following line if you do not want to check your keystore files in.
@@ -170,8 +172,6 @@ dev.properties
 /commit_data_change.sh
 /build.gradle
 /build.sh
-/git_add_all_submodules.sh
-/git_restore_staged_all_submodules.sh
 /dependency_update_apply.sh
 /dependency_update_check.sh
 /dependency_update_commit_code_change.sh
