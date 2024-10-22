@@ -15,7 +15,7 @@
 6626,'22','Knight / Downtown','',1662212,3
 6627,'25','Brentwood Sta / UBC','',1662213,3
 6628,'26','Joyce Sta / 29th Ave Sta','',1662214,3
-6629,'27','Kootenay Loop Loop / Joyce Sta','',1662215,3
+6629,'27','Kootenay Loop / Joyce Sta','',1662215,3
 6630,'28','Phibbs Exch / Joyce Sta','',1662237,3
 6631,'29','Elliott / 29th Ave Sta','',1662238,3
 6633,'41','Joyce Sta / Crown','',1662240,3
@@ -33,7 +33,7 @@
 6648,'116','Edmonds Sta / Metrotown Sta','',1662276,3
 6649,'123','New West Sta / Brentwood Sta','',1662277,3
 6650,'129','Patterson Sta / Holdom Sta','',1662299,3
-6651,'130','Metrotown / Pender / Kootenay Loop','',1662300,3
+6651,'130','Metrotown / Pender / Kootenay','',1662300,3
 6652,'134','Lk City Sta / Brentwood Sta','',1662301,3
 6654,'136','Lougheed Sta / Brentwood Sta','',1662303,3
 6656,'143','Burquitlam Sta / SFU','',1662305,3
@@ -47,7 +47,7 @@
 6664,'156','Braid Sta / Lougheed Sta','',1662334,3
 6665,'157','Burquitlam Sta / Lougheed Sta','',1662335,3
 6666,'159','Coquitlam Central Sta / Braid Sta','',1662336,3
-6667,'160','Port Coquitlam Sta / Kootenay Loop Loop','',1662337,3
+6667,'160','Port Coquitlam Sta / Kootenay Loop','',1662337,3
 6668,'169','Coquitlam Central Sta / Braid Sta','',1662338,3
 6672,'210','Upper Lynn Vly / Burrard Sta','',1662363,3
 6673,'211','Seymour / Phibbs Exch / Burrard Sta','',1662364,3
@@ -115,7 +115,7 @@
 6754,'855','Elgin Pk S Special','',1663264,3
 6761,'880','Windsor S Specials','',1663292,3
 6762,'881','Carson Graham S Specials','',1663293,3
-6776,'131','Hastings @ Gilmore / Kootenay Loop Loop','',1663328,3
+6776,'131','Hastings @ Gilmore / Kootenay Loop','',1663328,3
 6777,'280','Bluewater / Snug Cv','',1663329,3
 6778,'281','Eagle Clf / Snug Cv','',1663330,3
 6779,'262','Lions Bay / Caulfeild','',1663331,3
