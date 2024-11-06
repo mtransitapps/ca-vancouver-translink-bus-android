@@ -55,6 +55,7 @@
                 android:value="@string/gtfs_real_time_for_poi_authority" />
         </provider>
         <!-- TRANSLINK OPEN API PROVIDER -->
+        <!--The RTTI Open API is deprecated and will no longer be available after December 2, 2024.
         <provider
             android:name="org.mtransit.android.commons.provider.CaTransLinkProvider"
             android:authorities="@string/ca_translink_authority"
@@ -68,6 +69,7 @@
                 android:name="@string/status_provider_target"
                 android:value="@string/ca_translink_status_for_poi_authority" />
         </provider>
+        -->
         <!-- TWITTER NEWS PROVIDER -->
         <provider
             android:name="org.mtransit.android.commons.provider.TwitterNewsProvider"
