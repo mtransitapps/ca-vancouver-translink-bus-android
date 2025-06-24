@@ -112,9 +112,6 @@
 6747,'620','Tsawwassen Ferry / Bridgeport Sta','',1663236,3
 6748,'640','Ladner Exch / Scott Rd Sta','',1663237,3
 6749,'701','Haney / Maple Rdg East / Coquitlam Sta','',1663238,3
-6754,'855','Elgin Pk S Special','',1663264,3
-6761,'880','Windsor S Specials','',1663292,3
-6762,'881','Carson Graham S Specials','',1663293,3
 6776,'131','Hastings @ Gilmore / Kootenay Loop','',1663328,3
 6777,'280','Bluewater / Snug Cv','',1663329,3
 6778,'281','Eagle Clf / Snug Cv','',1663330,3
@@ -158,7 +155,6 @@
 7322,'132','Capitol Hl / Hastings @ Gilmore','',1689116,3
 7509,'150','Coquitlam Central Sta / White Pine Beach','',1690983,3
 8286,'370','Cloverdale / Willowbrook','',1718136,3
-8289,'865','Samuel Robertson','',1718139,3
 8290,'341','Guildford / Newton Exch','',1718161,3
 9745,'418','Kingswood / 22nd St Sta','',1752607,3
 10232,'256','Whitby Est / Pk Royal / Spuraway','',46732178,3
@@ -180,8 +176,6 @@
 22639,'227','Lynn Vly / Phibbs Exch','',47719132,3
 23384,'503','Aldergrove / Surrey Central Sta','',47746190,3
 29038,'342','Langley Ctr / Newton Exch','',47921902,3
-29039,'864','Lord Tweedsmuir S','',47921903,3
-29040,'840','Brookswood S','',47921925,3
 30036,'170','Port Coquitlam Sta / Port Coquitlam South','',48577302,3
 30037,'171','Coquitlam Central Sta / Fremont','',48577303,3
 30038,'172','Coquitlam Central Sta / Riverside','',48577304,3
@@ -229,6 +223,7 @@
 39305,'222','Metrotown Sta / Phibbs Exch','',48848210,3
 39307,'245','Phibbs / Capilano','',48848212,3
 40855,'350','White Rock Ctr / Cr Beach','',49508572,3
+44845,'900','Bike Bus / Bike Bus','',49627705,3
 45596,'80','Marine Dr Sta / River District','',49654769,3
 46099,'102','New Westminster Sta / Victoria Hl','',49679758,3
 46604,'R6','Scott Rd','008522',49685240,3

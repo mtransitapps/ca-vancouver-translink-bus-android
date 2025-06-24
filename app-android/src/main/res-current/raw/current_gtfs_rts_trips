@@ -206,8 +206,8 @@
 673700,0,'Sry Ctrl Sta',6737
 673800,0,'Langley Ctr',6738
 673801,0,'Sry Ctrl Sta',6738
-673900,0,'Langley Ctr',6739
 673901,0,'Sry Ctrl Sta',6739
+673900,0,'Walnut Grv',6739
 674100,0,'Bridgeport Sta',6741
 674101,0,'South Delta',6741
 674200,0,'Bridgeport Sta',6742
@@ -226,11 +226,6 @@
 674800,0,'Scott Rd Sta',6748
 674901,0,'Coq Ctrl Sta',6749
 674900,0,'Maple Rdg East',6749
-675401,0,'AM',6754
-675400,0,'PM',6754
-676101,0,'Special',6761
-676200,0,'AM',6762
-676201,0,'PM',6762
 677600,0,'Hastings @ Gilmore',6776
 677601,0,'Kootenay Loop',6776
 677701,0,'Bluewater',6777
@@ -317,7 +312,6 @@
 750900,0,'White Pine Beach',7509
 828601,0,'Cloverdale',8286
 828600,0,'Willowbrook',8286
-828901,0,'Special',8289
 829000,0,'Guildford',8290
 829001,0,'Newton Exch',8290
 974500,0,'22nd St Sta',9745
@@ -360,8 +354,6 @@
 2338401,0,'Sry Ctrl Sta',23384
 2903800,0,'Langley Ctr',29038
 2903801,0,'Newton Exch',29038
-2903901,0,'Special',29039
-2904001,0,'Special',29040
 3003601,0,'PoCo South',30036
 3003600,0,'PoCo Sta',30036
 3003701,0,'Coq Ctrl Sta',30037
@@ -400,8 +392,8 @@
 3058400,0,'Princeton',30584
 3181601,0,'Ocean Pk',31816
 3181600,0,'Peace Arch Hosp',31816
+3181700,0,'361white Rock Ctr',31817
 3181701,0,'Ocean Pk',31817
-3181700,0,'White Rock Ctr',31817
 3181801,0,'Seaside',31818
 3181800,0,'White Rock Ctr',31818
 3181901,0,'Peace Arch Hosp',31819
@@ -456,6 +448,8 @@
 3930701,0,'Phibbs Exch',39307
 4085501,0,'Cr Beach',40855
 4085500,0,'White Rock Ctr',40855
+4484500,0,'Bridgeport Sta',44845
+4484501,0,'Tsawwassen Ferry',44845
 4559601,0,'Marine Dr Sta',45596
 4559600,0,'River District',45596
 4609901,0,'New Westminster Sta',46099
