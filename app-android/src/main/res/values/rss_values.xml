@@ -17,7 +17,4 @@
     <string-array name="rss_feeds_label">
         <item>buzzer.translink.ca</item>
     </string-array>
-    <string-array name="rss_feeds_colors">
-        <item>@string/rss_color</item>
-    </string-array>
 </resources>
