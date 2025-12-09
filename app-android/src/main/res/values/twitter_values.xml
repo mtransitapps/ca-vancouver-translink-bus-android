@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays">
-    <integer name="twitter_db_version">7</integer>
+    <integer name="twitter_db_version">8</integer>
     <string name="twitter_target_for_poi_authority">@string/gtfs_rts_authority</string>
     <string-array name="twitter_screen_names">
         <!-- <item>TransLink</item> --><!-- mostly service alerts -->
         <item>TransLinkNews</item>
     </string-array>
     <string-array name="twitter_screen_names_id">
-        <item>61617150</item>
+        <!-- <item>61617150</item> -->
         <item>912809850</item>
     </string-array>
     <string-array name="twitter_screen_names_noteworthy">
-        <item>@string/news_provider_noteworthy_warning</item>
+        <!-- <item>@string/news_provider_noteworthy_warning</item> -->
         <item>@string/news_provider_noteworthy_long_term</item>
     </string-array>
 </resources>
