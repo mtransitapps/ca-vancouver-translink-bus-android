@@ -12,11 +12,11 @@
 661700,0,'Nanaimo Sta',6617
 661800,0,'SE Marine Dr',6618
 661801,0,'Waterfront Sta',6618
-661900,0,'Boundary',6619
-661901,0,'UBC',6619
+661900,0,'Boundary Loop',6619
+661901,0,'UBC Exch',6619
 662001,0,'Marine Dr Sta',6620
 662000,0,'Waterfront Sta',6620
-662101,0,'Cambie',6621
+662101,0,'Marine Dr Sta',6621
 662100,0,'Olympic Vlg Sta',6621
 662201,0,'Arbutus',6622
 662200,0,'Kingsway',6622
@@ -25,7 +25,7 @@
 662400,0,'Metrotown Sta',6624
 662401,0,'Stanley Pk',6624
 662500,0,'Downtown',6625
-662501,0,'Victoria',6625
+662501,0,'SE Marine Dr',6625
 662601,0,'Downtown',6626
 662600,0,'Knight',6626
 662700,0,'Brentwood Sta',6627
@@ -38,7 +38,7 @@
 663000,0,'Phibbs Exch',6630
 663100,0,'29th Ave Sta',6631
 663101,0,'Elliott',6631
-663301,0,'Crown',6633
+663301,0,'Crown St',6633
 663300,0,'Joyce Sta',6633
 663500,0,'Dundarave',6635
 663501,0,'UBC',6635
@@ -48,8 +48,8 @@
 663700,0,'Waterfront Sta',6637
 663801,0,'UBC',6638
 663800,0,'VCC-Clark Sta',6638
-664100,0,'Boundary',6641
-664101,0,'UBC',6641
+664100,0,'Boundary Loop',6641
+664101,0,'UBC Exch',6641
 664200,0,'22nd St Sta',6642
 664201,0,'Marpole',6642
 664301,0,'22nd St Sta',6643
@@ -285,22 +285,22 @@
 682900,0,'East Cambie',6829
 683001,0,'Brighouse Sta',6830
 683000,0,'Downtown',6830
-683101,0,'Cambie',6831
 683100,0,'Downtown',6831
+683101,0,'Marine Dr Sta',6831
 683300,0,'Downtown',6833
 683301,0,'UBC',6833
 683401,0,'Downtown',6834
 683400,0,'Sry Ctrl Sta',6834
 683500,0,'Downtown',6835
-683501,0,'Victoria',6835
+683501,0,'Marine Dr Sta',6835
 683600,0,'Downtown',6836
-683601,0,'MacDonald',6836
+683601,0,'Dunbar Loop',6836
 683701,0,'Downtown',6837
 683700,0,'Lynn Vly',6837
 683801,0,'Downtown',6838
-683800,0,'SFU',6838
+683800,0,'SFU Exch',6838
 684001,0,'Downtown',6840
-684000,0,'Fraser',6840
+684000,0,'Marine Dr Sta',6840
 684100,0,'Coq Ctrl Sta',6841
 684101,0,'Downtown',6841
 684301,0,'English Bluff',6843
