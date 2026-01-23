@@ -4,6 +4,8 @@
     <string name="gtfs_real_time_for_poi_authority">@string/gtfs_rts_authority</string>
     <bool name="gtfs_real_time_stop_id_is_stop_code">false</bool>
     <string name="gtfs_real_time_agency_service_alerts_url">https://gtfsapi.translink.ca/v3/gtfsalerts?apikey=%s</string>
+    <string name="gtfs_real_time_agency_vehicle_positions_url">https://gtfsapi.translink.ca/v3/gtfsposition?apikey=%s</string>
+    <string name="gtfs_real_time_agency_trip_updates_url">https://gtfsapi.translink.ca/v3/gtfsrealtime?apikey=%s</string>
     <string name="gtfs_real_time_agency_bold_words" />
     <string-array name="gtfs_real_time_agency_extra_languages" />
     <string-array name="gtfs_real_time_agency_extra_bold_words" />
