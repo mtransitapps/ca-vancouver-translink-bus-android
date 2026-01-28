@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources">
+    <!-- The RTTI Open API is deprecated and will no longer be available after December 2, 2024 -->
     <integer name="ca_translink_db_version">1</integer>
     <string name="ca_translink_status_for_poi_authority">@string/gtfs_rts_authority</string>
 </resources>
