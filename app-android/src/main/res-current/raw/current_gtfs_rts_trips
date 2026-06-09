@@ -50,7 +50,7 @@
 663800,0,'VCC-Clark Sta',6638
 664100,0,'Boundary Loop',6641
 664101,0,'UBC Exch',6641
-664200,0,'22nd St Sta',6642
+664200,0,'22nd Sta',6642
 664201,0,'Marpole Loop',6642
 664301,0,'22nd St Sta',6643
 664300,0,'Lougheed Sta',6643
@@ -64,7 +64,7 @@
 664700,0,'New West Sta',6647
 664800,0,'Edmonds Sta',6648
 664801,0,'Metrotown Sta',6648
-664901,0,'Brentwood Sta',6649
+664901,0,'Brentwood',6649
 664900,0,'New West Sta',6649
 665000,0,'Holdom Sta',6650
 665001,0,'Patterson Sta',6650
@@ -216,9 +216,9 @@
 674300,0,'Bridgeport Sta',6743
 674400,0,'Bridgeport Sta',6744
 674401,0,'English Bluff',6744
-674501,0,'46a St @ River Rd W',6745
+674501,0,'46A St @ River Rd W',6745
 674500,0,'Ladner Exch @',6745
-674601,0,'46a St @ River Rd W',6746
+674601,0,'46A St @ River Rd W',6746
 674600,0,'Ladner Exch @',6746
 674700,0,'Bridgeport',6747
 674701,0,'Tsawwassen Ferry',6747
@@ -331,7 +331,7 @@
 1169200,0,'Langley Ctr',11692
 1169201,0,'Scottsdale',11692
 1169301,0,'22nd St Sta',11693
-1169300,0,'Carvolth Exch',11693
+1169300,0,'Carvolth',11693
 1169600,0,'Ladner Exch',11696
 1169601,0,'South Delta Exch',11696
 1294000,0,'Dewdney Trunk Rd',12940
@@ -378,7 +378,7 @@
 3004201,0,'Coq Ctrl Sta',30042
 3004301,0,'Lougheed Sta',30043
 3004300,0,'Moody Ctr Sta',30043
-3004400,0,'Belcarra…Via Anmore',30044
+3004400,0,'Belcarra',30044
 3004401,0,'Moody Ctr Sta',30044
 3004500,0,'Belcarra',30045
 3004501,0,'Moody Ctr Sta',30045
@@ -456,6 +456,8 @@
 3930701,0,'Phibbs Exch',39307
 4085501,0,'Cr Beach',40855
 4085500,0,'White Rock Ctr',40855
+4484500,0,'Bridgeport Sta',44845
+4484501,0,'Tsawwassen Ferry',44845
 4559601,0,'Marine Dr Sta',45596
 4559600,0,'River District',45596
 4609901,0,'New Westminster Sta',46099
@@ -464,3 +466,11 @@
 4660400,0,'Scott Rd Sta',46604
 4885500,0,'East Fraser Hts',48855
 4885501,0,'Guildford',48855
+5312401,0,'Cambie St @ Dunsmuir St',53124
+5312400,0,'Yaletown-Roundhouse Sta @',53124
+5312501,0,'29th Ave Sta',53125
+5312500,0,'Fifa Fan Festival',53125
+5312600,0,'Golden Ears',53126
+5312601,0,'Haney Pl',53126
+5312701,0,'Campbell Vly',53127
+5312700,0,'Langley Ctr',53127

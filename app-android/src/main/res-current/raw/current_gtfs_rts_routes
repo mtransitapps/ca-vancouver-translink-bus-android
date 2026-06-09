@@ -141,7 +141,7 @@
 6827,'412','Bridgeport Sta / Sea Isl South','',1664135,3
 6828,'413','Riverport / Steveston','',1664136,3
 6829,'416','East Cambie / Brighouse Sta','',1664137,3
-6830,'N10','Granville-Yvr','062F53',1664159,3
+6830,'N10','Granville-YVR','062F53',1664159,3
 6831,'N15','Cambie','062F53',1664160,3
 6833,'N17','West Broadway','062F53',1664162,3
 6834,'N19','Kingsway','062F53',1664163,3
@@ -229,7 +229,12 @@
 39305,'222','Willingdon Express','',48848210,3
 39307,'245','Phibbs Exch / Capilano U','',48848212,3
 40855,'350','White Rock Ctr / Cr Beach','',49508572,3
+44845,'900','Bike Bus','',49627705,3
 45596,'80','Marine Dr Express','',49654769,3
 46099,'102','New West Sta / Victoria Hl','',49679758,3
 46604,'R6','Scott Rd','008522',49685240,3
 48855,'338','East Fraser Hts / Guildford','',49746900,3
+53124,'1','Downtown South Circulator','5948AD',50514645,3
+53125,'11','29th Ave Sta / FIFA Fan Festival','5948AD',50514646,3
+53126,'736','Haney Pl / Golden Ears','',50514647,3
+53127,'566','Campbell Vly / Langley Ctr','',50514648,3
