@@ -50,7 +50,7 @@
 663800,0,'VCC-Clark Sta',6638
 664100,0,'Boundary Loop',6641
 664101,0,'UBC Exch',6641
-664200,0,'22nd Sta',6642
+664200,0,'22nd St Sta',6642
 664201,0,'Marpole Loop',6642
 664301,0,'22nd St Sta',6643
 664300,0,'Lougheed Sta',6643
@@ -64,7 +64,7 @@
 664700,0,'New West Sta',6647
 664800,0,'Edmonds Sta',6648
 664801,0,'Metrotown Sta',6648
-664901,0,'Brentwood',6649
+664901,0,'Brentwood Sta',6649
 664900,0,'New West Sta',6649
 665000,0,'Holdom Sta',6650
 665001,0,'Patterson Sta',6650
@@ -331,7 +331,7 @@
 1169200,0,'Langley Ctr',11692
 1169201,0,'Scottsdale',11692
 1169301,0,'22nd St Sta',11693
-1169300,0,'Carvolth',11693
+1169300,0,'Carvolth Exch',11693
 1169600,0,'Ladner Exch',11696
 1169601,0,'South Delta Exch',11696
 1294000,0,'Dewdney Trunk Rd',12940
@@ -393,7 +393,7 @@
 3005001,0,'Coq Ctrl Sta',30050
 3005000,0,'Pkwy',30050
 3005101,0,'Coq Ctrl Sta',30051
-3005100,0,'Lafarge',30051
+3005100,0,'Lafarge Lk',30051
 3005501,0,'English Bay',30055
 3005500,0,'Main St Sta',30055
 3058401,0,'Coq Ctrl Sta',30584
