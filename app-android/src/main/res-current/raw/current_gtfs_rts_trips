@@ -44,7 +44,7 @@
 663501,0,'UBC Exch',6635
 663600,0,'Metrotown Sta',6636
 663601,0,'UBC Exch',6636
-663701,0,'False Crk South',6637
+663701,0,'False Crk',6637
 663700,0,'Waterfront Sta',6637
 663801,0,'UBC Exch',6638
 663800,0,'VCC-Clark Sta',6638
@@ -57,15 +57,15 @@
 664400,0,'22nd St Sta',6644
 664401,0,'Annacis Isl',6644
 664501,0,'Edmonds Sta',6645
-664500,0,'New West Sta',6645
+664500,0,'New Sta',6645
 664600,0,'Lougheed Sta',6646
 664601,0,'Metrotown Sta',6646
 664701,0,'Edmonds Sta',6647
-664700,0,'New West Sta',6647
+664700,0,'New Sta',6647
 664800,0,'Edmonds Sta',6648
 664801,0,'Metrotown Sta',6648
 664901,0,'Brentwood Sta',6649
-664900,0,'New West Sta',6649
+664900,0,'New Sta',6649
 665000,0,'Holdom Sta',6650
 665001,0,'Patterson Sta',6650
 665101,0,'Metrotown Sta',6651
@@ -154,8 +154,8 @@
 670300,0,'Scott Rd Sta',6703
 670400,0,'Langley Ctr',6704
 670401,0,'Sry Ctrl Sta',6704
-670500,0,'New West Sta',6705
-670501,0,'White Rock South',6705
+670500,0,'New Sta',6705
+670501,0,'White Rock',6705
 670601,0,'Newton Exch',6706
 670600,0,'Sry Ctrl Sta',6706
 670701,0,'Newton Exch',6707
@@ -177,7 +177,7 @@
 671600,0,'Bridgeport Sta',6716
 671601,0,'White Rock Ctr',6716
 671700,0,'Bridgeport Sta',6717
-671701,0,'White Rock South',6717
+671701,0,'White Rock',6717
 671800,0,'Scott Rd Sta',6718
 671801,0,'Scottsdale',6718
 671901,0,'Newton Exch',6719
@@ -209,7 +209,7 @@
 673900,0,'Langley Ctr',6739
 673901,0,'Sry Ctrl Sta',6739
 674100,0,'Bridgeport Sta',6741
-674101,0,'South Delta',6741
+674101,0,'Delta',6741
 674200,0,'Bridgeport Sta',6742
 674201,0,'Tsawwassen Hts',6742
 674301,0,'Beach Grv',6743
@@ -225,7 +225,7 @@
 674801,0,'Ladner Exch',6748
 674800,0,'Scott Rd Sta',6748
 674901,0,'Coq Ctrl Sta',6749
-674900,0,'Maple Rdg East',6749
+674900,0,'Maple Rdg',6749
 675401,0,'AM',6754
 675400,0,'PM',6754
 676101,0,'Special',6761
@@ -241,9 +241,9 @@
 677900,0,'Lions Bay-Brunswick',6779
 678000,0,'Indian River',6780
 678001,0,'Phibbs Exch',6780
-679000,0,'New West Sta',6790
+679000,0,'New Sta',6790
 679001,0,'Quayside',6790
-679601,0,'New West Sta',6796
+679601,0,'New Sta',6796
 679600,0,'Uptown',6796
 679900,0,'Haney Pl',6799
 679901,0,'Meadowtown',6799
@@ -273,16 +273,16 @@
 682101,0,'Scottsdale',6821
 682201,0,'Ladner',6822
 682200,0,'Scottsdale',6822
+682301,0,'Ladner',6823
 682300,0,'Ladner Exch',6823
-682301,0,'Ladner South',6823
+682500,0,'Ladner',6825
 682501,0,'Ladner Exch',6825
-682500,0,'Ladner North',6825
 682700,0,'Bridgeport Sta',6827
-682701,0,'Sea Isl South',6827
+682701,0,'Sea Isl',6827
 682800,0,'Riverport',6828
 682801,0,'Steveston',6828
 682901,0,'Brighouse Sta',6829
-682900,0,'East Cambie',6829
+682900,0,'Cambie',6829
 683001,0,'Brighouse Sta',6830
 683000,0,'Downtown',6830
 683100,0,'Downtown',6831
@@ -303,14 +303,14 @@
 684000,0,'Marine Dr Sta',6840
 684100,0,'Coq Ctrl Sta',6841
 684101,0,'Downtown',6841
+684300,0,'Delta Exch',6843
 684301,0,'English Bluff',6843
-684300,0,'South Delta Exch',6843
 684401,0,'Boundary Bay',6844
-684400,0,'South Delta Exch',6844
+684400,0,'Delta Exch',6844
 722401,0,'Braid Sta',7224
 722400,0,'Haney Pl',7224
 732100,0,'Guildford',7321
-732101,0,'White Rock South',7321
+732101,0,'White Rock',7321
 732200,0,'Capitol Hl',7322
 732201,0,'Hastings @ Gilmore',7322
 750901,0,'Coq Ctrl Sta',7509
@@ -332,8 +332,8 @@
 1169201,0,'Scottsdale',11692
 1169301,0,'22nd St Sta',11693
 1169300,0,'Carvolth Exch',11693
+1169601,0,'Delta Exch',11696
 1169600,0,'Ladner Exch',11696
-1169601,0,'South Delta Exch',11696
 1294000,0,'Dewdney Trunk Rd',12940
 1294001,0,'Langley Ctr',12940
 1368400,0,'Brighouse Sta',13684
@@ -343,7 +343,7 @@
 1671800,0,'Hastings',16718
 1671801,0,'UBC Exch',16718
 1671900,0,'Lougheed Sta',16719
-1671901,0,'New West Sta',16719
+1671901,0,'New Sta',16719
 1770700,0,'Fraser Hts',17707
 1770701,0,'Sry Ctrl Sta',17707
 1821301,0,'Harbourside',18213
@@ -362,7 +362,7 @@
 2903801,0,'Newton Exch',29038
 2903901,0,'Special',29039
 2904001,0,'Special',29040
-3003601,0,'PoCo South',30036
+3003601,0,'PoCo',30036
 3003600,0,'PoCo Sta',30036
 3003701,0,'Coq Ctrl Sta',30037
 3003700,0,'Fremont',30037
@@ -464,7 +464,7 @@
 4609900,0,'Victoria Hl',46099
 4660401,0,'Newton Exch',46604
 4660400,0,'Scott Rd Sta',46604
-4885500,0,'East Fraser Hts',48855
+4885500,0,'Fraser Hts',48855
 4885501,0,'Guildford',48855
 5312401,0,'Cambie St @ Dunsmuir St',53124
 5312400,0,'Yaletown-Roundhouse Sta @',53124
