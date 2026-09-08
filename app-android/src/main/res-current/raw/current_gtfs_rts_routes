@@ -156,14 +156,12 @@
 7224,'791','Haney Pl / Braid Sta','',1688157,3
 7321,'375','152 St','',1689115,3
 7322,'132','Capitol Hl / Hastings @ Gilmore','',1689116,3
-7509,'150','Coquitlam Central Sta / White Pine Beach','',1690983,3
 8286,'370','Cloverdale / Willowbrook','',1718136,3
 8289,'865','Samuel Robertson S Special','',1718139,3
 8290,'341','Guildford / Newton Exch','',1718161,3
 9745,'418','Kingswood / 22nd St Sta','',1752607,3
 10232,'256','Whitby Est / Pk Royal / Spuraway','',46732178,3
 11201,'33','16th & 33rd Ave','',46761875,3
-11202,'42','Alma / Spanish Banks','',46761876,3
 11692,'364','64 Ave','',46765999,3
 11693,'388','88 Ave','',46766000,3
 11696,'609','South Delta Exch / Ladner Exch','',46766003,3
@@ -188,7 +186,6 @@
 30039,'173','Coquitlam Central Sta / Cedar','',48577305,3
 30040,'174','Coquitlam Central Sta / Rocklin','',48577327,3
 30041,'175','Coquitlam Central Sta / Meridian','',48577328,3
-30042,'179','Coquitlam Central Sta / Buntzen Lk','',48577329,3
 30043,'180','Moody Ctr Sta / Lougheed Sta','',48577330,3
 30044,'181','Moody Ctr Sta / Ioco','',48577331,3
 30045,'182','Moody Ctr Sta / Belcarra','',48577332,3
@@ -226,7 +223,6 @@
 37810,'R4','41st Ave','008522',48793459,3
 38311,'R2','Marine Dr','008522',48818446,3
 39304,'31','Metrotown Sta / River District','',48848209,3
-39305,'222','Willingdon Express','',48848210,3
 39307,'245','Phibbs Exch / Capilano U','',48848212,3
 40855,'350','White Rock Ctr / Cr Beach','',49508572,3
 44845,'900','Bike Bus','',49627705,3
@@ -234,5 +230,4 @@
 46099,'102','New West Sta / Victoria Hl','',49679758,3
 46604,'R6','Scott Rd','008522',49685240,3
 48855,'338','East Fraser Hts / Guildford','',49746900,3
-53126,'736','Haney Pl / Golden Ears','',50514647,3
-53127,'566','Campbell Vly / Langley Ctr','',50514648,3
+53893,'556','Langley Ctr / Gloucester','',50521588,3

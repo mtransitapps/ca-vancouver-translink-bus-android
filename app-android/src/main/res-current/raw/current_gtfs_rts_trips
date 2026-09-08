@@ -12,8 +12,8 @@
 661700,0,'Nanaimo Sta',6617
 661800,0,'SE Marine Dr',6618
 661801,0,'Waterfront Sta',6618
-661901,0,'Alma St',6619
 661900,0,'Boundary Loop',6619
+661901,0,'UBC Exch',6619
 662001,0,'Marine Dr Sta',6620
 662000,0,'Waterfront Sta',6620
 662101,0,'Marine Dr Sta',6621
@@ -40,7 +40,7 @@
 663101,0,'Elliott',6631
 663301,0,'Crown St',6633
 663300,0,'Joyce Sta',6633
-663500,0,'Downtown',6635
+663500,0,'Dundarave',6635
 663501,0,'UBC Exch',6635
 663600,0,'Metrotown Sta',6636
 663601,0,'UBC Exch',6636
@@ -141,7 +141,7 @@
 669301,0,'Horseshoe Bay',6693
 669300,0,'Vancouver',6693
 669801,0,'Brighouse Sta',6698
-669800,0,'Newton Exch',6698
+669800,0,'Newton',6698
 669900,0,'Bridgeport Sta',6699
 669901,0,'Scottsdale',6699
 670000,0,'Scott Rd Sta',6700
@@ -313,8 +313,6 @@
 732101,0,'White Rock',7321
 732200,0,'Capitol Hl',7322
 732201,0,'Hastings @ Gilmore',7322
-750901,0,'Coq Ctrl Sta',7509
-750900,0,'White Pine Beach',7509
 828601,0,'Cloverdale',8286
 828600,0,'Willowbrook',8286
 828901,0,'Special',8289
@@ -326,8 +324,6 @@
 1023200,0,'Whitby Ests',10232
 1120100,0,'29th Ave Sta',11201
 1120101,0,'UBC Exch',11201
-1120200,0,'Alma',11202
-1120201,0,'Spanish Banks',11202
 1169200,0,'Langley Ctr',11692
 1169201,0,'Scottsdale',11692
 1169301,0,'22nd St Sta',11693
@@ -374,8 +370,6 @@
 3004000,0,'Rocklin',30040
 3004101,0,'Coq Ctrl Sta',30041
 3004100,0,'Meridian',30041
-3004200,0,'Buntzen Lk',30042
-3004201,0,'Coq Ctrl Sta',30042
 3004301,0,'Lougheed Sta',30043
 3004300,0,'Moody Ctr Sta',30043
 3004400,0,'Belcarra',30044
@@ -446,12 +440,10 @@
 3780900,0,'Haney Pl',37809
 3781000,0,'Joyce Sta',37810
 3781001,0,'UBC Exch',37810
-3831100,0,'Phibbs Exch',38311
+3831100,0,'Metrotown Sta',38311
 3831101,0,'Pk Royal',38311
 3930400,0,'Metrotown Sta',39304
 3930401,0,'River District',39304
-3930501,0,'Metrotown Sta',39305
-3930500,0,'Phibbs Exch',39305
 3930700,0,'Capilano U',39307
 3930701,0,'Phibbs Exch',39307
 4085501,0,'Cr Beach',40855
@@ -466,7 +458,5 @@
 4660400,0,'Scott Rd Sta',46604
 4885500,0,'Fraser Hts',48855
 4885501,0,'Guildford',48855
-5312600,0,'Golden Ears',53126
-5312601,0,'Haney Pl',53126
-5312701,0,'Campbell Vly',53127
-5312700,0,'Langley Ctr',53127
+5389300,0,'Gloucester',53893
+5389301,0,'Langley Ctr',53893
